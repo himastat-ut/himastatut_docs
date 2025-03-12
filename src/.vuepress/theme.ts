@@ -1,7 +1,7 @@
 import { hopeTheme } from "vuepress-theme-hope";
 
-import { enNavbar, zhNavbar } from "./navbar/index.js";
-import { enSidebar, zhSidebar } from "./sidebar/index.js";
+import navbar from "./navbar.js";
+import sidebar from "./sidebar.js";
 
 export default hopeTheme({
   hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
@@ -17,43 +17,15 @@ export default hopeTheme({
 
   docsDir: "src",
 
-  locales: {
-    "/": {
-      // navbar
-      navbar: enNavbar,
+  // navbar
+  navbar,
 
-      // sidebar
-      sidebar: enSidebar,
+  // sidebar
+  sidebar,
 
-      footer: "Default footer",
+  footer: "Default footer",
 
-      displayFooter: true,
-
-      metaLocales: {
-        editLink: "Edit this page on GitHub",
-      },
-    },
-
-    /**
-     * Chinese locale config
-     */
-    "/zh/": {
-      // navbar
-      navbar: zhNavbar,
-
-      // sidebar
-      sidebar: zhSidebar,
-
-      footer: "默认页脚",
-
-      displayFooter: true,
-
-      // page meta
-      metaLocales: {
-        editLink: "在 GitHub 上编辑此页",
-      },
-    },
-  },
+  displayFooter: true,
 
   encrypt: {
     config: {
@@ -61,11 +33,11 @@ export default hopeTheme({
         hint: "Password: 1234",
         password: "1234",
       },
-      "/zh/demo/encrypt.html": {
-        hint: "Password: 1234",
-        password: "1234",
-      },
     },
+  },
+
+  metaLocales: {
+    editLink: "Edit this page on GitHub",
   },
 
   // These features are enabled for demo, only preserve features you need here
@@ -157,7 +129,7 @@ export default hopeTheme({
       prefix: "fa6-solid:",
     },
 
-    // Install @vuepress/plugin-pwa and uncomment these if you want a PWA
+    // install @vuepress/plugin-pwa and uncomment these if you want a PWA
     // pwa: {
     //   favicon: "/favicon.ico",
     //   cacheHTML: true,
