@@ -7,8 +7,8 @@ export default hopeTheme({
   hostname: "https://himastatutv2.netlify.app",
 
   author: {
-    name: "Himastatut Team | Ikimukti",
-    url: "https://himastatut.ikimukti.com",
+    name: "Firmansyah Mukti Wijaya",
+    url: "https://ikimukti.com",
   },
 
   logo: "logo.png",

@@ -25,5 +25,11 @@ export default sidebar({
   ],
   "/statgen/": [
     "",
+    {
+      text: "Details",
+      icon: "laptop-code",
+      link: "statgen/",
+      children: "structure",
+    },
   ],
 });

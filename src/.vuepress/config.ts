@@ -5,7 +5,7 @@ import theme from "./theme.js";
 export default defineUserConfig({
   base: "/",
   dest: './dist',
-  lang: "en-US",
+  lang: "id",
   title: "Himastatut Docs",
   description: "Dokumentasi Kegiatan Himpunan Mahasiswa Statistika",
 
