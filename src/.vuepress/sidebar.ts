@@ -23,4 +23,7 @@ export default sidebar({
       link: "https://ecosystem.vuejs.press/plugins/markdown/revealjs/demo.html",
     },
   ],
+  "/statgen/": [
+    "",
+  ],
 });
