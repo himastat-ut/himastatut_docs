@@ -2,7 +2,53 @@ import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
   "/",
-  "/courses/",
+  // "/courses/",
+  {
+    text: "Courses", // Main menu for courses
+    icon: "book", // Icon for the courses menu
+    children: [
+      {
+        text: "Semester 1",
+        icon: "book-open",
+        link: "/courses/semester1/README.md",
+      },
+      {
+        text: "Semester 2",
+        icon: "book-open",
+        link: "/courses/semester2/README.md",
+      },
+      {
+        text: "Semester 3",
+        icon: "book-open",
+        link: "/courses/semester3/README.md",
+      },
+      {
+        text: "Semester 4",
+        icon: "book-open",
+        link: "/courses/semester4/README.md",
+      },
+      {
+        text: "Semester 5",
+        icon: "book-open",
+        link: "/courses/semester5/README.md",
+      },
+      {
+        text: "Semester 6",
+        icon: "book-open",
+        link: "/courses/semester6/README.md",
+      },
+      {
+        text: "Semester 7",
+        icon: "book-open",
+        link: "/courses/semester7/README.md",
+      },
+      {
+        text: "Semester 8",
+        icon: "book-open",
+        link: "/courses/semester8/README.md",
+      },
+    ]
+  },
   {
     text: "Program Kerja", // Dropdown for all the program kerja
     icon: "circle-info",
@@ -46,21 +92,23 @@ export default navbar([
   },
   "/statgen/",
   {
-    text: "Guide",
-    icon: "lightbulb",
-    prefix: "/guide/",
+    text: "Arsip Program Kerja", // Archived Programs dropdown
+    icon: "boxes-packing", // Icon for archived programs
     children: [
       {
-        text: "Bar",
-        icon: "lightbulb",
-        prefix: "bar/",
-        children: ["baz", { text: "...", icon: "ellipsis", link: "#" }],
+        text: "Program A (Archived Program Example)",
+        icon: "file-archive",
+        link: "/archived/programA.md", // Link to archived program A
       },
       {
-        text: "Foo",
-        icon: "lightbulb",
-        prefix: "foo/",
-        children: ["ray", { text: "...", icon: "ellipsis", link: "#" }],
+        text: "Program B (Archived Program Example)",
+        icon: "file-archive",
+        link: "/archived/programB.md", // Link to archived program B
+      },
+      {
+        text: "Program C (Archived Program Example)",
+        icon: "file-archive",
+        link: "/archived/programC.md", // Link to archived program C
       },
     ],
   },
