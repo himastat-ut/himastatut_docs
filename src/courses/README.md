@@ -6,4 +6,8 @@ category:
   - Guide
 ---
 
+# Statistika Program - Courses
+
+Welcome to the Statistika Program's course catalog. Below you will find the courses available per semester.
+
 <Catalog />

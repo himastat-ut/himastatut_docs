@@ -32,4 +32,12 @@ export default sidebar({
       children: "structure",
     },
   ],
+  "/courses/": [
+    {
+      text: "Courses",
+      icon: "laptop-code",
+      link: "",
+      children: "structure",
+    },
+  ],
 });
