@@ -3,41 +3,80 @@ import { sidebar } from "vuepress-theme-hope";
 export default sidebar({
   "/": [
     "",
-    "portfolio",
-    {
-      text: "Demo",
-      icon: "laptop-code",
-      prefix: "demo/",
-      link: "demo/",
-      children: "structure",
-    },
-    {
-      text: "Docs",
-      icon: "book",
-      prefix: "guide/",
-      children: "structure",
-    },
-    {
-      text: "Slides",
-      icon: "person-chalkboard",
-      link: "https://ecosystem.vuejs.press/plugins/markdown/revealjs/demo.html",
-    },
   ],
   "/statgen/": [
     "",
     {
-      text: "Details",
-      icon: "laptop-code",
-      link: "statgen/",
+      text: "",
+      link: "",
       children: "structure",
     },
   ],
   "/courses/": [
+    "",
     {
-      text: "Courses",
-      icon: "laptop-code",
+      text: "",
       link: "",
       children: "structure",
+    },
+  ],
+  "/hangat/": [
+    "",
+    {
+      text: "",
+      icon: "tasks",
+      link: "",
+      children: "structure", // Automatically generates the structure
+    },
+  ],
+
+  "/radar/": [
+    "",
+    {
+      text: "",
+      icon: "tasks",
+      link: "",
+      children: "structure", // Automatically generates the structure
+    },
+  ],
+
+  "/gemas/": [
+    "",
+    {
+      text: "",
+      icon: "tasks",
+      link: "",
+      children: "structure", // Automatically generates the structure
+    },
+  ],
+
+  "/jepret/": [
+    "",
+    {
+      text: "",
+      icon: "tasks",
+      link: "",
+      children: "structure", // Automatically generates the structure
+    },
+  ],
+
+  "/link/": [
+    "",
+    {
+      text: "",
+      icon: "tasks",
+      link: "",
+      children: "structure", // Automatically generates the structure
+    },
+  ],
+
+  "/taktik/": [
+    "",
+    {
+      text: "",
+      icon: "tasks",
+      link: "",
+      children: "structure", // Automatically generates the structure
     },
   ],
 });

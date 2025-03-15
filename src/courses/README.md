@@ -3,7 +3,7 @@ title: Courses
 index: false
 icon: book
 category:
-  - Guide
+  - Courses
 ---
 
 # Statistika Program - Courses

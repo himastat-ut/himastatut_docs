@@ -13,7 +13,9 @@ export default hopeTheme({
 
   logo: "logo.png",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "himastat-ut/himastatut_docs",
+  repoLabel: "GitHub",
+  repoDisplay: true,
 
   docsDir: "src",
 
