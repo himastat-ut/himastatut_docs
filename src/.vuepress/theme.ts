@@ -153,11 +153,18 @@ export default hopeTheme({
 
     },
     comment: {
-      // provider: "Giscus",
-      // repo: "vuepress-theme-hope/giscus-discussions",
-      // repoId: "R_kgDOG_Pt2A",
-      // category: "Announcements",
-      // categoryId: "DIC_kwDOG_Pt2M4COD69",
+      provider: "Giscus", // Using Giscus for the comment system
+      repo: "himastat-ut/himastatut_docs", // Your GitHub repository under your organization
+      repoId: "R_kgDOOG3VsA", // Your repo ID (you get this from Giscus settings)
+      category: "Q&A", // The discussion category where comments will be posted
+      categoryId: "DIC_kwDOOG3VsM4CoEwL", // The category ID (you get this from Giscus settings)
+      mapping: "pathname", // Mapping option for discussions (you can also use "title", "og:title", etc.)
+      reactionsEnabled: true, // Enabling reactions for discussions
+      emitMetadata: true, // Emit discussion metadata for debugging
+      inputPosition: "top", // Place comment input box at the top of the comments section
+      theme: "preferred_color_scheme", // Use preferred color scheme (light/dark)
+      lang: "en", // Language for the Giscus comment system
+      loading: "lazy", // Lazy load comments when near the container
     },
 
     components: {
