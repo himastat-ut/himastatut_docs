@@ -111,14 +111,53 @@ export default hopeTheme({
   },
 
   plugins: {
-    // Note: This is for testing ONLY!
-    // You MUST generate and use your own comment service in production.
+    slimsearch: {
+      // Enable content indexing to improve the search quality
+      indexContent: true,
+
+      // Enable suggestions while typing in the search box
+      suggestion: true,
+
+      customFields: [
+        {
+          name: 'author',
+          getter: (page) => {
+            // Ensure this always returns a string or string[]
+            return page.frontmatter.author || 'Unknown'; // 'Unknown' will be a fallback string
+          },
+          formatter: 'Author: $content',
+        },
+      ],
+
+      // Customize the hotkeys for triggering the search box
+      hotKeys: [
+        { key: "k", ctrl: true },
+        { key: "/", ctrl: true }
+      ],
+
+      // Store the last 5 search queries for history
+      queryHistoryCount: 5,
+      resultHistoryCount: 5,
+
+      // Delay search to avoid triggering on every keystroke
+      searchDelay: 150,
+
+      // Filter pages to index
+      filter: (page) => page.frontmatter.search !== false,
+
+      // Sort search results by "max" or "total"
+      sortStrategy: "max",
+
+      // Enable hot reload for search results during development
+      hotReload: true,
+
+    },
     comment: {
-      provider: "Giscus",
-      repo: "vuepress-theme-hope/giscus-discussions",
-      repoId: "R_kgDOG_Pt2A",
-      category: "Announcements",
-      categoryId: "DIC_kwDOG_Pt2M4COD69",
+      // provider: "Giscus",
+      // repo: "vuepress-theme-hope/giscus-discussions",
+      // repoId: "R_kgDOG_Pt2A",
+      // category: "Announcements",
+      // categoryId: "DIC_kwDOG_Pt2M4COD69",
     },
 
     components: {
