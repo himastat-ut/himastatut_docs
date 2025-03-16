@@ -3,6 +3,7 @@ import coursesSidebar from "./sidebar/courses.ts";
 import statgenSidebar from "./sidebar/statgen.ts";
 import radarSidebar from "./sidebar/radar.ts";
 import jepretSidebar from "./sidebar/jepret.ts";
+import archivedSidebar from "./sidebar/archived.ts";
 
 export default sidebar({
   "/": [
@@ -10,6 +11,7 @@ export default sidebar({
   ],
   "/statgen/": statgenSidebar,
   "/courses/": coursesSidebar,
+  "/archived/": archivedSidebar,
   "/hangat/": [
     "",
     {

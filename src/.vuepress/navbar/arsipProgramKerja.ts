@@ -3,9 +3,14 @@ export default {
     icon: "boxes-packing", 
     children: [
       {
-        text: "Program A (Archived Program Example)",
+        text: "Apa itu Arsip Program Kerja?",
         icon: "file-archive",
-        link: "/archived/programA.md",
+        link: "/archived/README.md",
+      },
+      {
+        text: "Bincang Mahasiswa (BIMA)",
+        icon: "file-archive",
+        link: "/archived/bima/README.md",
       },
       {
         text: "Program B (Archived Program Example)",
