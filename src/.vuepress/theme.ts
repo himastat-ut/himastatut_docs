@@ -25,7 +25,7 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "Default footer",
+  footer: "Himpunan Mahasiswa Statistika - Statistika UT © 2024",
 
   displayFooter: true,
 
@@ -55,6 +55,7 @@ export default hopeTheme({
     imgSize: true,
     include: true,
     mark: true,
+    imgMark: true,
     plantuml: true,
     spoiler: true,
     stylize: [
@@ -214,7 +215,7 @@ export default hopeTheme({
     //         src: "/assets/icon/chrome-192.png",
     //         sizes: "192x192",
     //         type: "image/png",
-    //       },
+    //       },iconicon
     //     ],
     //     shortcuts: [
     //       {

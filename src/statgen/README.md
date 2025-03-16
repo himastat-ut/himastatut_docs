@@ -3,7 +3,7 @@ title: Statistics Generation
 index: false
 icon: calculator
 category:
-  - Guide
+  - Statgen
 ---
 
 <Catalog />

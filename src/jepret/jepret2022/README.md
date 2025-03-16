@@ -3,7 +3,7 @@ title: JEPRET (Jejak Pengurus di Feed Terupdate)
 index: false
 icon: user-check
 category:
-  - Jepret
+  - Program Kerja
 ---
 
 # JEPRET - Jejak Pengurus di Feed Terupdate
