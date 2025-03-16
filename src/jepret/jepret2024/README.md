@@ -2,7 +2,7 @@
 home: true
 icon: user-check
 category:
-  - Course
+  - Jepret
 title: Himpunan Mahasiswa Statistika 2024/2025
 heroImage: assets/image/logo.png
 bgImage: assets/image/bg/bg6-light.jpg

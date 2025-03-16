@@ -29,5 +29,4 @@ JEPRET (Jejak Pengurus di Feed Terupdate) focuses on acknowledging the efforts o
 - **Introduction**: Presenting the new board members and their roles to keep the community updated.
 - **Community Engagement**: Strengthening the bond between the old and new board members through transparent communication.
 
-## Program Structure
 <Catalog />

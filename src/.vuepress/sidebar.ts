@@ -54,7 +54,7 @@ export default sidebar({
     "",
     {
       text:"",
-      link:"",
+      // link:"",
       children: [
         {
           text: "Himastat UT 2024/2025",
@@ -65,7 +65,7 @@ export default sidebar({
             {
               text: "Detail Pengurus 2024/2025",
               icon: "fa6-solid:users",
-              link: "jepret2024/"
+              link: "jepret2024/",
             },
             {
               text: "Susi Indah Situmorang",
@@ -75,22 +75,22 @@ export default sidebar({
             {
               text: "Zakiyyah",
               icon: "fa6-solid:user-tie",
-              link: "jepret2024/#"
+              link: "jepret2024/portofolio/043164149.md"
             },
             {
               text: "Elis Lumban Gaol",
               icon: "fa6-solid:file",
-              link: "jepret2024/#"
+              link: "jepret2024/portofolio/043164149.md"
             },
             {
               text: "Firmansyah Mukti Wijaya",
               icon: "fa6-solid:desktop",
-              link: "jepret2024/#"
+              link: "jepret2024/portofolio/043164149.md"
             },
             {
               text: "Nazma Fahira",
               icon: "fa6-solid:desktop",
-              link: "#"
+              link: "jepret2024/portofolio/043164149.md"
             }
           ]
         },
