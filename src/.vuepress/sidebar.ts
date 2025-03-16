@@ -26,7 +26,7 @@ export default sidebar({
       text: "",
       icon: "tasks",
       link: "",
-      children: "structure", // Automatically generates the structure
+      children: "structure",
     },
   ],
 
@@ -36,7 +36,7 @@ export default sidebar({
       text: "",
       icon: "tasks",
       link: "",
-      children: "structure", // Automatically generates the structure
+      children: "structure",
     },
   ],
 
@@ -46,7 +46,7 @@ export default sidebar({
       text: "",
       icon: "tasks",
       link: "",
-      children: "structure", // Automatically generates the structure
+      children: "structure",
     },
   ],
 
@@ -70,27 +70,27 @@ export default sidebar({
             {
               text: "Susi Indah Situmorang",
               icon: "fa6-solid:user-tie",
-              link: "jepret2024/portofolio/043164149.md"
+              link: "jepret2024/portofolio/MHS043164149.md"
             },
             {
               text: "Zakiyyah",
               icon: "fa6-solid:user-tie",
-              link: "jepret2024/portofolio/043164149.md"
+              link: "jepret2024/portofolio/MHS044845085.md"
             },
             {
               text: "Elis Lumban Gaol",
               icon: "fa6-solid:file",
-              link: "jepret2024/portofolio/043164149.md"
+              link: "jepret2024/portofolio/MHS044875482.md"
             },
             {
               text: "Firmansyah Mukti Wijaya",
               icon: "fa6-solid:desktop",
-              link: "jepret2024/portofolio/043164149.md"
+              link: "jepret2024/portofolio//MHS050900568.md"
             },
             {
               text: "Nazma Fahira",
               icon: "fa6-solid:desktop",
-              link: "jepret2024/portofolio/043164149.md"
+              link: "jepret2024/portofolio/"
             }
           ]
         },
@@ -170,7 +170,7 @@ export default sidebar({
       text: "",
       icon: "tasks",
       link: "",
-      children: "structure", // Automatically generates the structure
+      children: "structure",
     },
   ],
 
@@ -180,7 +180,7 @@ export default sidebar({
       text: "",
       icon: "tasks",
       link: "",
-      children: "structure", // Automatically generates the structure
+      children: "structure",
     },
   ],
 });
