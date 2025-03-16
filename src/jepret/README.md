@@ -8,25 +8,25 @@ category:
 
 # JEPRET - Jejak Pengurus di Feed Terupdate
 
-Welcome to the **JEPRET** program! This program is designed to give appreciation to the previous board members for their contributions during their tenure and provide transparency regarding the current board members of HIMASTAT. Below you will find the details and structure of the program.
+Selamat datang di program **JEPRET**! Program ini dirancang untuk memberikan apresiasi kepada pengurus terdahulu atas kontribusinya selama masa jabatannya serta menyediakan transparansi mengenai pengurus yang sedang menjabat di HIMASTAT. Di bawah ini Anda akan menemukan detail dan struktur program ini.
 
-## Program Overview
+## Gambaran Program
 
-JEPRET (Jejak Pengurus di Feed Terupdate) focuses on acknowledging the efforts of past board members and ensuring that information about the new board members is readily available for the HIMASTAT community. Through this program, we aim to showcase the leadership and contributions made by previous and current members, further enhancing transparency and trust within the organization.
+JEPRET (Jejak Pengurus di Feed Terupdate) berfokus pada pengakuan atas upaya pengurus terdahulu dan memastikan bahwa informasi tentang pengurus yang baru terpilih tersedia dengan mudah untuk komunitas HIMASTAT. Melalui program ini, kami bertujuan untuk menampilkan kepemimpinan dan kontribusi yang telah dibuat oleh pengurus sebelumnya dan yang sedang menjabat, serta meningkatkan transparansi dan kepercayaan dalam organisasi.
 
-## Objectives
-- Give recognition to the outgoing board members for their valuable contributions.
-- Inform the HIMASTAT community about the newly elected board members.
-- Ensure transparency and accountability by publishing the board members' details in an updated and easily accessible manner.
+## Tujuan
+- Memberikan penghargaan kepada pengurus yang akan mengakhiri masa jabatannya atas kontribusinya yang berharga.
+- Memberikan informasi kepada komunitas HIMASTAT mengenai pengurus baru yang terpilih.
+- Menjamin transparansi dan akuntabilitas dengan mempublikasikan detail pengurus dalam bentuk yang terupdate dan mudah diakses.
 
-## Program Details
-- **Board Recognition**: Public acknowledgment of outgoing board members' hard work and contributions.
-- **New Board Introduction**: Providing detailed information about the new board members to HIMASTAT members.
-- **Transparency and Communication**: Ensuring that the organization stays informed about the leadership structure and ongoing developments.
+## Rincian Program
+- **Penghargaan Pengurus**: Pengakuan publik terhadap kerja keras dan kontribusi pengurus yang akan mengakhiri masa jabatannya.
+- **Perkenalan Pengurus Baru**: Menyediakan informasi rinci tentang pengurus baru untuk anggota HIMASTAT.
+- **Transparansi dan Komunikasi**: Memastikan bahwa organisasi selalu terinformasi mengenai struktur kepemimpinan dan perkembangan yang sedang berlangsung.
 
-### Features of the Program
-- **Appreciation**: Celebrating the work done by previous board members and thanking them for their contributions.
-- **Introduction**: Presenting the new board members and their roles to keep the community updated.
-- **Community Engagement**: Strengthening the bond between the old and new board members through transparent communication.
+### Fitur Program
+- **Apresiasi**: Merayakan kerja yang telah dilakukan oleh pengurus sebelumnya dan mengucapkan terima kasih atas kontribusinya.
+- **Perkenalan**: Memperkenalkan pengurus baru dan peran mereka untuk memperbarui komunitas.
+- **Keterlibatan Komunitas**: Mempererat hubungan antara pengurus lama dan baru melalui komunikasi yang transparan.
 
 <Catalog />

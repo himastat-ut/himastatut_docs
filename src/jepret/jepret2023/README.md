@@ -24,7 +24,7 @@ actions:
 
 highlights:
   - header: Exploring the World of Statistika with Himpunan Mahasiswa Statistika UT
-    description: Join the vibrant community of statisticians and data enthusiasts at Himpunan Mahasiswa Statistika UT. We are dedicated to fostering knowledge, collaboration, and growth in the field of statistics.
+    description: Bergabunglah dengan komunitas dinamis statistisi dan penggemar data di Himpunan Mahasiswa Statistika UT. Kami berkomitmen untuk meningkatkan pengetahuan, kolaborasi, dan pertumbuhan di bidang statistika.
     image: /assets/image/hero-statistics.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
@@ -34,32 +34,32 @@ highlights:
     features:
       - title: Instagram
         icon: fa-brands:instagram
-        details: Follow us on Instagram for the latest updates, events, and community activities.
+        details: Ikuti kami di Instagram untuk pembaruan terbaru, acara, dan kegiatan komunitas.
         link: https://instagram.com/himastat_ut
 
       - title: LinkedIn
         icon: fa-brands:linkedin
-        details: Connect with us on LinkedIn to expand your professional network in the field of statistics.
+        details: Hubungkan dengan kami di LinkedIn untuk memperluas jaringan profesional Anda di bidang statistika.
         link: https://www.linkedin.com/company/himastat-ut
 
       - title: YouTube
         icon: fa-brands:youtube
-        details: Check out our YouTube channel for webinars, tutorials, and other educational content.
+        details: Kunjungi saluran YouTube kami untuk webinar, tutorial, dan konten edukasi lainnya.
         link: https://www.youtube.com/@himastat_ut
 
       - title: Discord
         icon: fa-brands:discord
-        details: Be part of our community on Discord for discussions, study groups, and event coordination.
+        details: Menjadi bagian dari komunitas kami di Discord untuk diskusi, kelompok belajar, dan koordinasi acara.
         link: https://discord.com/invite/himastat_ut
 
       - title: WhatsApp
         icon: fa-brands:whatsapp
-        details: Join our WhatsApp group for direct communication and updates on Himpunan Mahasiswa Statistika activities.
+        details: Bergabunglah dengan grup WhatsApp kami untuk komunikasi langsung dan pembaruan tentang kegiatan Himpunan Mahasiswa Statistika.
         link: https://chat.whatsapp.com/HLT9mlwDF6987pavHdCBXK
 
       - title: Website
         icon: globe
-        details: Visit our official website for more information about our programs, events, and updates.
+        details: Kunjungi situs web resmi kami untuk informasi lebih lanjut tentang program, acara, dan pembaruan kami.
         link: https://statistika-fst.ut.ac.id/
 
   - header: Struktur Kepengurusan Himpunan Mahasiswa Statistika 2023/2024
@@ -102,3 +102,4 @@ highlights:
         icon: fa6-solid:users
         details: Rahmat Hidayat - Bertanggung jawab dalam mengelola proses perekrutan, membentuk tim untuk mendukung berbagai program HIMA, serta menjaga hubungan yang baik antar anggota himpunan.
         link: "portofolio/MHS048409024.md"
+---

@@ -3,32 +3,66 @@ title: RADAR (Rapat Asyik Diskusi dan Analisis Review)
 index: false
 icon: clipboard-list
 category:
-  - Program Kerja
+  - RADAR
 ---
 
 # RADAR - Rapat Asyik Diskusi dan Analisis Review
 
-Welcome to the **RADAR** program! This program is focused on evaluating the performance of the board members and discussing strategies to improve the effectiveness of the organization. It is held once a month to review ongoing activities and ensure everything is running smoothly. Below you will find the details and structure of the program.
+Selamat datang di program **RADAR**! Program ini fokus pada evaluasi kinerja anggota pengurus dan membahas strategi untuk meningkatkan efektivitas organisasi. Program ini diselenggarakan setiap bulan untuk meninjau kegiatan yang sedang berlangsung dan memastikan semuanya berjalan dengan baik. Berikut adalah detail dan struktur program ini.
 
-## Program Overview
+## Gambaran Program
 
-RADAR (Rapat Asyik Diskusi dan Analisis Review) is a monthly program designed to evaluate the activities of the HIMASTAT organization. It serves as a space for discussion, analysis, and strategizing ways to improve the organization’s impact and overall functioning. By bringing together board members and active participants, RADAR ensures that HIMASTAT stays on track and continues to fulfill its mission effectively.
+RADAR (Rapat Asyik Diskusi dan Analisis Review) adalah program bulanan yang dirancang untuk mengevaluasi kegiatan organisasi HIMASTAT. Program ini menjadi wadah untuk diskusi, analisis, dan merumuskan strategi guna meningkatkan dampak dan kinerja keseluruhan organisasi. Dengan melibatkan pengurus dan peserta aktif, RADAR memastikan HIMASTAT tetap berada di jalur yang benar dan terus menjalankan misinya dengan efektif.
 
-## Objectives
-- Provide a platform for the board to review their performance and ongoing activities.
-- Discuss strategies for improving the effectiveness of the HIMASTAT organization.
-- Encourage feedback from all members to create a more efficient and transparent organization.
+## Tujuan
+- Menyediakan platform bagi pengurus untuk meninjau kinerja dan kegiatan yang sedang berjalan.
+- Membahas strategi untuk meningkatkan efektivitas organisasi HIMASTAT.
+- Mendorong umpan balik dari semua anggota untuk menciptakan organisasi yang lebih efisien dan transparan.
 
-## Program Details
-- **Frequency**: Held once a month for board members and active participants.
-- **Agenda**: Review of ongoing activities, performance analysis, and brainstorming for improvements.
-- **Participants**: Board members, organization leaders, and active HIMASTAT members.
-- **Outcome**: Clear action points and strategies for enhancing the organization's effectiveness.
+## Detail Program
+- **Frekuensi**: Diselenggarakan setiap bulan untuk pengurus dan peserta aktif.
+- **Agenda**: Tinjauan kegiatan yang sedang berlangsung, analisis kinerja, dan brainstorming untuk perbaikan.
+- **Peserta**: Pengurus, pemimpin organisasi, dan anggota HIMASTAT yang aktif.
+- **Hasil**: Poin aksi yang jelas dan strategi untuk meningkatkan efektivitas organisasi.
 
-### Features of the Program
-- **Evaluation**: Monthly evaluation of the HIMASTAT organization's performance.
-- **Strategy Development**: Collaborative discussions aimed at improving organizational strategies.
-- **Feedback**: Encouraging open feedback from members to ensure continuous growth.
+### Fitur-Fitur Program
+- **Evaluasi**: Evaluasi bulanan terhadap kinerja organisasi HIMASTAT.
+- **Pengembangan Strategi**: Diskusi kolaboratif yang bertujuan untuk memperbaiki strategi organisasi.
+- **Umpan Balik**: Mendorong umpan balik terbuka dari anggota untuk memastikan pertumbuhan yang berkelanjutan.
 
-## Program Structure
+## Struktur Program
 <Catalog />
+
+### Tabulasi Program
+
+::: tabs
+@tab Evaluasi
+- Evaluasi bulanan terhadap kinerja organisasi HIMASTAT untuk memastikan segala aktivitas berjalan sesuai dengan tujuan.
+
+@tab Pengembangan Strategi
+- Diskusi mengenai strategi perbaikan dan peningkatan efektivitas organisasi melalui partisipasi anggota pengurus.
+
+@tab Umpan Balik
+- Mengumpulkan umpan balik dari anggota untuk memperbaiki kelemahan dan meningkatkan transparansi serta efisiensi organisasi.
+:::
+
+## Informasi Penting
+
+::: tip
+Jangan lewatkan rapat bulanan RADAR untuk memberi masukan yang dapat membantu meningkatkan kinerja HIMASTAT.
+:::
+
+::: warning
+Pastikan untuk mempersiapkan agenda dengan baik sebelum rapat untuk diskusi yang lebih efisien.
+:::
+
+## Visualisasi Program
+
+Untuk memberikan gambaran lebih jelas tentang alur kegiatan dalam program RADAR, berikut adalah diagram alur:
+
+```mermaid
+graph LR
+    A[Evaluasi Kegiatan] --> B{Diskusi Strategi}
+    A --> C{Umpan Balik}
+    B --> D[Perbaikan Strategi]
+    C --> E[Perbaikan Kinerja]

@@ -92,10 +92,10 @@ export default hopeTheme({
     // echarts: true,
 
     // install flowchart.ts before enabling it
-    // flowchart: true,
+    flowchart: true,
 
     // install mermaid before enabling it
-    // mermaid: true,
+    mermaid: true,
 
     // playground: {
     //   presets: ["ts", "vue"],

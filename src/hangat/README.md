@@ -8,26 +8,64 @@ category:
 
 # HANGAT - Hubungan Aktif dan Komunikasi Terpadu
 
-Welcome to the **HANGAT** program! This program focuses on creating active and integrated communication channels for Statistika students. Below you will find the details and the structure of this program.
+Selamat datang di program **HANGAT**! Program ini fokus pada pembentukan saluran komunikasi aktif dan terintegrasi untuk mahasiswa Statistika. Di bawah ini Anda akan menemukan detail dan struktur program ini.
 
-## Program Overview
+## Gambaran Program
 
-HANGAT (Hubungan Aktif dan Komunikasi Terpadu) forms WhatsApp groups for Statistika students organized by region, supporting official activities. Out of 50 groups, 39 are allocated for students in specific regions, while the remaining groups are dedicated to official Statistika events or activities at Universitas Terbuka.
+HANGAT (Hubungan Aktif dan Komunikasi Terpadu) membentuk grup WhatsApp untuk mahasiswa Statistika yang diorganisasi berdasarkan wilayah, mendukung kegiatan resmi. Dari 50 grup, 39 grup diperuntukkan bagi mahasiswa di wilayah tertentu, sedangkan grup sisanya didedikasikan untuk kegiatan resmi Statistika atau kegiatan di Universitas Terbuka.
 
-## Objectives
-- Foster communication among Statistika students across different regions.
-- Support official events and activities through dedicated communication channels.
-- Build a sense of community and collaboration among students.
+## Tujuan
+- Meningkatkan komunikasi antar mahasiswa Statistika di berbagai wilayah.
+- Mendukung kegiatan dan acara resmi melalui saluran komunikasi yang didedikasikan.
+- Membangun rasa kebersamaan dan kolaborasi di antara mahasiswa.
 
-## Program Details
-- **Total WhatsApp Groups**: 50
-- **Regional Groups**: 39 groups assigned to specific regions.
-- **Official Event Groups**: 11 groups for official Statistika events.
+## Detail Program
+- **Jumlah Grup WhatsApp**: 50
+- **Grup Wilayah**: 39 grup yang dialokasikan untuk wilayah tertentu.
+- **Grup Kegiatan Resmi**: 11 grup untuk acara resmi Statistika.
 
-### Features of the Program
-- **Active Communication**: Regular updates and communication within each group.
-- **Official Support**: Groups for official event coordination, announcements, and feedback.
-- **Regional Connectivity**: Connecting students from the same region to collaborate on academic and extracurricular activities.
+### Fitur-Fitur Program
+- **Komunikasi Aktif**: Pembaruan rutin dan komunikasi dalam setiap grup.
+- **Dukungan Resmi**: Grup untuk koordinasi acara resmi, pengumuman, dan umpan balik.
+- **Konektivitas Wilayah**: Menghubungkan mahasiswa dari wilayah yang sama untuk berkolaborasi dalam kegiatan akademik dan ekstrakurikuler.
 
-## Program Structure
+## Struktur Program
 <Catalog />
+
+### Tabulasi Program
+
+::: tabs
+@tab Grup Daerah
+- 39 grup untuk mahasiswa di daerah tertentu, memudahkan komunikasi antar mahasiswa di wilayah yang sama.
+
+@tab Grup Kegiatan Resmi
+- 11 grup untuk kegiatan resmi yang mendukung acara atau kegiatan Statistika Universitas Terbuka.
+
+@tab Fitur Program
+- Komunikasi aktif dan terintegrasi dalam setiap grup.
+- Dukungan resmi untuk koordinasi acara, pengumuman, dan umpan balik.
+- Konektivitas regional untuk kolaborasi antar mahasiswa dalam kegiatan akademik maupun ekstrakurikuler.
+:::
+
+## Informasi Penting
+
+::: tip
+Jangan lupa untuk bergabung dengan grup WhatsApp sesuai wilayah kalian untuk mendapatkan pembaruan informasi yang relevan.
+:::
+
+::: warning
+Patuhi aturan grup WhatsApp agar komunikasi tetap efektif dan terorganisir.
+:::
+
+## Visualisasi Program
+
+Untuk memberikan gambaran lebih jelas tentang struktur grup dan hubungan antar wilayah dan kegiatan, berikut adalah diagram alur program HANGAT:
+
+```mermaid
+graph LR
+    A[Grup WhatsApp] --> B{Grup Daerah}
+    A --> C{Grup Kegiatan}
+    B --> D[Wilayah 1]
+    B --> E[Wilayah 2]
+    C --> F[Event A]
+    C --> G[Event B]
