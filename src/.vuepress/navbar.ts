@@ -12,4 +12,9 @@ export default navbar([
   "/statgen/",
   arsipProgramKerjaNavbar,
   pengurusHimpunanNavbar,
+  {
+    text: "How To ?", 
+    icon: "file-circle-question", 
+    link: "/howto/"
+  }
 ]);
