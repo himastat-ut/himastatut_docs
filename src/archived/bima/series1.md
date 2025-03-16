@@ -76,6 +76,13 @@ Kegiatan **Bincang Mahasiswa (BIMA) Statistika** dengan tema **"How to Enhancing
 
 **Panitia BIMA** mengucapkan terima kasih kepada seluruh peserta yang telah berpartisipasi aktif. Kami berharap kegiatan serupa dapat terus dilakukan di masa mendatang untuk terus meningkatkan kompetensi dan pengetahuan mahasiswa di bidang statistika.
 
+### Sumber Informasi
+
+Informasi terkait kegiatan **Bincang Mahasiswa (BIMA) Statistika** dapat ditemukan di situs resmi Himpunan Mahasiswa Statistika UT:
+
+> "Kegiatan Bincang Mahasiswa (BIMA) Statistika ini berlangsung pada Sabtu, 1 Juni 2024, dengan topik **"How to Enhancing Your Statistical Skills"** dan diadakan secara daring melalui platform Zoom. Acara ini dibuka oleh Ibu Dr. Dewi Juliah Ratnaningsih, S.Si., M.Si., Wakil Dekan 3 FST UT."  
+> (Sumber: [Statistika FST UT](https://statistika-fst.ut.ac.id/berita/bincang-mahasiswa-bima-statistika-series-1-how-to-enhance-your-statistical-skills/))
+
 ---
 
 > "Tidak ada kata terlambat untuk belajar. Mari cerdas bersama HIMASTAT!"
