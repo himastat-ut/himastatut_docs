@@ -1,5 +1,5 @@
 ---
-title: Metode Statistik 1 Pertemuan 2
+title: SATS4121 - Pertemuan 2
 date: 2023-09-16
 icon: chart-bar
 author: HIMASTAT UT
