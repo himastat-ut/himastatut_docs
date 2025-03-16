@@ -37,7 +37,7 @@ highlights:
         details: Program evaluasi pengurus dilaksanakan 1x sebulan untuk meninjau kinerja dan perkembangan kegiatan organisasi, serta mendiskusikan strategi peningkatan efektivitas himpunan.
         link: https://example.com/radar
 
-      - title: STATGEN (Statistics Generation)
+      - title: STATGEN (Statistics Genius)
         icon: chart-bar
         details: Program ini memberikan bimbingan statistik pada 2-4 mata kuliah per semester, membantu mahasiswa memahami materi dengan lebih mendalam dan mempersiapkan diri menghadapi ujian serta tugas akademik.
         link: https://example.com/statgen

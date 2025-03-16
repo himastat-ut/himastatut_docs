@@ -4,30 +4,58 @@ index: false
 icon: trophy
 category:
   - Program Kerja
+date: 2025-03-16
+author: HIMASTAT
+pageInfo:
+  - author
+  - date
+  - category
+  - tag
+  - readingTime
 ---
 
 # GEMAS - Gerakan Mempersembahkan Inspirasi dan Apresiasi
 
-Welcome to the **GEMAS** program! This program aims to give recognition and appreciation to students who have achieved remarkable accomplishments, as well as to alumni who have successfully completed their studies. Below you will find the details and structure of the program.
+Selamat datang di program **GEMAS**! Program ini bertujuan untuk memberikan penghargaan dan apresiasi kepada mahasiswa yang telah meraih prestasi luar biasa, serta alumni yang telah berhasil menyelesaikan studi mereka. Di bawah ini, Anda akan menemukan rincian dan struktur program ini.
 
-## Program Overview
+## Gambaran Umum Program
 
-GEMAS (Gerakan Mempersembahkan Inspirasi dan Apresiasi) is a program that recognizes outstanding students and alumni for their achievements. The program aims to strengthen the bond between the Statistika student organization (HIMASTAT), current students, and alumni. This initiative not only celebrates academic and extracurricular achievements but also inspires others to strive for excellence.
+**GEMAS** (Gerakan Mempersembahkan Inspirasi dan Apresiasi) adalah program yang mengakui prestasi luar biasa mahasiswa dan alumni. Program ini bertujuan untuk memperkuat ikatan antara organisasi mahasiswa Statistika (HIMASTAT), mahasiswa aktif, dan alumni. Inisiatif ini tidak hanya merayakan pencapaian akademik dan ekstrakurikuler, tetapi juga menginspirasi orang lain untuk berusaha mencapai keunggulan.
 
-## Objectives
-- Provide recognition and awards to students who have excelled in academic or extracurricular activities.
-- Celebrate alumni who have completed their studies and contributed to the field.
-- Foster a sense of unity between current students, alumni, and the HIMASTAT organization.
+## Tujuan
+- Memberikan pengakuan dan penghargaan kepada mahasiswa yang berprestasi dalam bidang akademik atau kegiatan ekstrakurikuler.
+- Merayakan alumni yang telah menyelesaikan studi dan memberikan kontribusi bagi bidang mereka.
+- Membangun rasa kebersamaan antara mahasiswa aktif, alumni, dan organisasi HIMASTAT.
 
-## Program Details
-- **Target Group**: Students and alumni of the Statistika program at Universitas Terbuka.
-- **Recognition**: Awards for academic excellence, contributions to the community, and leadership roles.
-- **Event**: Organized as an annual event to showcase the achievements of students and alumni.
+## Rincian Program
+- **Sasaran**: Mahasiswa dan alumni program Statistika di Universitas Terbuka.
+- **Penghargaan**: Penghargaan untuk prestasi akademik, kontribusi pada masyarakat, dan peran kepemimpinan.
+- **Acara**: Diselenggarakan sebagai acara tahunan untuk memamerkan pencapaian mahasiswa dan alumni.
 
-### Features of the Program
-- **Inspiration**: Recognizing achievements to motivate other students to excel.
-- **Appreciation**: Acknowledging the hard work and dedication of students and alumni.
-- **Networking**: Strengthening relationships between current students and alumni through shared recognition.
+### Fitur Program
+- **Inspirasi**: Mengakui prestasi untuk memotivasi mahasiswa lain agar berprestasi.
+- **Apresiasi**: Menghargai kerja keras dan dedikasi mahasiswa serta alumni.
+- **Jejaring**: Memperkuat hubungan antara mahasiswa aktif dan alumni melalui pengakuan bersama.
 
-## Program Structure
-<Catalog />
+## Struktur Program
+### 1. **Pencapaian Mahasiswa**
+- Penghargaan untuk mahasiswa dengan prestasi akademik terbaik, kontribusi di masyarakat, serta inisiatif dalam kepemimpinan.
+  
+### 2. **Penghargaan untuk Alumni**
+- Alumni yang telah memberikan kontribusi signifikan di dunia profesional dan komunitas akademik akan diakui.
+
+### 3. **Sesi Networking dan Kolaborasi**
+- Mahasiswa dan alumni akan diberi kesempatan untuk berjejaring dan berbagi pengalaman melalui sesi networking.
+  
+## Interaktif dan Visual
+> **Infografis**: Program ini menggabungkan berbagai cara untuk menyebarluaskan pengaruh positif, dengan menggunakan **infografis** untuk menyajikan data tentang pencapaian mahasiswa dan alumni.
+![Infografis GEMAS](gemas.png)
+
+### Visualisasi Program
+```mermaid
+graph LR
+A[Mahasiswa Berprestasi] --> B{Penghargaan}
+B --> C{Mahasiswa}
+B --> D{Alumni}
+D --> E[Jejaring]
+E --> F[Inspirasi]

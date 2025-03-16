@@ -13,7 +13,7 @@ export default {
         link: "/radar/README.md",
       },
       {
-        text: "STATGEN (Statistics Generation)",
+        text: "STATGEN (Statistics Genius)",
         icon: "chart-bar",
         link: "/statgen/README.md",
       },

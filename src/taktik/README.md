@@ -4,32 +4,64 @@ index: false
 icon: lightbulb
 category:
   - Program Kerja
+date: 2025-03-16
+author: HIMASTAT
+pageInfo:
+  - author
+  - date
+  - category
+  - tag
+  - readingTime
 ---
 
 # TAKTIK - Temu Aksi Kreatif untuk Tim dan Kompetisi
 
-Welcome to the **TAKTIK** program! This program is designed to boost creativity and competitiveness among students through various activities that foster collaboration, innovation, and team-based problem solving. Below you will find the details and structure of the program.
+Selamat datang di program **TAKTIK**! Program ini dirancang untuk meningkatkan kreativitas dan daya saing di antara mahasiswa melalui berbagai kegiatan yang memfasilitasi kolaborasi, inovasi, dan pemecahan masalah secara tim. Berikut adalah rincian dan struktur program ini.
 
-## Program Overview
+## Gambaran Umum Program
 
-TAKTIK (Temu Aksi Kreatif untuk Tim dan Kompetisi) is a program aimed at increasing creativity and collaboration among students. The program organizes a variety of activities that challenge participants to work together, think outside the box, and compete in a fun and motivating environment. By fostering innovation and teamwork, TAKTIK prepares students to face various challenges in academic and extracurricular fields.
+**TAKTIK** (Temu Aksi Kreatif untuk Tim dan Kompetisi) adalah program yang bertujuan untuk meningkatkan kreativitas dan kolaborasi di antara mahasiswa. Program ini mengorganisir berbagai kegiatan yang menantang peserta untuk bekerja sama, berpikir kreatif, dan berkompetisi dalam lingkungan yang menyenangkan dan memotivasi. Dengan mendorong inovasi dan kerja tim, **TAKTIK** mempersiapkan mahasiswa untuk menghadapi berbagai tantangan dalam bidang akademik dan ekstrakurikuler.
 
-## Objectives
-- Encourage creativity and innovation among students through team-based activities.
-- Build stronger collaboration and teamwork skills within the Statistika student community.
-- Organize friendly competitions to enhance problem-solving abilities and competitiveness.
-- Prepare students to engage in both academic and extracurricular competitions with a creative mindset.
+## Tujuan
+- Mendorong kreativitas dan inovasi di kalangan mahasiswa melalui kegiatan berbasis tim.
+- Membangun keterampilan kolaborasi dan kerja sama yang lebih kuat di dalam komunitas mahasiswa Statistika.
+- Mengorganisir kompetisi yang bersifat ramah dan kolaboratif untuk meningkatkan kemampuan pemecahan masalah dan daya saing.
+- Mempersiapkan mahasiswa untuk terlibat dalam kompetisi akademik dan ekstrakurikuler dengan pola pikir kreatif.
 
-## Program Details
-- **Target Group**: Statistika students interested in teamwork and creative activities.
-- **Activities**: Various team-building exercises, creative challenges, and competitions.
-- **Competitions**: Friendly and collaborative competitions designed to inspire innovative thinking and teamwork.
-- **Outcome**: Participants develop enhanced creativity, problem-solving skills, and team collaboration.
+## Rincian Program
+- **Sasaran**: Mahasiswa Statistika yang tertarik pada kegiatan kerja tim dan kreativitas.
+- **Kegiatan**: Berbagai latihan membangun tim, tantangan kreatif, dan kompetisi.
+- **Kompetisi**: Kompetisi yang ramah dan kolaboratif dirancang untuk menginspirasi pemikiran inovatif dan kerja sama tim.
+- **Hasil**: Peserta mengembangkan kreativitas, keterampilan pemecahan masalah, dan kolaborasi tim yang lebih baik.
 
-### Features of the Program
-- **Creativity**: Engaging in creative problem-solving activities to inspire out-of-the-box thinking.
-- **Teamwork**: Building strong collaboration and communication skills within teams.
-- **Competitiveness**: Fostering healthy competition to motivate participants to excel.
+### Fitur Program
+- **Kreativitas**: Mengikuti kegiatan pemecahan masalah kreatif untuk menginspirasi pemikiran di luar kebiasaan.
+- **Kerja Tim**: Membangun keterampilan kolaborasi dan komunikasi yang kuat dalam tim.
+- **Daya Saing**: Mendorong kompetisi yang sehat untuk memotivasi peserta agar berprestasi lebih baik.
 
-## Program Structure
-<Catalog />
+## Struktur Program
+### 1. **Latihan Kreatif**
+- Kegiatan yang memfokuskan pada pemecahan masalah secara kreatif dalam kelompok.
+
+### 2. **Kompetisi Ramah**
+- Kompetisi yang dirancang untuk menantang kemampuan berpikir inovatif sambil tetap menjaga kolaborasi tim.
+
+### 3. **Pengembangan Keterampilan Kolaborasi**
+- Mahasiswa akan terlibat dalam proyek bersama untuk mengasah keterampilan komunikasi dan kolaborasi dalam tim.
+
+### 4. **Kompetisi dan Kolaborasi**
+- Setelah pelatihan, peserta akan berkompetisi dalam beberapa tantangan untuk mempraktikkan kreativitas dan kolaborasi yang telah mereka pelajari.
+
+## Visualisasi Program
+
+> **Infografis**: Program TAKTIK menunjukkan tahapan kreatif yang dilalui peserta, dari latihan hingga kompetisi yang berkolaborasi.
+![Infografis TAKTIK](taktik.png)
+
+### Visualisasi Struktur Program
+```mermaid
+graph LR
+A[Kreativitas] --> B{Latihan Tim}
+B --> C{Tantangan Kreatif}
+B --> D{Kompetisi Ramah}
+D --> E[Kolaborasi Tim]
+E --> F[Peningkatan Keterampilan]
