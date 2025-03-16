@@ -85,19 +85,19 @@ export default sidebar({
             {
               text: "Firmansyah Mukti Wijaya",
               icon: "fa6-solid:desktop",
-              link: "jepret2024/portofolio//MHS050900568.md"
+              link: "jepret2024/portofolio/MHS050900568.md"
             },
             {
               text: "Nazma Fahira",
               icon: "fa6-solid:desktop",
-              link: "jepret2024/portofolio/"
+              link: "jepret2024/portofolio/MHS053284089.md"
             }
           ]
         },
         {
           text: "Himastat UT 2023/2024",
           icon: "people-roof",
-          link: "jepret2023/",
+          link: "",
           collapsible:true,
           children: [
             {
@@ -106,60 +106,37 @@ export default sidebar({
               link: "jepret2023/"
             },
             {
-              text: "Dummy Nama 2023/2024",
+              text: "Khusnul Maulud Awalludin",
               icon: "fa6-solid:user-tie",
-              link: "jepret2023/#"
+              link: "jepret2023/portofolio/MHS044567536.md"
             },
             {
-              text: "Dummy Nama 2023/2024",
+              text: "Erlan Ahmad Fauzi",
               icon: "fa6-solid:user-tie",
-              link: "jepret2023/#"
+              link: "jepret2023/portofolio/MHS044534133.md"
             },
             {
-              text: "Dummy Nama 2023/2024",
+              text: "Anju Anjannah",
               icon: "fa6-solid:file",
-              link: "jepret2023/#"
+              link: "jepret2023/portofolio/MHS044924625.md"
             },
             {
-              text: "Dummy Nama 2023/2024",
+              text: "Rahmat Hidayat",
               icon: "fa6-solid:desktop",
-              link: "jepret2023/#"
-            }
+              link: "jepret2023/portofolio/MHS048409024.md"
+            },
+            {
+              text: "Alfi Fadel Agustian Helmi",
+              icon: "fa6-solid:desktop",
+              link: "jepret2023/portofolio/MHS045255283.md"
+            },
+            {
+              text: "Jihad Padilah",
+              icon: "fa6-solid:user",
+              link: "jepret2023/portofolio/MHS045357039.md"
+            },
           ]
         },
-        {
-          text: "Himastat UT 2022/2023",
-          icon: "people-roof",
-          link: "jepret2022/",
-          collapsible:true,
-          children: [
-            {
-              text: "Detail Pengurus 2022/2023",
-              icon: "fa6-solid:users",
-              link: "jepret2022/"
-            },
-            {
-              text: "Dummy Nama 2022/2023",
-              icon: "fa6-solid:user-tie",
-              link: "jepret2022/#"
-            },
-            {
-              text: "Dummy Nama 2022/2023",
-              icon: "fa6-solid:user-tie",
-              link: "jepret2022/#"
-            },
-            {
-              text: "Dummy Nama 2022/2023",
-              icon: "fa6-solid:file",
-              link: "jepret2022/#"
-            },
-            {
-              text: "Dummy Nama 2022/2023",
-              icon: "fa6-solid:desktop",
-              link: "jepret2022/#"
-            }
-          ]
-        }
       ]
     },
   ],
