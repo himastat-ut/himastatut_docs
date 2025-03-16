@@ -10,5 +10,8 @@ export default defineUserConfig({
   description: "Dokumentasi Kegiatan Himpunan Mahasiswa Statistika",
 
   theme,
+  
 
+  // Enable it with pwa
+  // shouldPrefetch: false,
 });

@@ -74,3 +74,5 @@ D --> G[Contoh Topik: Analisis Data Sederhana]
 > **Keterbukaan Topik**: Beberapa topik yang mungkin dibahas antara lain adalah penggunaan software statistik seperti R, metode statistik dasar, analisis data melalui teknik tertentu, dan banyak lagi. Namun, topik-topik tersebut bersifat fleksibel dan dapat disesuaikan dengan perkembangan terbaru dalam dunia statistika serta minat dan kebutuhan peserta.
 
 > **Fleksibilitas Program**: Program ini dirancang untuk memberikan pengalaman belajar yang dinamis, di mana setiap pertemuan memberikan peluang bagi peserta untuk menggali lebih dalam topik-topik statistika dengan berbagai pendekatan, baik dari segi teori maupun praktik langsung. Oleh karena itu, StatGen memberi kebebasan bagi narasumber dan peserta untuk mengeksplorasi berbagai aspek statistika dengan cara yang interaktif dan relevan.
+
+<Catalog />

@@ -1,9 +1,7 @@
 export default [
-    "",
-    {
-      text: "",
-      link: "",
-      children: "structure",
-    },
-  ];
-  
+  "",
+  {
+    link: "",
+    children: "structure"
+  },
+];

@@ -171,7 +171,7 @@ export default hopeTheme({
     },
 
     components: {
-      components: ["Badge", "VPCard"],
+      components: ["Badge", "VPCard","VidStack",],
     },
 
     icon: {
