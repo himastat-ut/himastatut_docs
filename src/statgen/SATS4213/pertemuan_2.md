@@ -31,4 +31,12 @@ Tonton rekaman **StatGen Class 2.0 - Pengumpulan & Penyajian Data (SATS4213) Per
 
 <VidStack  
   src="https://www.youtube.com/watch?v=AUxJLrAxnh4"  
-  title="StatGen Class 2.0 - Pengumpulan & Penyajian Data (SATS4213) Pertemuan 
+  title="StatGen Class 2.0 - Pengumpulan & Penyajian Data (SATS4213) Pertemuan 2"
+  layout="{controlsPosition: 'bottom'}" 
+/>
+
+---
+
+"Tidak ada kata terlambat untuk belajar. Maka dari itu, mari cerdas bersama Himastat!"
+
+#statgenclass2024 #sigma
