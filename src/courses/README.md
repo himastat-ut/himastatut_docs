@@ -1,5 +1,5 @@
 ---
-title: Courses
+title: Mata Kuliah Statistika
 index: false
 icon: book
 category:

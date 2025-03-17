@@ -1,5 +1,5 @@
 ---
-title: Semester 5 Courses
+title: Semester 5
 icon: fa-solid:calendar-day
 order: 5
 category:

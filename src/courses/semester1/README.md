@@ -1,5 +1,5 @@
 ---
-title: Semester 1 Courses
+title: Semester 1
 icon: fa-solid:calendar
 order: 1
 category:

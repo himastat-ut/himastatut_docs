@@ -1,5 +1,5 @@
 ---
-title: Semester 2 Courses
+title: Semester 2
 icon: fa-solid:calendar-day
 order: 2
 category:

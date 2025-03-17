@@ -1,5 +1,5 @@
 ---
-title: Semester 6 Courses
+title: Semester 6
 icon: fa-solid:calendar-day
 order: 6
 category:

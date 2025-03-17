@@ -1,5 +1,5 @@
 ---
-title: Semester 8 Courses
+title: Semester 8
 icon: fa-solid:calendar-day
 order: 8
 category:

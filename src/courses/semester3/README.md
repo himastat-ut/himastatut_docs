@@ -1,5 +1,5 @@
 ---
-title: Semester 3 Courses
+title: Semester 3
 icon: fa-solid:calendar-day
 order: 3
 category:

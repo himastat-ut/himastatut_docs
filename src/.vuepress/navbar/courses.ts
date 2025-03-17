@@ -1,5 +1,5 @@
 export default {
-    text: "Courses", 
+    text: "Mata Kuliah", 
     icon: "book", 
     children: [
       {

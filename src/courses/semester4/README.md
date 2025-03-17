@@ -1,5 +1,5 @@
 ---
-title: Semester 4 Courses
+title: Semester 4
 icon: fa-solid:calendar-day
 order: 4
 category:

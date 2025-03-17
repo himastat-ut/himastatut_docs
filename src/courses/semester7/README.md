@@ -1,5 +1,5 @@
 ---
-title: Semester 7 Courses
+title: Semester 7
 icon: fa-solid:calendar-day
 order: 7
 category:

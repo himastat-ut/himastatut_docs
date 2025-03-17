@@ -1,5 +1,5 @@
 export default {
-    text: "Program Kerja", 
+    text: "Program Kerja 2024/2025", 
     icon: "circle-info",
     children: [
       {

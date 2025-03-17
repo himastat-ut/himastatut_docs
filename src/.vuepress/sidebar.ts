@@ -6,48 +6,26 @@ import jepretSidebar from "./sidebar/jepret.ts";
 import archivedSidebar from "./sidebar/archived.ts";
 
 export default sidebar({
-  "/": [
-    "",
-  ],
+  "/": [""],
   "/statgen/": statgenSidebar,
   "/courses/": coursesSidebar,
   "/archived/": archivedSidebar,
   "/hangat/": [
     "",
-    {
-      text: "",
-      icon: "tasks",
-      link: "",
-      children: "structure",
-    },
+    { text: "", icon: "", link: "", children: "structure" }
   ],
   "/radar/": radarSidebar,
   "/gemas/": [
     "",
-    {
-      text: "",
-      icon: "tasks",
-      link: "",
-      children: "structure",
-    },
+    { text: "", icon: "", link: "", children: "structure" }
   ],
   "/jepret/": jepretSidebar,
   "/link/": [
     "",
-    {
-      text: "",
-      icon: "tasks",
-      link: "",
-      children: "structure",
-    },
+    { text: "", icon: "", link: "", children: "structure" }
   ],
   "/taktik/": [
     "",
-    {
-      text: "",
-      icon: "tasks",
-      link: "",
-      children: "structure",
-    },
+    { text: "", icon: "", link: "", children: "structure" }
   ],
 });
