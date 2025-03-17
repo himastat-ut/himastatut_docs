@@ -2,7 +2,6 @@ import { hopeTheme } from "vuepress-theme-hope";
 
 import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
-import { slimsearchPlugin } from "@vuepress/plugin-slimsearch";
 
 export default hopeTheme({
   hostname: "https://himastatutv2.netlify.app",
@@ -129,7 +128,7 @@ export default hopeTheme({
         page.frontmatter.date ?? [],
         page.frontmatter.permalink ?? [],
         page.frontmatter.permalinkPattern ?? [],
-      ].flat(), // Use .flat() to merge all the arrays into one
+      ].flat(),
     },
     comment: {
       provider: "Giscus", // Using Giscus for the comment system
@@ -139,11 +138,7 @@ export default hopeTheme({
       categoryId: "DIC_kwDOOG3VsM4CoEwL", // The category ID (you get this from Giscus settings)
       mapping: "pathname", // Mapping option for discussions (you can also use "title", "og:title", etc.)
       reactionsEnabled: true, // Enabling reactions for discussions
-      emitMetadata: true, // Emit discussion metadata for debugging
       inputPosition: "top", // Place comment input box at the top of the comments section
-      theme: "preferred_color_scheme", // Use preferred color scheme (light/dark)
-      lang: "en", // Language for the Giscus comment system
-      loading: "lazy", // Lazy load comments when near the container
     },
 
     components: {
