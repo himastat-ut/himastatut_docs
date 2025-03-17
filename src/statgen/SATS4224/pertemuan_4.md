@@ -32,4 +32,10 @@ Tonton rekaman **StatGen Class 3.0 - Pengantar Sosiometri (SATS4224) Pertemuan 4
 <VidStack  
   src="https://www.youtube.com/watch?v=Gi-ZQuYccNE&t=47s"  
   title="StatGen Class 3.0 - Pengantar Sosiometri (SATS4224) Pertemuan 4"  
-  layout="{con
+  layout="{controlsPosition: 'bottom'}"  
+/>
+---
+
+"Tidak ada kata terlambat untuk belajar. Maka dari itu, mari cerdas bersama Himastat!"
+
+#statgenclass2024 #sigma
