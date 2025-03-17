@@ -2,7 +2,7 @@ import { hopeTheme } from "vuepress-theme-hope";
 
 import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
-import { slimsearchPlugin } from '@vuepress/plugin-slimsearch'
+import { slimsearchPlugin } from "@vuepress/plugin-slimsearch";
 
 export default hopeTheme({
   hostname: "https://himastatutv2.netlify.app",
@@ -115,69 +115,22 @@ export default hopeTheme({
   },
 
   plugins: {
-    slimsearch: slimsearchPlugin({
-      // Whether to enable content indexing
-      indexContent: true,
-
-      // Enable search suggestions while typing
-      suggestion: true,
-
-      // Custom Fields (for example, indexing 'author' and 'updateTime')
-      customFields: [
-        {
-          name: 'author',
-          getter: (page) => page.frontmatter.author,
-          formatter: 'Author: $content',
-        },
-        {
-          name: 'updateTime',
-          getter: (page) => page.data.git?.updateTime.toLocaleString(),
-          formatter: {
-            '/': 'Update time: $content',
-          },
-        },
-      ],
-
-      // Hotkeys to trigger search box focus
-      hotKeys: [
-        { key: 'k', ctrl: true },
-        { key: '/', ctrl: true },
-      ],
-
-      // Max number of stored query history
-      queryHistoryCount: 5,
-
-      // Max number of stored search result history
-      resultHistoryCount: 5,
-
-      // Delay before search starts after input (in ms)
-      searchDelay: 150,
-
-      // Filter function to exclude pages from indexing
-      filter: (page) => page.frontmatter.search !== false,
-
-      // Sorting strategy for search results
-      sortStrategy: 'max',
-
-      // Worker script filename
-      worker: 'slimsearch.worker.js',
-
-      // Whether to enable hot reload during development
-      hotReload: true,
-
-      // Language-specific settings for indexing
-      indexOptions: {
-        tokenize: (text) => text.split(' '),
-        processTerm: (term) => term.toLowerCase(),
-      },
-
-      // Option to customize query splitting and filtering logic
-      defineSearchConfig: {
-        querySplitter: (query) => query.split(' '),
-        suggestionsFilter: (suggestions, query) => suggestions.filter(s => s.includes(query)),
-        resultsFilter: (results, query) => results.filter(result => result.score > 0.5),
-      },
-    }),
+    search: {
+      hotKeys: ['s', '/'],
+      maxSuggestions: 10,
+      isSearchable: (page) => page.path !== '/',
+      getExtraFields: (page) => [
+        page.frontmatter.tags ?? [],
+        page.frontmatter.description ?? [],
+        page.frontmatter.head ?? [],
+        page.frontmatter.lang ?? [],
+        page.frontmatter.layout ?? [],
+        page.frontmatter.title ?? [],
+        page.frontmatter.date ?? [],
+        page.frontmatter.permalink ?? [],
+        page.frontmatter.permalinkPattern ?? [],
+      ].flat(), // Use .flat() to merge all the arrays into one
+    },
     comment: {
       provider: "Giscus", // Using Giscus for the comment system
       repo: "himastat-ut/himastatut_docs", // Your GitHub repository under your organization
