@@ -144,9 +144,9 @@ export default hopeTheme({
     //   ].flat(),
     // },
     docsearch: {
-      appId: 'Z6IQGTY2B2',
-      apiKey: '4e47aa08f7c9117aefedbf79c2c63f62',
-      indexName: 'himastatut_my_id_z6iqgty2b2_pages',
+      appId: 'VXX6JFCN73',
+      apiKey: 'ebaf14c766594e6e6822b7ebfe82b887',
+      indexName: 'himastatut_my_id_vxx6jfcn73_pages',
       locales: {
         '/': {
           placeholder: 'Search Documentation',
