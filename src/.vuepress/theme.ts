@@ -5,7 +5,8 @@ import sidebar from "./sidebar.js";
 
 export default hopeTheme({
   hostname: "https://himastatutv2.netlify.app",
-
+  head: [
+    'meta', { name: 'algolia-site-verification', content: 'B9EDC7FCEE67FD0C' }],
   author: {
     name: "Firmansyah Mukti Wijaya",
     url: "https://ikimukti.com",
@@ -18,6 +19,7 @@ export default hopeTheme({
   repoDisplay: true,
 
   docsDir: "src",
+  docsBranch: "main",
 
   // navbar
   navbar,
