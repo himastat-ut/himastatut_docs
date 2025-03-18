@@ -1,0 +1,7 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://himastatut.my.id/sitemap.xml
+
+# Algolia-Crawler-Verif: 9755C654639A3777
