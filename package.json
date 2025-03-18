@@ -14,6 +14,7 @@
     "@vuepress/bundler-vite": "2.0.0-rc.20",
     "@vuepress/plugin-docsearch": "^2.0.0-rc.82",
     "@vuepress/plugin-search": "^2.0.0-rc.82",
+    "@vuepress/plugin-sitemap": "^2.0.0-rc.85",
     "flowchart.ts": "^3.0.1",
     "mermaid": "^11.5.0",
     "sass-embedded": "^1.85.1",

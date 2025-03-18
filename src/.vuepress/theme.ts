@@ -4,12 +4,27 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://himastatutv2.netlify.app",
+  hostname: "https://himastatut.my.id",
   head: [
-    'meta', { name: 'algolia-site-verification', content: 'B9EDC7FCEE67FD0C' }],
+    'meta', { name: 'algolia-site-verification', content: 'B9EDC7FCEE67FD0C' }
+  ],
   author: {
     name: "Firmansyah Mukti Wijaya",
     url: "https://ikimukti.com",
+  },
+  sitemap: {
+    hostname: 'https://himastatut.my.id',  // Replace with your site's hostname
+    devServer: false,  // Set to true if you want to enable during development
+    devHostname: 'http://localhost:8080',  // Use for local development environment
+    sitemapFilename: 'sitemap.xml',  // The name of the generated sitemap file
+    sitemapXSLFilename: 'sitemap.xsl',  // The XSL filename
+    sitemapXSLTemplate: '@vuepress/plugin-sitemap/templates/sitemap.xsl',  // Custom template
+    changefreq: 'daily',  // Default update frequency of pages
+    priority: 0.5,  // Default priority of pages
+    modifyTimeGetter: (page, app) => {
+      // Get the last modified time of the page (e.g., using git plugin)
+      return page.frontmatter.date || page.lastUpdated
+    }
   },
 
   logo: "logo.png",
