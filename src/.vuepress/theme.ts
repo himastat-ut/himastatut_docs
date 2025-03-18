@@ -146,7 +146,17 @@ export default hopeTheme({
     docsearch: {
       appId: 'Z6IQGTY2B2',
       apiKey: '4e47aa08f7c9117aefedbf79c2c63f62',
-      indexName: 'instantsearch-app',
+      indexName: 'himastatut_my_id_z6iqgty2b2_pages',
+      locales: {
+        '/': {
+          placeholder: 'Search Documentation',
+          translations: {
+            button: {
+              buttonText: 'Search Documentation',
+            },
+          },
+        }
+      },
     },
     comment: {
       provider: "Giscus", // Using Giscus for the comment system
