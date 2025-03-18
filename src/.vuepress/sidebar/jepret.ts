@@ -84,7 +84,7 @@ export default [
               link: "jepret2023/portofolio/MHS045357039.md"
             },
             {
-              text: "Martha EWrlita Sabadtini",
+              text: "Martha Erlita Sabadtini",
               icon: "fa6-solid:user",
               link: "jepret2023/portofolio/MHS044648707.md"
             },
