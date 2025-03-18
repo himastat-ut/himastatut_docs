@@ -83,6 +83,16 @@ export default [
               icon: "fa6-solid:user",
               link: "jepret2023/portofolio/MHS045357039.md"
             },
+            {
+              text: "Martha EWrlita Sabadtini",
+              icon: "fa6-solid:user",
+              link: "jepret2023/portofolio/MHS044648707.md"
+            },
+            {
+              text: "Fildzah Nazwa Maulidina",
+              icon: "fa6-solid:user",
+              link: "jepret2023/portofolio/MHS044981618.md"
+            },
           ]
         },
       ]
