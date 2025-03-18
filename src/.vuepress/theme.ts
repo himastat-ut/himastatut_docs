@@ -144,9 +144,9 @@ export default hopeTheme({
     //   ].flat(),
     // },
     docsearch: {
-      appId: 'OLUUFCYC5K',
-      apiKey: '9a6075d99cc5fb15eb444e7491125fba',
-      indexName: 'docsearch',
+      appId: 'Z6IQGTY2B2',
+      apiKey: '4e47aa08f7c9117aefedbf79c2c63f62',
+      indexName: 'instantsearch-app',
     },
     comment: {
       provider: "Giscus", // Using Giscus for the comment system
@@ -160,7 +160,7 @@ export default hopeTheme({
     },
 
     components: {
-      components: ["Badge", "VPCard","VidStack",],
+      components: ["Badge", "VPCard","VidStack"],
     },
 
     icon: {
