@@ -5,9 +5,6 @@ import sidebar from "./sidebar.js";
 
 export default hopeTheme({
   hostname: "https://himastatut.my.id",
-  head: [
-    'meta', { name: 'algolia-site-verification', content: 'B9EDC7FCEE67FD0C' }
-  ],
   author: {
     name: "Firmansyah Mukti Wijaya",
     url: "https://ikimukti.com",
