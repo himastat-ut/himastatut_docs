@@ -10,6 +10,11 @@ export default navbar([
   coursesNavbar,
   programKerjaNavbar,
   "/statgen/",
+  {
+    text: "SIGMA", 
+    icon: "calculator", 
+    link: "/sigma/"
+  },
   arsipProgramKerjaNavbar,
   pengurusHimpunanNavbar,
   {

@@ -8,6 +8,7 @@ import archivedSidebar from "./sidebar/archived.ts";
 export default sidebar({
   "/": [""],
   "/statgen/": statgenSidebar,
+  "/sigma/": statgenSidebar,
   "/courses/": coursesSidebar,
   "/archived/": archivedSidebar,
   "/hangat/": [
