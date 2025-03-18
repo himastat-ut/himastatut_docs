@@ -1,4 +1,5 @@
 import { hopeTheme } from "vuepress-theme-hope";
+import { docsearchPlugin } from "@vuepress/plugin-docsearch";
 
 import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
@@ -8,20 +9,6 @@ export default hopeTheme({
   author: {
     name: "Firmansyah Mukti Wijaya",
     url: "https://ikimukti.com",
-  },
-  sitemap: {
-    hostname: 'https://himastatut.my.id',  // Replace with your site's hostname
-    devServer: false,  // Set to true if you want to enable during development
-    devHostname: 'http://localhost:8080',  // Use for local development environment
-    sitemapFilename: 'sitemap.xml',  // The name of the generated sitemap file
-    sitemapXSLFilename: 'sitemap.xsl',  // The XSL filename
-    sitemapXSLTemplate: '@vuepress/plugin-sitemap/templates/sitemap.xsl',  // Custom template
-    changefreq: 'daily',  // Default update frequency of pages
-    priority: 0.5,  // Default priority of pages
-    modifyTimeGetter: (page, app) => {
-      // Get the last modified time of the page (e.g., using git plugin)
-      return page.frontmatter.date || page.lastUpdated
-    }
   },
   logo: "logo.png",
 
@@ -127,37 +114,43 @@ export default hopeTheme({
   },
 
   plugins: {
-    // search: {
-    //   hotKeys: ['s', '/'],
-    //   maxSuggestions: 10,
-    //   isSearchable: (page) => page.path !== '/',
-    //   getExtraFields: (page) => [
-    //     page.frontmatter.tags ?? [],
-    //     page.frontmatter.description ?? [],
-    //     page.frontmatter.head ?? [],
-    //     page.frontmatter.lang ?? [],
-    //     page.frontmatter.layout ?? [],
-    //     page.frontmatter.title ?? [],
-    //     page.frontmatter.date ?? [],
-    //     page.frontmatter.permalink ?? [],
-    //     page.frontmatter.permalinkPattern ?? [],
-    //   ].flat(),
-    // },
-    docsearch: {
-      appId: 'VXX6JFCN73',
-      apiKey: 'ebaf14c766594e6e6822b7ebfe82b887',
-      indexName: 'himastatut_my_id_vxx6jfcn73_articles',
-      locales: {
-        '/': {
-          placeholder: 'Search Documentation',
-          translations: {
-            button: {
-              buttonText: 'Search Documentation',
-            },
-          },
-        }
-      },
+    
+    search: {
+      hotKeys: ['s', '/'],
+      maxSuggestions: 10,
+      isSearchable: (page) => page.path !== '/',
+      getExtraFields: (page) => [
+        page.frontmatter.tags ?? [],
+        page.frontmatter.description ?? [],
+        page.frontmatter.head ?? [],
+        page.frontmatter.lang ?? [],
+        page.frontmatter.layout ?? [],
+        page.frontmatter.title ?? [],
+        page.frontmatter.date ?? [],
+        page.frontmatter.permalink ?? [],
+        page.frontmatter.permalinkPattern ?? [],
+      ].flat(),
     },
+    // docsearch: {
+    //   appId: 'VXX6JFCN73',
+    //   apiKey: 'ebaf14c766594e6e6822b7ebfe82b887',
+    //   indexName: 'himastatut_my_id_vxx6jfcn73_articles',
+    //   locales: {
+    //     '/': {
+    //       placeholder: 'Search Documentation',
+    //       translations: {
+    //         button: {
+    //           buttonText: 'Search Documentation',
+    //         },
+    //       },
+    //     }
+    //   },
+    //   maxResultsPerGroup: 7,
+    //   disableUserPersonalization:false,
+    //   searchParameters: {
+    //     advancedSyntax: true,
+    //   }
+    // },
     comment: {
       provider: "Giscus", // Using Giscus for the comment system
       repo: "himastat-ut/himastatut_docs", // Your GitHub repository under your organization
