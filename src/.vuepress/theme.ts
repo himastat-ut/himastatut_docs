@@ -146,7 +146,7 @@ export default hopeTheme({
     docsearch: {
       appId: 'VXX6JFCN73',
       apiKey: 'ebaf14c766594e6e6822b7ebfe82b887',
-      indexName: 'himastatut_my_id_vxx6jfcn73_pages',
+      indexName: 'himastatut_my_id_vxx6jfcn73_articles',
       locales: {
         '/': {
           placeholder: 'Search Documentation',
