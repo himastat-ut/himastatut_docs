@@ -31,6 +31,5 @@ Kelas ini terdiri dari beberapa sesi yang membahas topik-topik terkait **Aljabar
 
 Setiap pertemuan akan membahas topik yang berbeda dan dapat diakses melalui **YouTube HIMASTAT UT** atau **Instagram HIMASTAT UT**.
 
-<IncludeFiles src="SATS4122/pertemuan_1.md" />
 
 <Catalog />

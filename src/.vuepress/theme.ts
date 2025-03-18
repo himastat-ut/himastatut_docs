@@ -23,6 +23,14 @@ export default hopeTheme({
       return page.frontmatter.date || page.lastUpdated
     }
   },
+  copy: {
+    targets: [
+      {
+        src: 'robots.txt',  // Source file
+        dest: 'dist/'       // Destination folder in the build output
+      }
+    ]
+  },
 
   logo: "logo.png",
 

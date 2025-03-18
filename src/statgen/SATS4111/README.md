@@ -31,6 +31,5 @@ Kelas ini terdiri dari beberapa sesi, dimana setiap pertemuan akan membahas topi
 
 Sesi ini dapat berubah sesuai dengan kebutuhan, dan setiap kelas dapat diakses melalui **YouTube HIMASTAT UT** atau **Instagram HIMASTAT UT**.
 
-<IncludeFiles src="SATS4111/pertemuan_1.md" />
 
 <Catalog />

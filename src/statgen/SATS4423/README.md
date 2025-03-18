@@ -31,6 +31,5 @@ Kelas ini terdiri dari beberapa sesi yang membahas topik-topik berbeda terkait *
 
 Setiap pertemuan akan membahas topik yang berbeda, dan sesi-sesi tersebut dapat diakses melalui **YouTube HIMASTAT UT** atau **Instagram HIMASTAT UT**.
 
-<IncludeFiles src="SATS4423/pertemuan_1.md" />
 
 <Catalog />
