@@ -114,21 +114,26 @@ export default hopeTheme({
   },
 
   plugins: {
-    search: {
-      hotKeys: ['s', '/'],
-      maxSuggestions: 10,
-      isSearchable: (page) => page.path !== '/',
-      getExtraFields: (page) => [
-        page.frontmatter.tags ?? [],
-        page.frontmatter.description ?? [],
-        page.frontmatter.head ?? [],
-        page.frontmatter.lang ?? [],
-        page.frontmatter.layout ?? [],
-        page.frontmatter.title ?? [],
-        page.frontmatter.date ?? [],
-        page.frontmatter.permalink ?? [],
-        page.frontmatter.permalinkPattern ?? [],
-      ].flat(),
+    // search: {
+    //   hotKeys: ['s', '/'],
+    //   maxSuggestions: 10,
+    //   isSearchable: (page) => page.path !== '/',
+    //   getExtraFields: (page) => [
+    //     page.frontmatter.tags ?? [],
+    //     page.frontmatter.description ?? [],
+    //     page.frontmatter.head ?? [],
+    //     page.frontmatter.lang ?? [],
+    //     page.frontmatter.layout ?? [],
+    //     page.frontmatter.title ?? [],
+    //     page.frontmatter.date ?? [],
+    //     page.frontmatter.permalink ?? [],
+    //     page.frontmatter.permalinkPattern ?? [],
+    //   ].flat(),
+    // },
+    docsearch: {
+      appId: 'OLUUFCYC5K',
+      apiKey: '9a6075d99cc5fb15eb444e7491125fba',
+      indexName: 'docsearch',
     },
     comment: {
       provider: "Giscus", // Using Giscus for the comment system
