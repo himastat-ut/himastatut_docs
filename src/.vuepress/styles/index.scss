@@ -1,1 +1,25 @@
-// place your custom styles here
+@media screen and (max-width: 1600px) {
+    .vp-navbar .vp-nav-item .vp-dropdown-wrapper button[aria-label="Arsip Program Kerja"] {
+        display: none !important;
+      }
+}
+
+@media screen and (max-width: 1500px) {
+    .vp-navbar .vp-nav-item .vp-dropdown-wrapper button[aria-label="Mata Kuliah"] {
+        display: none !important;
+    }
+}
+
+@media screen and (max-width: 1350px) {
+    .vp-navbar .vp-nav-item .vp-dropdown-wrapper button[aria-label="Pengurus Himpunan"] {
+        display: none !important;
+    }
+}
+
+@media screen and (max-width: 1150px) {
+    .vp-navbar .vp-nav-item {
+        &:has(a[href='/sigma/']) {
+            display: none !important;
+        }
+    }
+}

@@ -13,7 +13,7 @@ export default navbar([
   {
     text: "SIGMA", 
     icon: "calculator", 
-    link: "/sigma/"
+    link: "/sigma/",
   },
   arsipProgramKerjaNavbar,
   pengurusHimpunanNavbar,

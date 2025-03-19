@@ -1,6 +1,7 @@
 export default {
     text: "Arsip Program Kerja", 
-    icon: "boxes-packing", 
+    icon: "boxes-packing",
+    link: "/archived/",
     children: [
       {
         text: "Apa itu Arsip Program Kerja?",
