@@ -1,5 +1,5 @@
 export default {
-    text: "Pengurus Himpunan", 
+    text: "Pengurus Hima", 
     icon: "people-group", 
     children: [
       {

@@ -1,5 +1,5 @@
 export default {
-    text: "Arsip Program Kerja", 
+    text: "Arsip Pro-Ker", 
     icon: "boxes-packing",
     link: "/archived/",
     children: [
@@ -12,11 +12,6 @@ export default {
         text: "Bincang Mahasiswa (BIMA)",
         icon: "file-archive",
         link: "/archived/bima/README.md",
-      },
-      {
-        text: "Program B (Archived Program Example)",
-        icon: "file-archive",
-        link: "/archived/programB.md",
       },
       {
         text: "Program C (Archived Program Example)",

@@ -9,7 +9,8 @@ export default defineUserConfig({
   title: "Himastatut Docs",
   description: "Dokumentasi Kegiatan Himpunan Mahasiswa Statistika",
   head: [
-    ['meta', { name: 'algolia-site-verification', content: '70561EEFC0C70B02' }]
+    ['meta', { name: 'algolia-site-verification', content: '70561EEFC0C70B02' }],
+    ['link', { rel: 'icon', href: '/assets/image/logo.png' }]
   ],
   theme,
   

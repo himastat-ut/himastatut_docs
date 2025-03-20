@@ -99,10 +99,11 @@
 
 // Mendefinisikan variabel array untuk nilai max-width dan elemen yang disembunyikan
 $media-query-config: (
-  (max-width: 1600px, label: "Arsip Program Kerja"),
-  (max-width: 1500px, label: "Mata Kuliah"),
-  (max-width: 1350px, label: "Pengurus Himpunan"),
-  (max-width: 1150px, href: '/sigma/'),
+  (max-width: 1600px, label: "Arsip Pro-Ker"),
+  (max-width: 1500px, label: "Matkul"),
+  (max-width: 1350px, label: "Pengurus Hima"),
+  (max-width: 1350px, href: '/sigma/'),
+  (max-width: 1150px, label: "Prodi Statistika"),
   (max-width: 1100px, href: '/howto/'),
   (max-width: 975px, href: '/'),
   (max-width: 850px, label: "Statistics Genius (StatGen)")

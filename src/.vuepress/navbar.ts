@@ -3,6 +3,7 @@ import coursesNavbar from "./navbar/courses.ts";
 import programKerjaNavbar from "./navbar/programKerja.ts";
 import arsipProgramKerjaNavbar from "./navbar/arsipProgramKerja.ts";
 import pengurusHimpunanNavbar from "./navbar/pengurusHimpunan.ts";
+import kegiatanProdiNavbar from "./navbar/kegiatanProdi.ts";
 
 export default navbar([
   "/",
@@ -17,6 +18,7 @@ export default navbar([
   },
   arsipProgramKerjaNavbar,
   pengurusHimpunanNavbar,
+  kegiatanProdiNavbar,
   {
     text: "How To ?", 
     icon: "file-circle-question", 
