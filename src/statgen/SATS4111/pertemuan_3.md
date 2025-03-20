@@ -4,8 +4,8 @@ date: 2023-09-23
 icon: calculator
 author: HIMASTAT UT
 tags:
-  - #sigma
-  - #statgenclass2023
+  - sigma
+  - statgenclass2023
 category: Kelas StatGen
 ---
 

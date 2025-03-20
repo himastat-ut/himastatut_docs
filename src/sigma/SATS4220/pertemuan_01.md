@@ -6,10 +6,9 @@ author: HIMASTAT UT
 pageInfo:
   - author
   - date
+  - category
   - tag
   - readingTime
-  - category
-  - pageview
 ---
 
 # SIGMA - Pendalaman Materi Matematika III (SATS4220) Pertemuan 1

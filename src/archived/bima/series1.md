@@ -4,8 +4,8 @@ date: 2024-06-05
 icon: book
 author: HIMASTAT UT
 tags:
-  - #bima
-  - #statistika
+  - bima
+  - statistika
 category: Archive
 ---
 

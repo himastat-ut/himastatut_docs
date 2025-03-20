@@ -3,7 +3,11 @@ title: UT-IMATE JOURNEY - Ujian, Tugas, & Motivasi Ala Alumni Statistika UT
 date: 2025-03-16
 author: HIMASTAT
 category: GEMAS
-tags: [sharing session, alumni, motivasi, mahasiswa statistika, UT]
+tags:
+ - sharing session
+ - alumni
+ - motivasi
+ - mahasiswa statistika
 icon: chart-line
 ---
 

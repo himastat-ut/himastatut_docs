@@ -3,7 +3,12 @@ title: Inspiring Achievements - A Sharing Session for UT Statistics Students
 date: 2025-01-30
 author: HIMASTAT
 category: GEMAS
-tags: [sharing session, statgen, inspiring achievements, mahasiswa statistika, HIMASTAT]
+tags: 
+ - sharing session
+ - statgen
+ - inspiring achievements
+ - mahasiswa statistika
+ - HIMASTAT
 icon: chart-line
 ---
 

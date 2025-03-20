@@ -4,8 +4,8 @@ date: 2023-09-30
 icon: calculator
 author: HIMASTAT UT
 tags:
-  - #sigma
-  - #statgenclass2023
+  - sigma
+  - statgenclass2023
 category: Kelas StatGen
 ---
 
@@ -37,6 +37,5 @@ Tonton rekaman **StatGen Class 2023 - Komputer 1 (SATS4111) Pertemuan 4** di baw
 
 "Tidak ada kata terlambat untuk belajar. Maka dari itu, mari cerdas bersama Himastat!"
 
-#statgenclass2023 #sigma
 
 ---

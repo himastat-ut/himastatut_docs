@@ -3,7 +3,10 @@ title: Data Scientist The Sexiest Job for Statistician? - Webinar 2023
 date: 2023-11-23
 author: HIMASTAT
 category: Webinar Series
-tags: [data scientist, webinar, statistika, FST UT]
+tags:
+ - data scientist
+ - webinar
+ - statistika
 icon: user-tie
 ---
 

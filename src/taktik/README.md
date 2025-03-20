@@ -55,9 +55,11 @@ Selamat datang di program **TAKTIK**! Program ini dirancang untuk meningkatkan k
 ## Visualisasi Program
 
 > **Infografis**: Program TAKTIK menunjukkan tahapan kreatif yang dilalui peserta, dari latihan hingga kompetisi yang berkolaborasi.
+
 ![Infografis TAKTIK](taktik.png)
 
 ### Visualisasi Struktur Program
+
 ```mermaid
 graph LR
 A[Kreativitas] --> B{Latihan Tim}
@@ -65,3 +67,4 @@ B --> C{Tantangan Kreatif}
 B --> D{Kompetisi Ramah}
 D --> E[Kolaborasi Tim]
 E --> F[Peningkatan Keterampilan]
+```

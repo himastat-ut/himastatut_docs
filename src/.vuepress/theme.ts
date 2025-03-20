@@ -9,6 +9,7 @@ export default hopeTheme({
   author: {
     name: "Firmansyah Mukti Wijaya",
     url: "https://ikimukti.com",
+    email: "mukti@ikimukti.com",
   },
   logo: "logo.png",
 

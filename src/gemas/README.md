@@ -59,3 +59,5 @@ B --> C{Mahasiswa}
 B --> D{Alumni}
 D --> E[Jejaring]
 E --> F[Inspirasi]
+```
+
