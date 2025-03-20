@@ -1,25 +1,134 @@
-@media screen and (max-width: 1600px) {
-    .vp-navbar .vp-nav-item .vp-dropdown-wrapper button[aria-label="Arsip Program Kerja"] {
-        display: none !important;
-      }
-}
+@use "sass:map";
+// @media screen and (max-width: 1600px) {
+//     .vp-navbar .vp-nav-item .vp-dropdown-wrapper button[aria-label="Arsip Program Kerja"] {
+//         display: none !important;
+//       }
+// }
 
-@media screen and (max-width: 1500px) {
-    .vp-navbar .vp-nav-item .vp-dropdown-wrapper button[aria-label="Mata Kuliah"] {
-        display: none !important;
-    }
-}
+// @media screen and (max-width: 1500px) {
+//     .vp-navbar .vp-nav-item .vp-dropdown-wrapper button[aria-label="Mata Kuliah"] {
+//         display: none !important;
+//     }
+// }
 
-@media screen and (max-width: 1350px) {
-    .vp-navbar .vp-nav-item .vp-dropdown-wrapper button[aria-label="Pengurus Himpunan"] {
-        display: none !important;
-    }
-}
+// @media screen and (max-width: 1350px) {
+//     .vp-navbar .vp-nav-item .vp-dropdown-wrapper button[aria-label="Pengurus Himpunan"] {
+//         display: none !important;
+//     }
+// }
 
-@media screen and (max-width: 1150px) {
-    .vp-navbar .vp-nav-item {
-        &:has(a[href='/sigma/']) {
+// @media screen and (max-width: 1150px) {
+//     .vp-navbar .vp-nav-item {
+//         &:has(a[href='/sigma/']) {
+//             display: none !important;
+//         }
+//     }
+// }
+
+// @media screen and (max-width: 1100px) {
+//     .vp-navbar .vp-nav-item {
+//         &:has(a[href='/howto/']) {
+//             display: none !important;
+//         }
+//     }
+// }
+
+// @media screen and (max-width: 975px) {
+//     .vp-navbar .vp-nav-item {
+//         &:has(a[href='/']) {
+//             display: none !important;
+//         }
+//     }
+// }
+
+// @media screen and (max-width: 850px) {
+//     .vp-navbar .vp-nav-item {
+//         &:has(a[aria-label="Statistics Genius (StatGen)"]) {
+//             display: none !important;
+//         }
+//     }
+// }
+
+// // Menyembunyikan item navbar berturut-turut saat layar semakin kecil
+// @media screen and (max-width: 1600px) {
+//     .vp-navbar .vp-nav-item:nth-last-child(1) {
+//       display: none !important;
+//     }
+//   }
+  
+//   @media screen and (max-width: 1500px) {
+//     .vp-navbar .vp-nav-item:nth-last-child(2) {
+//       display: none !important;
+//     }
+//   }
+  
+//   @media screen and (max-width: 1350px) {
+//     .vp-navbar .vp-nav-item:nth-last-child(3) {
+//       display: none !important;
+//     }
+//   }
+  
+//   @media screen and (max-width: 1150px) {
+//     .vp-navbar .vp-nav-item:nth-last-child(4) {
+//       display: none !important;
+//     }
+//   }
+
+//   @media screen and (max-width: 1100px) {
+//     .vp-navbar .vp-nav-item:nth-last-child(5) {
+//       display: none !important;
+//     }
+//   }
+
+//   @media screen and (max-width: 1100px) {
+//     .vp-navbar .vp-nav-item:nth-last-child(5) {
+//       display: none !important;
+//     }
+//   }
+
+//   @media screen and (max-width: 900px) {
+//     .vp-navbar .vp-nav-item:nth-last-child(6) {
+//       display: none !important;
+//     }
+//   }
+
+//   .vp-navbar .vp-nav-item:nth-last-child(6) {
+//     display: none !important;
+//   }
+
+
+// Mendefinisikan variabel array untuk nilai max-width dan elemen yang disembunyikan
+$media-query-config: (
+  (max-width: 1600px, label: "Arsip Program Kerja"),
+  (max-width: 1500px, label: "Mata Kuliah"),
+  (max-width: 1350px, label: "Pengurus Himpunan"),
+  (max-width: 1150px, href: '/sigma/'),
+  (max-width: 1100px, href: '/howto/'),
+  (max-width: 975px, href: '/'),
+  (max-width: 850px, label: "Statistics Genius (StatGen)")
+);
+
+// Loop untuk menghasilkan media query berdasarkan array
+@each $config in $media-query-config {
+    $max-width: map.get($config, max-width);
+    $label: map.get($config, label);
+    $href: map.get($config, href);
+
+    @if $label != null {
+        @media screen and (max-width: $max-width) {
+        .vp-navbar .vp-nav-item .vp-dropdown-wrapper button[aria-label="#{$label}"] {
             display: none !important;
+        }
+        }
+    }
+
+    @if $href != null {
+        @media screen and (max-width: $max-width) {
+        .vp-navbar .vp-nav-item {
+            &:has(a[href="#{$href}"]) {
+            display: none !important;
+            }
+        }
         }
     }
 }
