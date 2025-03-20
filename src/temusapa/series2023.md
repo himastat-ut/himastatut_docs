@@ -1,5 +1,5 @@
 ---
-title: Temu Sapa Online Mahasiswa Statistika FST UT Series 2023
+title: Temu Sapa Online Series 2023
 date: 2023-09-06
 icon: book
 author: Program Studi Statistika FST UT

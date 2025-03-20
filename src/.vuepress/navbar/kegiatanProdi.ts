@@ -16,12 +16,12 @@ export default {
       {
         text: "Temu Sapa Online Mahasiswa Statistika On-Going",
         icon: "hand",
-        link: "/archived/temusapa/README.md",
+        link: "/temusapa/README.md",
       },
       {
-        text: "Program C (Archived Program Example)",
-        icon: "file-zipper",
-        link: "/archived/programC.md",
+        text: "Tutorial Webinar (TUWEB) Statistika",
+        icon: "chalkboard-user",
+        link: "/tuweb/README.md",
       },
     ]
   };
