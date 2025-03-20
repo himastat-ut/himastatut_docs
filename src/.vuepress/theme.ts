@@ -7,9 +7,9 @@ import sidebar from "./sidebar.js";
 export default hopeTheme({
   hostname: "https://himastatut.my.id",
   author: {
-    name: "Firmansyah Mukti Wijaya",
-    url: "https://ikimukti.com",
-    email: "mukti@ikimukti.com",
+    name: "Himastatut Docs",
+    url: "https://himastatut.my.id",
+    email: "himastatut@gmail.com",
   },
   logo: "logo.png",
 
@@ -115,7 +115,18 @@ export default hopeTheme({
   },
 
   plugins: {
-    
+    blog: {      
+      // Konfigurasi kategori
+      category: "/category/",
+      categoryItem: "/category/:name/",
+      star: "/star/",
+
+      article: "/article/",
+      
+      // Konfigurasi tag
+      tag: "/tag/",
+      tagItem: "/tag/:name/",
+    },
     search: {
       hotKeys: ['s', '/'],
       maxSuggestions: 10,

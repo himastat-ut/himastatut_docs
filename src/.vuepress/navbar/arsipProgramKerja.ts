@@ -5,17 +5,17 @@ export default {
     children: [
       {
         text: "Apa itu Arsip Program Kerja?",
-        icon: "file-archive",
+        icon: "fa-solid:file-archive",
         link: "/archived/README.md",
       },
       {
         text: "Bincang Mahasiswa (BIMA)",
-        icon: "file-archive",
+        icon: "fa-solid:file-archive",
         link: "/archived/bima/README.md",
       },
       {
         text: "Program C (Archived Program Example)",
-        icon: "file-archive",
+        icon: "fa-solid:file-archive",
         link: "/archived/programC.md",
       },
     ]

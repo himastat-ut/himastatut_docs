@@ -4,6 +4,8 @@ index: false
 icon: book
 category:
   - Archive
+article: true
+star: true
 ---
 
 # Statistika Program - Archive Program
