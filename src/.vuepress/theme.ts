@@ -45,6 +45,7 @@ export default hopeTheme({
 
   // These features are enabled for demo, only preserve features you need here
   markdown: {
+    footnote: true,
     align: true,
     attrs: true,
     codeTabs: true,
@@ -59,6 +60,7 @@ export default hopeTheme({
     imgMark: true,
     plantuml: true,
     spoiler: true,
+    alert: true,
     stylize: [
       {
         matcher: "Recommended",
@@ -79,15 +81,15 @@ export default hopeTheme({
     vPre: true,
 
     // uncomment these if you need TeX support
-    // math: {
-    //   // install katex before enabling it
-    //   type: "katex",
-    //   // or install mathjax-full before enabling it
-    //   type: "mathjax",
-    // },
+    math: {
+      // install katex before enabling it
+      type: "katex",
+      // or install mathjax-full before enabling it
+      // type: "mathjax",
+    },
 
     // install chart.js before enabling it
-    // chartjs: true,
+    chartjs: true,
 
     // install echarts before enabling it
     // echarts: true,
@@ -109,11 +111,13 @@ export default hopeTheme({
     // sandpack: true,
 
     // install @vuepress/plugin-revealjs and uncomment these if you need slides
-    // revealjs: {
-    //   plugins: ["highlight", "math", "search", "notes", "zoom"],
-    // },
+    revealjs: {
+      plugins: ["highlight", "math", "search", "notes", "zoom"],
+    },
   },
-
+  fullscreen: true,
+  focus: true,
+  pure: true,
   plugins: {
     seo: {
       autoDescription: true,
