@@ -23,6 +23,11 @@ export default {
         icon: "chalkboard-user",
         link: "/tuweb/README.md",
       },
+      {
+        text: "Webinar Series Statistika",
+        icon: "chalkboard-user",
+        link: "/webinarseries/prodi/README.md",
+      },
     ]
   };
   

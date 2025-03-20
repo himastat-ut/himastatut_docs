@@ -13,6 +13,7 @@ export default sidebar({
   "/sigma/": sigmaSidebar,
   "/temusapa/": temusapaSidebar,
   "/tuweb/": temusapaSidebar,
+  "/webinarseries/prodi/": temusapaSidebar,
   "/courses/": coursesSidebar,
   "/archived/": archivedSidebar,
   "/hangat/": [
