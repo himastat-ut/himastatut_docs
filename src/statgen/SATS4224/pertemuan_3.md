@@ -31,8 +31,7 @@ Tonton rekaman **StatGen Class 3.0 - Pengantar Sosiometri (SATS4224) Pertemuan 3
 
 <VidStack  
   src="https://www.youtube.com/watch?v=EXJZ0-C3MYE&t=2s"  
-  title="StatGen Class 3.0 - Pengantar Sosiometri (SATS4224) Pertemuan 3"  
-  layout="{controlsPosition: 'bottom'}"  
+  title="StatGen Class 3.0 - Pengantar Sosiometri (SATS4224) Pertemuan 3"
 />
 
 ---

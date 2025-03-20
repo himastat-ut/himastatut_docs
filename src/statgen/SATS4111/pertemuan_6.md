@@ -30,8 +30,7 @@ Tonton rekaman **StatGen Class 2023 - Komputer 1 (SATS4111) Pertemuan 6** di baw
 
 <VidStack  
   src="https://www.youtube.com/watch?v=VJAPvejJ19I"  
-  title="StatGen Class 2023 - Komputer 1 (SATS4111) Pertemuan 6"  
-  layout="{controlsPosition: 'bottom'}"  
+  title="StatGen Class 2023 - Komputer 1 (SATS4111) Pertemuan 6"
 />
 
 ---

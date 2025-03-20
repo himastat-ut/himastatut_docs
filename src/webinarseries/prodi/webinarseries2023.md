@@ -45,7 +45,6 @@ Jangan lewatkan rekaman acara ini di **YouTube HIMASTAT UT** untuk mendapatkan l
 <VidStack
   src="youtube/1JPRbv8onF0"
   title="Data Scientist: The Sexiest Job for Statistician?"
-  layout="{controlsPosition: 'bottom'}"
 />
 
 ---

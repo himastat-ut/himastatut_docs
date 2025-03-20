@@ -30,10 +30,3 @@ Selamat datang di halaman **Hasil Rapat RADAR** untuk bulan Juli 2024. Berikut a
 ---
 
 Harap semua anggota mengikuti perkembangan lebih lanjut melalui [Agenda Rapat](./radar202407_agenda.md) yang sudah disiapkan.
-
----
-
-### Saran Peningkatan UI dengan Markdown:
-1. **Breadcrumb Navigation**: Menambahkan breadcrumb di bagian atas halaman akan mempermudah navigasi antar halaman. Anda bisa mengaktifkannya di pengaturan tema VuePress.
-   ```yaml
-   breadcrumb: true

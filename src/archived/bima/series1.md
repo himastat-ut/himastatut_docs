@@ -66,7 +66,6 @@ Jika Anda ingin lebih memahami materi yang disampaikan, tonton rekaman **Bincang
 <VidStack
   src="youtube/hapPJgTc24w&t=483s"
   title="Bincang Mahasiswa (BIMA) Statistika Series 1"
-  layout="{controlsPosition: 'bottom'}"
 />
 
 ---

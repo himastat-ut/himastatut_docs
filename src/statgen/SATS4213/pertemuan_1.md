@@ -32,8 +32,7 @@ Tonton rekaman **StatGen Class 2.0 - Pengumpulan & Penyajian Data (SATS4213) Per
 
 <VidStack  
   src="https://www.youtube.com/watch?v=18b2zSt2ohU"  
-  title="StatGen Class 2.0 - Pengumpulan & Penyajian Data (SATS4213) Pertemuan 1"  
-  layout="{controlsPosition: 'bottom'}"  
+  title="StatGen Class 2.0 - Pengumpulan & Penyajian Data (SATS4213) Pertemuan 1"
 />
 
 ---

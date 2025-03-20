@@ -91,7 +91,6 @@ Jangan lupa untuk menonton rekaman acara ini di **Youtube Himastat UT** dan dapa
 <VidStack
   src="youtube/1JPRbv8onF0"
   title="Inspiring Achievements - A Sharing Session for UT Statistics Students"
-  layout="{controlsPosition: 'bottom'}"
 />
 
 

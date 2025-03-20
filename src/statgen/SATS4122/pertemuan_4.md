@@ -31,8 +31,7 @@ Tonton rekaman **StatGen Class 3.0 - Aljabar Linear Terapan (SATS4122) Pertemuan
 
 <VidStack  
   src="https://www.youtube.com/watch?v=1yE-MQ-reko"  
-  title="StatGen Class 3.0 - Aljabar Linear Terapan (SATS4122) Pertemuan 4"  
-  layout="{controlsPosition: 'bottom'}"  
+  title="StatGen Class 3.0 - Aljabar Linear Terapan (SATS4122) Pertemuan 4"
 />
 
 ---

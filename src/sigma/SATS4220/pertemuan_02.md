@@ -32,7 +32,6 @@ Tonton rekaman **SIGMA - Pendalaman Materi Matematika III (SATS4220) Pertemuan 2
 <VidStack
   src="https://www.youtube.com/watch?v=pwTAjZWR2Jo"
   title="SIGMA - Pendalaman Materi Matematika III (SATS4220) Pertemuan 2"
-  layout="{controlsPosition: 'bottom'}"
 />
 
 ---

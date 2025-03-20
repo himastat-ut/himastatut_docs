@@ -32,6 +32,9 @@ Tonton rekaman **StatGen Class 2.0 - Analisis Runtun Waktu (SATS4423) Pertemuan 
 
 <VidStack  
   src="https://www.youtube.com/watch?v=18b2zSt2ohU"  
-  title="StatGen Class 2.0 - Analisis Runtun Waktu (SATS4423) Pertemuan 1"  
-  layout="{controlsPosition: 'bottom'}"  
+  title="StatGen Class 2.0 - Analisis Runtun Waktu (SATS4423) Pertemuan 1"
 />
+---
+"Tidak ada kata terlambat untuk belajar. Maka dari itu, mari cerdas bersama Himastat!"
+
+#statgenclass2024 #sigma

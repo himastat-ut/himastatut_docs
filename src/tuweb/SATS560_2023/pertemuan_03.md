@@ -35,8 +35,7 @@ Tonton rekaman **SATS560 - Karya Ilmiah (Pertemuan 3)** melalui tautan berikut u
 
 <VidStack  
   src="https://www.youtube.com/watch?v=W-si12v2SHM"  
-  title="Tuweb 3 Karya Ilmiah SATS560 - 17 November 2023"  
-  layout="{controlsPosition: 'bottom'}"  
+  title="Tuweb 3 Karya Ilmiah SATS560 - 17 November 2023"
 />
 
 ### Tugas dan Kegiatan

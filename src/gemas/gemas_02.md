@@ -89,7 +89,6 @@ Jangan lupa untuk menonton rekaman acara ini di **Youtube Himastat UT** dan dapa
 <VidStack
   src="https://www.youtube.com/watch?v=P37Sc32DfzI"
   title="UT-IMATE JOURNEY: Ujian, Tugas, & Motivasi Ala Alumni Statistika UT"
-  layout="{controlsPosition: 'bottom'}"
 />
 
 ---

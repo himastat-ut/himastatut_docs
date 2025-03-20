@@ -45,7 +45,6 @@ Bagi yang tidak dapat mengikuti acara secara langsung, rekaman dari **Temu Sapa 
 <VidStack
   src="youtube/LoWFdx9Gucw?si=oBjFfPb1iAk6l1kf"
   title="Temu Sapa Online Mahasiswa Statistika FST UT Series 2023"
-  layout="{controlsPosition: 'bottom'}"
 />
 
 ---

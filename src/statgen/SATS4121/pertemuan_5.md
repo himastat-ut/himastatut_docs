@@ -32,7 +32,6 @@ Tonton rekaman **StatGen Class 2023 - Metode Statistik 1 (SATS4121) Pertemuan 5*
 <VidStack
   src="youtube/LdZlifb4Dz4"
   title="StatGen Class 2023 - Metode Statistik 1 (SATS4121) Pertemuan 5"
-  layout="{controlsPosition: 'bottom'}"
 />
 
 ---

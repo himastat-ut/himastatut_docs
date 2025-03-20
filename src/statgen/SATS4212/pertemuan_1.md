@@ -32,8 +32,7 @@ Tonton rekaman **StatGen Class 2.0 - Analisis Data Statistik (SATS4212) Pertemua
 
 <VidStack  
   src="https://www.youtube.com/watch?v=pHJfLtTMPnw"  
-  title="StatGen Class 2.0 - Analisis Data Statistik (SATS4212) Pertemuan 1"  
-  layout="{controlsPosition: 'bottom'}"  
+  title="StatGen Class 2.0 - Analisis Data Statistik (SATS4212) Pertemuan 1"
 />
 
 ---

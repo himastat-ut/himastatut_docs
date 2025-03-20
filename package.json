@@ -1,7 +1,7 @@
 {
   "name": "himastatut_docs",
   "description": "himastatut_docs",
-  "version": "0.1.1",
+  "version": "0.2.1",
   "license": "MIT",
   "type": "module",
   "scripts": {
