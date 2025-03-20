@@ -1,5 +1,5 @@
 import { hopeTheme } from "vuepress-theme-hope";
-import { docsearchPlugin } from "@vuepress/plugin-docsearch";
+import { getDirname, path } from "vuepress/utils";
 
 import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
@@ -115,6 +115,9 @@ export default hopeTheme({
   },
 
   plugins: {
+    seo: {
+      autoDescription: true,
+    },
     blog: {      
       // Konfigurasi kategori
       category: "/category/",

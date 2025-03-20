@@ -15,7 +15,6 @@ export default defineUserConfig({
     ['link', { rel: 'icon', href: '/assets/image/logo.png' }]
   ],
   theme,
-  
 
   // Enable it with pwa
   // shouldPrefetch: false,
