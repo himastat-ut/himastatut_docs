@@ -6,6 +6,8 @@ import sigmaSidebar from "./sidebar/sigma.ts";
 import radarSidebar from "./sidebar/radar.ts";
 import jepretSidebar from "./sidebar/jepret.ts";
 import archivedSidebar from "./sidebar/archived.ts";
+import howtoSidebar from "./sidebar/howto.ts";
+import howtoTipsSidebar from "./sidebar/howto/tips.ts";
 
 export default sidebar({
   "/": [""],
@@ -13,12 +15,14 @@ export default sidebar({
   "/sigma/": sigmaSidebar,
   "/temusapa/": temusapaSidebar,
   "/tuweb/": temusapaSidebar,
-  "/howto/": [
+  "/howto/": howtoSidebar,
+  "/howto/tips/": howtoTipsSidebar,
+  "/webinarseries/prodi/": temusapaSidebar,
+  "/courses/": coursesSidebar,
+  "/docs/": [
     "",
     { text: "", icon: "", link: "", children: "structure" }
   ],
-  "/webinarseries/prodi/": temusapaSidebar,
-  "/courses/": coursesSidebar,
   "/archived/": archivedSidebar,
   "/hangat/": [
     "",

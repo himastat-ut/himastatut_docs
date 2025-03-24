@@ -19,30 +19,33 @@ Halaman **How To** berisi berbagai sumber daya yang disusun untuk mahasiswa Stat
 - Membekali mahasiswa dengan keterampilan praktis yang diperlukan dalam dunia statistika.
 - Memberikan tutorial dan panduan langkah-demi-langkah mengenai penggunaan software statistik, analisis data, dan topik terkait lainnya.
 
-## Konten yang Tersedia
-- **Tips Perkuliahan**: Panduan tentang bagaimana cara sukses di jurusan Statistika, termasuk tips belajar, cara mengatur waktu, dan mengatasi tantangan akademik.
-- **Tutorial Software Statistik**: Penjelasan dan panduan mengenai software statistik yang umum digunakan, seperti R, Python, SPSS, dan Excel.
-- **Metodologi Statistik**: Pemahaman dasar dan lanjutan mengenai metodologi statistik yang sering digunakan dalam penelitian dan analisis data.
-- **Kegiatan Akademik**: Panduan tentang kegiatan-kegiatan yang bisa diikuti oleh mahasiswa untuk memperkaya pengalaman mereka di luar kelas, seperti seminar, lomba, dan lainnya.
+## Kategori
+
+Halaman **How To** dibagi menjadi beberapa kategori untuk memudahkan pencarian informasi. Pilih kategori yang sesuai dengan kebutuhan Anda:
+
+- **Tips**: Panduan dan tips praktis untuk sukses dalam perkuliahan.
+- **Tutorials**: Langkah-langkah tutorial untuk menggunakan alat statistik dan software.
+- **Methods**: Penjelasan tentang metode-metode statistik yang digunakan dalam analisis data.
+- **Activities**: Informasi tentang hal-hal yang dapat membantu dalam kegiatan pengembangan akademik mahasiswa, seperti seminar, lomba, dan lainnya.
 
 ## Struktur Halaman
 
 <Catalog />
 
-### Tabulasi Topik
+### Tabulasi Kategori
 
 ::: tabs
-@tab Tips Perkuliahan
+@tab Tips
 - Tips tentang cara sukses di jurusan Statistika, mulai dari belajar efektif hingga mempersiapkan ujian.
 
-@tab Tutorial Software Statistik
+@tab Tutorials
 - Panduan langkah-demi-langkah dalam penggunaan software statistik seperti R, Python, SPSS, dan lainnya.
 
-@tab Metodologi Statistik
+@tab Methods
 - Penjelasan tentang konsep-konsep dasar statistik yang digunakan dalam analisis data.
 
-@tab Kegiatan Akademik
-- Informasi tentang kegiatan yang mendukung pengembangan akademik mahasiswa, seperti seminar, lomba, dan lainnya.
+@tab Activities
+- Informasi tentang hal-hal yang dapat membantu dalam kegiatan pengembangan akademik mahasiswa, seperti seminar, lomba, dan lainnya.
 :::
 
 ## Informasi Penting
@@ -61,10 +64,10 @@ Untuk memberikan gambaran yang lebih jelas tentang bagaimana konten di halaman i
 
 ```mermaid
 graph LR
-    A[How To] --> B{Tips Perkuliahan}
-    A --> C{Tutorial Software Statistik}
-    A --> D{Metodologi Statistik}
-    A --> E{Kegiatan Akademik}
+    A[How To] --> B{Tips}
+    A --> C{Tutorials}
+    A --> D{Methods}
+    A --> E{Activities}
     B --> F[Tips Belajar]
     B --> G[Persiapan Ujian]
     C --> H[R Tutorial]

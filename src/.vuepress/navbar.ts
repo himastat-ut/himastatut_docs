@@ -4,6 +4,7 @@ import programKerjaNavbar from "./navbar/programKerja.ts";
 import arsipProgramKerjaNavbar from "./navbar/arsipProgramKerja.ts";
 import pengurusHimpunanNavbar from "./navbar/pengurusHimpunan.ts";
 import kegiatanProdiNavbar from "./navbar/kegiatanProdi.ts";
+import howTo from "./navbar/howTo.ts";
 
 export default navbar([
   "/",
@@ -19,9 +20,5 @@ export default navbar([
   arsipProgramKerjaNavbar,
   pengurusHimpunanNavbar,
   kegiatanProdiNavbar,
-  {
-    text: "How To ?", 
-    icon: "file-circle-question", 
-    link: "/howto/"
-  }
+  howTo,
 ]);
