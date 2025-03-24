@@ -119,6 +119,19 @@ export default hopeTheme({
   focus: true,
   pure: true,
   plugins: {
+    sitemap: {
+      devHostname: "http://localhost:8080",
+      changefreq: "daily",
+      devServer: true,
+      sitemapFilename: "sitemap.xml",
+      sitemapXSLFilename: "sitemap.xsl",
+      xmlNameSpace: {
+        image:true,
+        news:true,
+        video:true,
+        xhtml:true,
+      },
+    },
     seo: {
       autoDescription: true,
     },
