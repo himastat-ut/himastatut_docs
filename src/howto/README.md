@@ -36,7 +36,7 @@ Halaman **How To** dibagi menjadi beberapa kategori untuk memudahkan pencarian i
 
 ::: tabs
 @tab Tips
-- Tips tentang cara sukses di jurusan Statistika, mulai dari belajar efektif hingga mempersiapkan ujian.
+- Tips tentang cara sukses di jurusan Statistika, mulai dari belajar efektif hingga mempersiapkan ujian. 
 
 @tab Tutorials
 - Panduan langkah-demi-langkah dalam penggunaan software statistik seperti R, Python, SPSS, dan lainnya.
