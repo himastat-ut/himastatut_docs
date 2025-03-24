@@ -5,12 +5,7 @@ category:
   - Statgen
 date: 2024-11-21
 author: HIMASTAT UT
-pageInfo:
-  - author
-  - date
-  - category
-  - tag
-  - readingTime
+
 ---
 
 # Pengantar Sosiometri (SATS4224) - STATGEN CLASS 3.0

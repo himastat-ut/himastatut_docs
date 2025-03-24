@@ -6,12 +6,7 @@ category:
   - SIGMA
 date: 2023-11-05
 author: HIMASTAT UT
-pageInfo:
-  - author
-  - date
-  - category
-  - tag
-  - readingTime
+
 ---
 
 # SIGMA - Solusi Program Studi Statistika Meningkatkan Akademik Mahasiswa

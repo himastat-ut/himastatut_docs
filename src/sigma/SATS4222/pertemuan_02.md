@@ -3,12 +3,7 @@ title: SATS4222 - Pertemuan 2
 date: 2024-11-28
 icon: flask
 author: HIMASTAT UT
-pageInfo:
-  - author
-  - date
-  - category
-  - tag
-  - readingTime
+
 ---
 
 # SIGMA - Pendalaman Materi Rancangan Percobaan (SATS4222) Pertemuan 2

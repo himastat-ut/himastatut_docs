@@ -4,9 +4,11 @@ date: 2024-06-05
 icon: book
 author: HIMASTAT UT
 tags:
-  - bima
-  - statistika
-category: Archive
+  - Bima
+  - Statistika
+category:
+  - Archive
+  - Bima
 ---
 
 # Bincang Mahasiswa (BIMA) Statistika Series 1: How to Enhancing Your Statistical Skills

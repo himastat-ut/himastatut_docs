@@ -3,12 +3,7 @@ title: SATS560 (2023) - Pertemuan 1
 date: 2023-10-13
 icon: book
 author: HIMASTAT UT
-pageInfo:
-  - author
-  - date
-  - category
-  - tag
-  - readingTime
+
 ---
 
 # TUWEB – Karya Ilmiah (SATS560) Pertemuan 1

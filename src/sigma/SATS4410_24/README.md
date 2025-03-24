@@ -5,12 +5,7 @@ category:
   - SIGMA
 date: 2024-11-28
 author: HIMASTAT UT
-pageInfo:
-  - author
-  - date
-  - category
-  - tag
-  - readingTime
+
 ---
 
 # SIGMA - Pendalaman Materi Pengantar Statistika Matematis 1 SATS4410 2024

@@ -5,12 +5,7 @@ category:
   - SIGMA
 date: 2024-11-22
 author: HIMASTAT UT
-pageInfo:
-  - author
-  - date
-  - category
-  - tag
-  - readingTime
+
 ---
 
 # SIGMA - Pendalaman Materi Metode Statistika Nonparametrik SATS4411

@@ -3,12 +3,7 @@ title: SATS4312 - Pertemuan 2
 date: 2023-12-13
 icon: calculator
 author: HIMASTAT UT
-pageInfo:
-  - author
-  - date
-  - category
-  - tag
-  - readingTime
+
 ---
 
 # SIGMA – Model Linear Terapan (SATS4312) Pertemuan 2

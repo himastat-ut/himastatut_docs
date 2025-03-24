@@ -119,6 +119,7 @@ export default hopeTheme({
   focus: true,
   pure: true,
   plugins: {
+    readingTime:true,
     sitemap: {
       devHostname: "http://localhost:8080",
       changefreq: "daily",

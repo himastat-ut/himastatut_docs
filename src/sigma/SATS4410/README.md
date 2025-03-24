@@ -5,12 +5,7 @@ category:
   - SIGMA
 date: 2023-12-01
 author: HIMASTAT UT
-pageInfo:
-  - author
-  - date
-  - category
-  - tag
-  - readingTime
+
 ---
 
 # SIGMA – Pendalaman Materi Pengantar Statistika Matematis I (SATS4410)

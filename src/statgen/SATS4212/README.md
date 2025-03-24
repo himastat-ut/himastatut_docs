@@ -5,12 +5,7 @@ category:
   - Statgen
 date: 2024-04-20
 author: HIMASTAT UT
-pageInfo:
-  - author
-  - date
-  - category
-  - tag
-  - readingTime
+
 ---
 
 # Analisis Data Statistik (SATS4212)

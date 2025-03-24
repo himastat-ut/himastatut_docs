@@ -5,12 +5,7 @@ category:
   - Statgen
 date: 2024-03-15
 author: HIMASTAT UT
-pageInfo:
-  - author
-  - date
-  - category
-  - tag
-  - readingTime
+
 ---
 
 # Pengumpulan & Penyajian Data (SATS4213)

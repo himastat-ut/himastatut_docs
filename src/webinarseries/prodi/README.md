@@ -6,12 +6,7 @@ category:
   - Program Kerja
 date: 2025-03-20
 author: HIMASTAT
-pageInfo:
-  - author
-  - date
-  - category
-  - tag
-  - readingTime
+
 ---
 
 # Webinar Series Statistika FST UT

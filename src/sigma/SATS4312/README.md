@@ -5,12 +5,7 @@ category:
   - SIGMA
 date: 2023-12-12
 author: HIMASTAT UT
-pageInfo:
-  - author
-  - date
-  - category
-  - tag
-  - readingTime
+
 ---
 
 # SIGMA – Pendalaman Materi Model Linear Terapan (SATS4312)

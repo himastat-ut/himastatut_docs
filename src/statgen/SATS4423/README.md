@@ -5,12 +5,7 @@ category:
   - Statgen
 date: 2024-05-05
 author: HIMASTAT UT
-pageInfo:
-  - author
-  - date
-  - category
-  - tag
-  - readingTime
+
 ---
 
 # Analisis Runtun Waktu (SATS4423)

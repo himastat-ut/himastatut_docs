@@ -3,12 +3,7 @@ title: SATS4220 - Pertemuan 3
 date: 2023-11-21
 icon: calculator
 author: HIMASTAT UT
-pageInfo:
-  - author
-  - date
-  - category
-  - tag
-  - readingTime
+
 ---
 
 # SIGMA - Pendalaman Materi Matematika III (SATS4220) Pertemuan 3

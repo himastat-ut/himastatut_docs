@@ -5,12 +5,7 @@ category:
   - SIGMA
 date: 2024-11-25
 author: HIMASTAT UT
-pageInfo:
-  - author
-  - date
-  - category
-  - tag
-  - readingTime
+
 ---
 
 # SIGMA - Pendalaman Materi Rancangan Percobaan SATS4222

@@ -5,12 +5,7 @@ category:
   - SIGMA
 date: 2023-12-14
 author: HIMASTAT UT
-pageInfo:
-  - author
-  - date
-  - category
-  - tag
-  - readingTime
+
 ---
 
 # SIGMA – Pendalaman Materi Metode Statistika Multivariat (SATS4421)

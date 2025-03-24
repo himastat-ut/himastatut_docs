@@ -5,12 +5,7 @@ category:
   - Statgen
 date: 2023-09-09
 author: HIMASTAT UT
-pageInfo:
-  - author
-  - date
-  - category
-  - tag
-  - readingTime
+
 ---
 
 # StatGen Class 2023 - Metode Statistik 1 (SATS4121)

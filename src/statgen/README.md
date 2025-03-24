@@ -6,12 +6,7 @@ category:
   - Statgen
 date: 2023-09-11
 author: HIMASTAT UT
-pageInfo:
-  - author
-  - date
-  - category
-  - tag
-  - readingTime
+
 ---
 
 # StatGen - Statistics Genius Class

@@ -3,12 +3,7 @@ title: SATS4223 - Pertemuan 2
 date: 2024-11-27
 icon: chart-line
 author: HIMASTAT UT
-pageInfo:
-  - author
-  - date
-  - category
-  - tag
-  - readingTime
+
 ---
 
 # SIGMA - Pendalaman Materi Komputer 2 (SATS4223) Pertemuan 2

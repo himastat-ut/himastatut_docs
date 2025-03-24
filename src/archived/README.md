@@ -6,6 +6,8 @@ category:
   - Archive
 article: true
 star: true
+author: HIMASTAT UT
+date: 2024-05-01
 ---
 
 # Statistika Program - Archive Program

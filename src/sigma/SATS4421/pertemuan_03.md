@@ -3,12 +3,7 @@ title: SATS4421 - Pertemuan 3
 date: 2023-12-14
 icon: calculator
 author: HIMASTAT UT
-pageInfo:
-  - author
-  - date
-  - category
-  - tag
-  - readingTime
+
 ---
 
 # SIGMA – Metode Statistika Multivariat (SATS4421) Pertemuan 3

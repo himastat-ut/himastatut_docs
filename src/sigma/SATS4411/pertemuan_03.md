@@ -3,12 +3,7 @@ title: SATS4411 - Pertemuan 3
 date: 2024-11-29
 icon: stats
 author: HIMASTAT UT
-pageInfo:
-  - author
-  - date
-  - category
-  - tag
-  - readingTime
+
 ---
 
 # SIGMA - Pendalaman Materi Metode Statistika Nonparametrik (SATS4411) Pertemuan 3

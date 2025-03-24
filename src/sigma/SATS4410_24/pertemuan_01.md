@@ -3,12 +3,7 @@ title: SATS4410 2024 - Pertemuan 1
 date: 2024-11-28
 icon: calculator
 author: HIMASTAT UT
-pageInfo:
-  - author
-  - date
-  - category
-  - tag
-  - readingTime
+
 ---
 
 # SIGMA - Pendalaman Materi Pengantar Statistika Matematis 1 (SATS4410 2024) Pertemuan 1

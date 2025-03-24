@@ -5,12 +5,7 @@ category:
   - SIGMA
 date: 2024-11-20
 author: HIMASTAT UT
-pageInfo:
-  - author
-  - date
-  - category
-  - tag
-  - readingTime
+
 ---
 
 # SIGMA - Pendalaman Materi Komputer 2 SATS4223

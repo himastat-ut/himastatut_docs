@@ -6,12 +6,7 @@ category:
   - Program Kerja
 date: 2025-03-16
 author: HIMASTAT
-pageInfo:
-  - author
-  - date
-  - category
-  - tag
-  - readingTime
+
 ---
 
 # TAKTIK - Temu Aksi Kreatif untuk Tim dan Kompetisi

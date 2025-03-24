@@ -3,12 +3,7 @@ title: SATS4111 - Pertemuan 1
 date: 2023-09-08
 icon: calculator
 author: HIMASTAT UT
-pageInfo:
-  - author
-  - date
-  - category
-  - tag
-  - readingTime
+
 ---
 
 # StatGen Class 2023 - Komputer 1 (SATS4111) Pertemuan 1
