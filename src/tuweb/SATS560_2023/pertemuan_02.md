@@ -1,5 +1,5 @@
 ---
-title: SATS560 - Ppertemuan 2 - 2023
+title: SATS560 - Pertemuan 2 - 2023
 date: 2023-11-03
 icon: fa-solid:book
 author: Universitas Terbuka
