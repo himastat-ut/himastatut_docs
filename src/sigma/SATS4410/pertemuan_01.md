@@ -18,7 +18,7 @@ pageInfo:
 - **Hari/Tanggal**: Jumat, 1 Desember 2023  
 - **Jam**: 19.30–21.00 WIB *(sesuaikan jika ada jadwal berbeda)*  
 - **Topik**: Evaluasi Kriteria Penaksir Titik  
-- **Pemateri Utama**: Ibu Adelin Vinda Septiani, S2 Statistika & Sains Data IPB  
+- **Pemateri Utama**: Adelin Vinda Septiani
 
 ### Ringkasan Materi
 

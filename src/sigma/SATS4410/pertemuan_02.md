@@ -18,7 +18,7 @@ pageInfo:
 - **Hari/Tanggal**: Selasa, 12 Desember 2023  
 - **Jam**: 19.30–21.00 WIB *(sesuaikan jika ada jadwal lain)*  
 - **Topik**: Kriteria Penduga Terbaik  
-- **Pemateri Utama**: Ibu Seani (S2 Statistika & Sains Data)
+- **Pemateri Utama**: Adelin Vinda Septiani
 
 ### Ringkasan Materi
 Pada pertemuan kedua untuk matakuliah **Pengantar Statistika Matematis I (SATS4410)**, fokus utama pembahasan adalah **kriteria penduga terbaik** serta penerapannya dalam analisis dan pembuktian. Berikut garis besar materi yang disampaikan:

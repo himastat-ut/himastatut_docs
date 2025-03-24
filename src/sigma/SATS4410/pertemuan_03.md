@@ -18,7 +18,7 @@ pageInfo:
 - **Hari/Tanggal**: Selasa, 12 Desember 2023  
 - **Jam**: 19.30–21.00 WIB  
 - **Topik**: Evaluasi Pengujian Hipotesis & Penduga Selang  
-- **Pemateri Utama**: Ibu Seani (S2 Statistika & Sains Data)
+- **Pemateri Utama**: Adelin Vinda Septiani
 
 ---
 
