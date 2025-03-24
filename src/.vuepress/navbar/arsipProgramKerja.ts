@@ -13,11 +13,6 @@ export default {
         icon: "fa-solid:file-archive",
         link: "/archived/bima/README.md",
       },
-      {
-        text: "Program C (Archived Program Example)",
-        icon: "fa-solid:file-archive",
-        link: "/archived/programC.md",
-      },
     ]
   };
   

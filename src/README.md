@@ -30,38 +30,38 @@ highlights:
       - title: HANGAT (Hubungan Aktif dan Komunikasi Terpadu)
         icon: comments
         details: Program ini membentuk saluran WhatsApp untuk mahasiswa Statistika per daerah dan mendukung kegiatan resmi. Dari 50 grup, 39 dialokasikan untuk mahasiswa per daerah, sementara sisanya digunakan untuk acara atau kegiatan resmi Statistika Universitas Terbuka.
-        link: https://example.com/hangat
+        link: /hangat/
 
       - title: RADAR (Rapat Asyik Diskusi dan Analisis Review)
         icon: clipboard-list
         details: Program evaluasi pengurus dilaksanakan 1x sebulan untuk meninjau kinerja dan perkembangan kegiatan organisasi, serta mendiskusikan strategi peningkatan efektivitas himpunan.
-        link: https://example.com/radar
+        link: /radar/
 
       - title: STATGEN (Statistics Genius)
         icon: chart-bar
         details: Program ini memberikan bimbingan statistik pada 2-4 mata kuliah per semester, membantu mahasiswa memahami materi dengan lebih mendalam dan mempersiapkan diri menghadapi ujian serta tugas akademik.
-        link: https://example.com/statgen
+        link: /statgen/
 
       - title: GEMAS (Gerakan Mempersembahkan Inspirasi dan Apresiasi)
         icon: trophy
         details: Program ini bertujuan memberikan penghargaan kepada mahasiswa yang berprestasi dan alumni yang telah menyelesaikan studi. Dilaksanakan sebagai bentuk apresiasi dan motivasi, acara ini juga memperkuat hubungan antara himpunan, mahasiswa, pengurus lama/baru hima, dan alumni.
-        link: https://example.com/gemas
+        link: /gemas/
 
       - title: JEPRET (Jejak Pengurus di Feed Terupdate)
         icon: user-check
         details: Program yang bertujuan untuk memberikan apresiasi kepada pengurus lama atas kontribusi mereka selama masa kepengurusan. Selain itu, program ini juga menyusun dan mempublikasikan informasi tentang susunan kepengurusan HIMASTAT yang baru sebagai bentuk transparansi dan informasi kepada anggota.
-        link: https://example.com/jepret
+        link: /jepret/
 
       - title: LINK (Lintasan Inspirasi Nurturing Kegiatan)
         icon: users
         details: Program ini bertujuan untuk mempertemukan mahasiswa agar dapat mempersiapkan diri dalam mengikuti lomba-lomba terkait statistik dan membentuk tim serta memberikan pelatihan intensif.
-        link: https://example.com/link
+        link: /link/
 
       - title: TAKTIK (Temu Aksi Kreatif untuk Tim dan Kompetisi)
         icon: lightbulb
         details: Program ini dirancang untuk meningkatkan kreativitas dan kompetisi di antara mahasiswa melalui berbagai kegiatan yang melibatkan kolaborasi dan inovasi.
-        link: https://example.com/taktik
+        link: /taktik/
 
 copyright: false
-footer: Theme by <a href="https://himastatutv2.netlify.app/" target="_blank">Himpunan Mahasiswa Universitas Terbuka</a> | MIT Licensed, Copyright © 2014-present Mr.Hope
+footer: Theme by <a href="https://himastatut.my.id" target="_blank">Himpunan Mahasiswa Universitas Terbuka</a> | MIT Licensed, Copyright © 2024-present Ikimukti
 ---

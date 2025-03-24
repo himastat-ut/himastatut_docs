@@ -13,6 +13,10 @@ export default sidebar({
   "/sigma/": sigmaSidebar,
   "/temusapa/": temusapaSidebar,
   "/tuweb/": temusapaSidebar,
+  "/howto/": [
+    "",
+    { text: "", icon: "", link: "", children: "structure" }
+  ],
   "/webinarseries/prodi/": temusapaSidebar,
   "/courses/": coursesSidebar,
   "/archived/": archivedSidebar,

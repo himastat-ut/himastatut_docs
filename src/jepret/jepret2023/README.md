@@ -71,7 +71,7 @@ highlights:
       - title: Ketua Himpunan
         icon: fa6-solid:user-tie
         details: Khusnul Maulud Awalludin - Sebagai Ketua Himpunan Mahasiswa Statistika, Khusnul memimpin dengan visi yang kuat untuk membangun komunitas yang solid dan berdaya saing tinggi dalam bidang statistika.
-        link: "portofolio/MHS043164149.md"
+        link: "portofolio/MHS044567536.md"
 
       - title: Wakil Ketua Himpunan
         icon: fa6-solid:user-tie
@@ -83,12 +83,17 @@ highlights:
         details: Anju Anjannah - Menjaga kelancaran administrasi dan komunikasi internal organisasi, serta memastikan setiap agenda dan rapat terlaksana dengan baik.
         link: "portofolio/MHS044924625.md"
 
-      - title: Kepala Divisi IT
+      - title: Divisi IT 1
         icon: fa6-solid:desktop
-        details: Firmansyah Mukti Wijaya - Mengelola pengembangan sistem dan teknologi informasi dalam organisasi, memastikan infrastruktur IT berjalan lancar dan mendukung aktivitas operasional.
-        link: "portofolio/MHS050900568.md"
+        details: Martha Erlita Sabadtini - Mengelola pengembangan sistem dan teknologi informasi dalam organisasi, memastikan infrastruktur IT berjalan lancar dan mendukung aktivitas operasional.
+        link: "portofolio/MHS044648707.md"
 
-      - title: Kepala Divisi Hubungan Masyarakat
+      - title: Divisi IT 2
+        icon: fa6-solid:desktop
+        details: ildzah Najwa Maulidina - Mengelola pengembangan sistem dan teknologi informasi dalam organisasi, memastikan infrastruktur IT berjalan lancar dan mendukung aktivitas operasional.
+        link: "portofolio/MHS044981618.md"
+
+      - title: Divisi Hubungan Masyarakat
         icon: fa6-solid:bullhorn
         details: Alfi Fadel Agustian Helmi - Mengelola komunikasi eksternal dan internal organisasi, menghubungi berbagai pihak terkait dengan kegiatan HIMASTAT, serta mendukung keberhasilan program-program yang dilaksanakan.
         link: "portofolio/MHS045255283.md"
