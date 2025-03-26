@@ -30,14 +30,14 @@ export default hopeTheme({
 
   displayFooter: true,
 
-  encrypt: {
-    config: {
-      "/demo/encrypt.html": {
-        hint: "Password: 1234",
-        password: "1234",
-      },
-    },
-  },
+  // encrypt: {
+  //   config: {
+  //     "/demo/encrypt.html": {
+  //       hint: "Password: 1234",
+  //       password: "1234",
+  //     },
+  //   },
+  // },
 
   metaLocales: {
     editLink: "Edit this page on GitHub",
@@ -119,6 +119,7 @@ export default hopeTheme({
   focus: true,
   pure: true,
   plugins: {
+    photoSwipe:true,
     readingTime:true,
     sitemap: {
       devHostname: "http://localhost:8080",

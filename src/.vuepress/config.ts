@@ -15,6 +15,9 @@ export default defineUserConfig({
     ['link', { rel: 'icon', href: '/assets/image/logo.png' }]
   ],
   theme,
+  enhance({ app, router, siteData }) {},
+  setup() {},
+  rootComponents: [],
 
   // Enable it with pwa
   // shouldPrefetch: false,
