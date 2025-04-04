@@ -1,0 +1,203 @@
+@use "sass:map";
+
+// Mendefinisikan variabel array untuk nilai max-width dan elemen yang disembunyikan
+$media-query-config: (
+  // (max-width: 975px, href: '/'),
+  (max-width: 850px, label: "Statistics Genius (StatGen)"),
+  (max-width: 1150px, label: "Prodi Statistika"),
+  (max-width: 1100px, href: '/howto/'),
+  (max-width: 1200px, href: '/infodong/'),
+  (max-width: 1350px, label: "Pengurus Hima"),
+  (max-width: 1500px, label: "Matkul"),
+  (max-width: 1600px, href: '/sigma/'),
+  (max-width: 1700px, label: "Arsip Pro-Ker"),
+);
+
+// Loop untuk menghasilkan media query berdasarkan array
+@each $config in $media-query-config {
+    $max-width: map.get($config, max-width);
+    $label: map.get($config, label);
+    $href: map.get($config, href);
+
+    @if $label != null {
+        @media screen and (max-width: $max-width) {
+        .vp-navbar .vp-nav-item .vp-dropdown-wrapper button[aria-label="#{$label}"] {
+            display: none !important;
+        }
+        }
+    }
+
+    @if $href != null {
+        @media screen and (max-width: $max-width) {
+        .vp-navbar .vp-nav-item {
+            &:has(a[href="#{$href}"]) {
+            display: none !important;
+            }
+        }
+        }
+    }
+}
+
+// Menyesuaikan ukuran dari .vp-hero-info-wrapper agar memenuhi satu layar penuh
+.vp-hero-info-wrapper {
+    height: 100vh; // Setel tinggi ke 100% dari viewport
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative; // Memastikan elemen berada di posisi yang tepat
+  
+    .vp-hero-mask {
+      position: absolute; // Mengatur gambar latar belakang agar menutupi seluruh header
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+    }
+  
+    .vp-hero-info {
+      position: relative; // Menjaga informasi header berada di atas lapisan gambar latar
+      z-index: 1;
+      text-align: center; // Menyusun teks di tengah
+      color: white; // Warna teks agar kontras dengan gambar latar belakang
+  
+      #main-description {
+        margin-bottom: 2rem;
+        max-width: 80%; // Membatasi lebar teks agar lebih responsif
+        margin-left: auto;
+        margin-right: auto;
+
+        // Menggunakan gradien untuk teks
+        background: -webkit-linear-gradient(45deg, #2515ff, #7c09ff); /* Gradien dari oranye ke kuning */
+        -webkit-background-clip: text; // Memotong background ke teks
+        background-clip: text; // Memastikan gradien hanya mempengaruhi teks
+
+        // Efek bayangan halus untuk membuat teks lebih jelas
+        text-shadow: 2px 2px 4px rgb(255, 255, 255); // Bayangan ringan untuk teks agar terlihat lebih tajam
+      }
+    }
+  }
+
+  .footnote-item {
+    margin-top: calc(0rem - var(--header-offset, 5rem));
+  }
+
+/* SCSS untuk menambahkan pembatas | dan nomor urut penulis */
+.page-info {
+  .page-author-info {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+
+    .page-author-item {
+      margin-right: 10px;
+      margin-left: 10px; /* Menambahkan margin kiri pada semua penulis */
+
+      position: relative;
+
+      /* Menghapus margin-left pada penulis pertama */
+      &:first-child {
+        margin-left: 0;  /* Menghapus margin kiri pada elemen pertama */
+      }
+
+      /* Menambahkan pembatas | antar penulis, kecuali penulis terakhir */
+      &::after {
+        content: "|";
+        position: absolute;
+        right: -12px;  // Menjaga jarak pembatas
+        top: 50%;
+        transform: translateY(-50%);
+      }
+
+      /* Menghapus pembatas | untuk penulis terakhir */
+      &:last-child::after {
+        content: "";
+      }
+
+      /* Menambahkan tag <sup> secara dinamis */
+      &::before {
+        content: counter(author) " "; /* Menambahkan angka urut di depan penulis */
+        position: absolute;
+        right: -7px;  // Posisi angka urut di kanan
+        top: -5px;  // Posisi angka sedikit lebih tinggi dari nama penulis
+        font-size: 0.8em;
+        color: gray;
+      }
+
+      /* Mengatur nomor urut berdasarkan counter */
+      counter-increment: author;
+    }
+  }
+}
+
+/* SCSS untuk menambahkan tooltip */
+.page-info {
+  .page-author-info,
+  .page-date-info,
+  .page-reading-time-info,
+  .page-category-info,
+  .page-tag-info {
+    position: relative;
+
+    /* Menambahkan tooltip saat hover di svg */
+    svg {
+      cursor: pointer;  /* Menambahkan pointer saat mouse diarahkan ke icon */
+    }
+
+    /* Tooltip yang muncul saat mouse diarahkan ke svg */
+    &::after {
+      content: attr(aria-label);  /* Mengambil teks dari atribut aria-label */
+      position: absolute;
+      top: -35px;  /* Posisi tooltip di atas elemen */
+      left: 50%;
+      transform: translateX(-50%);  /* Memposisikan tooltip ke tengah elemen */
+      background-color: rgba(0, 0, 0, 0.5);  /* Warna latar belakang tooltip */
+      color: #fff;  /* Warna teks tooltip */
+      padding: 3px 5px;  /* Padding untuk tooltip */
+      border-radius: 5px;  /* Membuat sudut tooltip lebih halus */
+      font-size: 0.9em;
+      white-space: nowrap;  /* Menghindari teks terpotong */
+      opacity: 0;  /* Tooltip disembunyikan secara default */
+      visibility: hidden;  /* Tooltip disembunyikan secara default */
+      transition: opacity 0.3s ease, visibility 0.3s ease;  /* Efek transisi */
+    }
+
+    /* Tooltip muncul saat hover pada svg */
+    &:hover::after {
+      opacity: 1;  /* Menampilkan tooltip */
+      visibility: visible;  /* Menampilkan tooltip */
+    }
+  }
+}
+
+/* Override tampilan search-box agar ikon tidak menutupi teks */
+.search-box input[type="search"] {
+  padding-left: 2rem !important;  // Tambahkan ruang untuk icon
+  background-position: 0.6rem center !important;  // Pindahkan icon ke kiri & tengah vertikal
+  background-size: 1rem !important;
+  background-repeat: no-repeat !important;
+
+  width: 8rem !important;      // Atau 20rem sesuai keinginan
+  max-width: 100%;              // Biar tetap responsif
+  min-width: 12rem;             // Minimal lebar di perangkat kecil
+
+  // Optional: perbaikan visual
+  border: 1px solid var(--search-c-border);
+  border-radius: 2rem;
+  font-size: 0.95rem;
+}
+
+.vp-breadcrumb ol li:not(:last-child) span[property="name"] {
+  display: inline-block; /* Membuat elemen span menjadi blok sejajar */
+  max-width: 20ch; /* Membatasi lebar teks menjadi 20 karakter */
+  white-space: nowrap; /* Mencegah teks untuk membungkus ke baris berikutnya */
+  overflow: hidden; /* Menyembunyikan teks yang melebihi lebar */
+  text-overflow: ellipsis; /* Menambahkan '...' jika teks terpotong */
+  vertical-align: middle; /* Mengatur posisi vertikal teks agar sejajar dengan elemen lain */
+}
+
+@media (min-width: 1900px) {
+  .vp-sidebar {
+    width: calc(7vw + var(--sidebar-width)); /* Lebar sidebar lebih dinamis */
+    padding-inline-start: calc(var(--sidebar-space) - var(--sidebar-width) - 7vw); /* Padding lebih responsif */
+  }
+}
