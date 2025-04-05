@@ -2,7 +2,7 @@
 
 **Deskripsi Proyek:**  
 Himastatut Docs adalah platform dokumentasi resmi dari Himpunan Mahasiswa Statistika Universitas Terbuka (HIMASTAT). Inisiasi ini bertujuan untuk mendokumentasikan seluruh kegiatan yang telah atau sedang dilakukan oleh HIMASTAT, termasuk program kerja yang sedang berlangsung, tantangan yang dihadapi, serta rencana kegiatan di masa depan. Semua informasi ini akan terdokumentasi dengan baik untuk keperluan referensi bagi dosen, alumni, mahasiswa aktif, dan siapa saja yang tertarik dengan kegiatan HIMASTAT dan Program Studi Statistika Universitas Terbuka.
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ba652b06-9006-4eda-bd78-8b0b3eef33a5/deploy-status)](https://app.netlify.com/sites/himastatutdocs/deploys)
 ---
 
 ## 🚀 Fitur Utama
