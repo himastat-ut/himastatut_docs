@@ -66,3 +66,7 @@ B --> D{Pelatihan Intensif}
 D --> E[Persiapan Kompetisi]
 E --> F[Kompetisi Nasional]
 F --> G[Jejaring Internasional]
+
+
+<GitContributors />
+<GitChangelog />

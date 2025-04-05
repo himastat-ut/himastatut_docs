@@ -42,3 +42,7 @@ Tonton rekaman **SIGMA - Pendalaman Materi Metode Statistika Nonparametrik (SATS
 />
 
 > "Statistika Nonparametrik memberikan solusi bagi penelitian dengan data yang tidak terdistribusi normal. Mari kita pahami bersama di SIGMA!"
+
+
+<GitContributors />
+<GitChangelog />

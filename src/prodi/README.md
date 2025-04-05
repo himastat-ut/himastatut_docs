@@ -81,3 +81,7 @@ Program Studi Statistika memiliki akreditasi B, yang menunjukkan kualitas pendid
 [^5]: Universitas Terbuka, *Capaian Pembelajaran dan Struktur Kurikulum*, [https://statistika-fst.ut.ac.id/kurikulum/](https://statistika-fst.ut.ac.id/kurikulum/)
 [^6]: Universitas Terbuka, *Sertifikat Akreditasi Program Studi Statistika*, [https://statistika-fst.ut.ac.id/sertifikasi-akreditasi/](https://statistika-fst.ut.ac.id/sertifikasi-akreditasi/)
 
+
+
+<GitContributors />
+<GitChangelog />

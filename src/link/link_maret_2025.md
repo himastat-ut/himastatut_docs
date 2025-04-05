@@ -96,3 +96,7 @@ Jangan lupa untuk mengikuti update kegiatan dan pendaftaran melalui kanal YouTub
 
 --- 
 
+
+
+<GitContributors />
+<GitChangelog />

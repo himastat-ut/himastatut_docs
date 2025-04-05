@@ -81,3 +81,7 @@ graph LR
     C --> I[Python untuk Statistik]
     D --> J[Analisis Data]
     E --> K[Seminar & Lomba]
+
+
+<GitContributors />
+<GitChangelog />

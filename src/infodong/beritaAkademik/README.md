@@ -23,3 +23,7 @@ Informasi dalam halaman ini ditujukan untuk membantu mahasiswa agar tetap up-to-
 ## Struktur Halaman
 
 <Catalog />
+
+
+<GitContributors />
+<GitChangelog />

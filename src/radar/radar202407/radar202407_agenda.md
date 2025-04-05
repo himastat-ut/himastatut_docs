@@ -39,3 +39,7 @@ Selamat datang di halaman **Agenda Rapat RADAR** untuk bulan Juli 2024. Berikut 
 Jika Anda memiliki ide atau tambahan yang ingin dibahas, harap membawa materi tersebut ke rapat pada bulan Juli ini. 
 
 Untuk referensi lebih lanjut, Anda dapat melihat halaman [Hasil Rapat](./radar202407_hasil.md).
+
+
+<GitContributors />
+<GitChangelog />

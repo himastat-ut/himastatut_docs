@@ -35,3 +35,7 @@ Setiap mata kuliah memberikan mahasiswa pengetahuan lebih dalam di bidang yang r
 Untuk informasi lebih lanjut mengenai setiap mata kuliah dan materi yang dibahas, Anda dapat melihat katalog kursus di bawah ini.
 
 <Catalog />
+
+
+<GitContributors />
+<GitChangelog />

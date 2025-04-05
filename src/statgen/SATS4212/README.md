@@ -33,3 +33,7 @@ Setiap pertemuan akan membahas topik yang berbeda, dan sesi-sesi tersebut dapat 
 
 
 <Catalog />
+
+
+<GitContributors />
+<GitChangelog />

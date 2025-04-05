@@ -94,5 +94,6 @@ graph LR
     F --> F9[Perpisahan Pengurus HIMASTAT]
 ```
 
+
 <GitContributors />
 <GitChangelog />

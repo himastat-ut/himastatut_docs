@@ -70,3 +70,7 @@ Tonton rekaman **Tuweb 1 Karya Ilmiah SATS560 Tanggal 13 Oktober 2023** berikut 
 --- 
 
 > *“Memahami struktur penulisan karya ilmiah dan metode statistika yang tepat akan mempermudah proses penulisan dan meningkatkan kualitas karya ilmiah Anda.”*
+
+
+<GitContributors />
+<GitChangelog />

@@ -46,3 +46,7 @@ Tonton rekaman **StatGen Class 3.0 - Aljabar Linear Terapan (SATS4122) Pertemuan
 "Tidak ada kata terlambat untuk belajar. Maka dari itu, mari cerdas bersama Himastat!"
 
 #statgenclass2024 #sigma
+
+
+<GitContributors />
+<GitChangelog />

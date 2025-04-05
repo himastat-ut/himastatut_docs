@@ -58,3 +58,7 @@ Pastikan Anda mengikuti tutorial secara bertahap untuk memahami setiap langkah p
 ::: warning
 Selalu verifikasi hasil analisis dan visualisasi data untuk memastikan bahwa data yang digunakan akurat dan sah.
 :::
+
+
+<GitContributors />
+<GitChangelog />

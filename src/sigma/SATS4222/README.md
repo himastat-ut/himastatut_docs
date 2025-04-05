@@ -32,3 +32,7 @@ Kelas ini terdiri dari beberapa sesi yang mencakup berbagai topik dalam **Rancan
 Sesi ini dapat diakses melalui **YouTube HIMASTAT UT** atau **Instagram HIMASTAT UT** untuk memudahkan mahasiswa mengikuti materi kapan saja.
 
 > "Rancangan percobaan yang baik akan menghasilkan data yang berkualitas tinggi. Mari kita pelajari bersama cara menyusunnya di SIGMA!"
+
+
+<GitContributors />
+<GitChangelog />

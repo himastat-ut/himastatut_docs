@@ -30,3 +30,7 @@ Tujuan dari halaman ini adalah untuk menjaga koneksi yang kuat antara kampus dan
 ## Struktur Halaman
 
 <Catalog />
+
+
+<GitContributors />
+<GitChangelog />

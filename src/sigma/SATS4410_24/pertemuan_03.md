@@ -42,3 +42,7 @@ Tonton rekaman **SIGMA - Pendalaman Materi Pengantar Statistika Matematis 1 (SAT
 />
 
 > "Distribusi khusus dan fungsi pembangkit momen adalah konsep penting dalam statistika. Mari kita pelajari cara mengaplikasikannya di SIGMA!"
+
+
+<GitContributors />
+<GitChangelog />

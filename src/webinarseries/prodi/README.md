@@ -47,3 +47,6 @@ B --> D[Big Data]
 D --> E[Interaktif Diskusi]
 E --> F[Pemahaman dan Aplikasi]
 ```
+
+<GitContributors />
+<GitChangelog />

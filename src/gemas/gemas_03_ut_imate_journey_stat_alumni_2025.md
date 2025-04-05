@@ -111,3 +111,7 @@ Jangan lupa untuk bergabung dengan channel **HIMASTAT Universitas Terbuka** untu
 Mari bersama-sama menciptakan komunitas yang lebih inspiratif dan bermanfaat bagi sesama mahasiswa Statistika. Sampai jumpa di acara live streaming berikutnya!
 
 #GEMAS #UTIMATEJOURNEY #HIMASTAT #StatistikaUT #StatGen #MahasiswaStatistika #SharingSession #MotivasiAlumni #Statistik
+
+
+<GitContributors />
+<GitChangelog />

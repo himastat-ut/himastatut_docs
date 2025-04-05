@@ -44,3 +44,7 @@ Tonton rekaman **SIGMA - Pendalaman Materi Rancangan Percobaan (SATS4222) Pertem
 
 > "Rancangan Bujur Sangkar Latin adalah alat yang sangat berguna dalam percobaan dua faktor. Mari kita pelajari cara menyusunnya di SIGMA!"
 
+
+
+<GitContributors />
+<GitChangelog />

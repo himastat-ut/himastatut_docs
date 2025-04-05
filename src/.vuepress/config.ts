@@ -19,6 +19,7 @@ export default defineUserConfig({
   theme,
   enhance({ app, router, siteData }) {},
   setup() {},
+  shouldPrefetch: false,
   rootComponents: [],
 
   // Enable it with pwa

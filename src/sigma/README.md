@@ -69,3 +69,6 @@ B --> E{Praktik & Pembahasan Materi}
 > **Fleksibilitas Program**: Program ini dirancang untuk memberikan pengalaman belajar yang dinamis, di mana setiap pertemuan memberikan peluang bagi peserta untuk menggali lebih dalam topik-topik tertentu sesuai dengan materi yang diperlukan.
 
 <Catalog />
+
+<GitContributors />
+<GitChangelog />

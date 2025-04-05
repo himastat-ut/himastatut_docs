@@ -115,3 +115,7 @@ Setelah akun Anda terverifikasi sebagai mahasiswa, Anda dapat mengakses berbagai
 [^9]: "GitHub Repositories", GitHub Docs, [online] Available: https://github.com.
 [^10]: "GitHub Copilot", GitHub Docs, [online] Available: https://github.com/copilot.
 [^11]: "Deepnote", Deepnote, [online] Available: https://www.deepnote.com/.
+
+
+<GitContributors />
+<GitChangelog />

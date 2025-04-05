@@ -32,3 +32,7 @@ Kelas ini terdiri dari beberapa sesi yang mencakup berbagai topik dalam **Komput
 Sesi ini dapat diakses melalui **YouTube HIMASTAT UT** atau **Instagram HIMASTAT UT** untuk memudahkan mahasiswa mengikuti materi kapan saja.
 
 > "Pemrograman R adalah keterampilan penting untuk komputasi saintifik, mari kita pelajari bersama-sama di SIGMA!"
+
+
+<GitContributors />
+<GitChangelog />

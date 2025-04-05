@@ -47,3 +47,7 @@ Tonton rekaman **StatGen Class 2.0 - Analisis Data Statistik (SATS4212) Pertemua
 "Tidak ada kata terlambat untuk belajar. Maka dari itu, mari cerdas bersama Himastat!"
 
 #statgenclass2024 #sigma
+
+
+<GitContributors />
+<GitChangelog />

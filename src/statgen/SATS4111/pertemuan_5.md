@@ -47,3 +47,7 @@ Tonton rekaman **StatGen Class 2023 - Komputer 1 (SATS4111) Pertemuan 5** di baw
 #statgenclass2023 #sigma
 
 --- 
+
+
+<GitContributors />
+<GitChangelog />

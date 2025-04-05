@@ -91,3 +91,7 @@ Tonton rekaman **SIGMA – Pengantar Statistika Matematis I (SATS4410) Pertemuan
 --- 
 
 > *“Dengan memahami kesalahan jenis I ($\alpha$), kesalahan jenis II ($\beta$), serta konstruksi selang kepercayaan, kita memperoleh perangkat inferensi statistik yang lebih komprehensif.”*
+
+
+<GitContributors />
+<GitChangelog />

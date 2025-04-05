@@ -33,3 +33,6 @@ Sesi ini dapat berubah sesuai dengan kebutuhan, dan setiap kelas dapat diakses m
 
 
 <Catalog />
+
+<GitContributors />
+<GitChangelog />

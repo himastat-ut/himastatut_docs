@@ -32,3 +32,7 @@ Kelas ini terdiri dari beberapa sesi yang mencakup berbagai topik dalam **Pengan
 Sesi ini dapat diakses melalui **YouTube HIMASTAT UT** atau **Instagram HIMASTAT UT** untuk memudahkan mahasiswa mengikuti materi kapan saja.
 
 > "Peluang adalah dasar dari probabilitas, mari kita pelajari konsep-konsep pentingnya bersama-sama di SIGMA!"
+
+
+<GitContributors />
+<GitChangelog />

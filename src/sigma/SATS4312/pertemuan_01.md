@@ -69,3 +69,7 @@ Tonton rekaman **SIGMA – Model Linear Terapan (SATS4312) Pertemuan 1** pada ta
 --- 
 
 > *"Regresi berganda dan polinomial memperkaya analisis data, terutama saat hubungan tidak sepenuhnya linear. Pahami konsepnya untuk hasil studi yang lebih andal."*
+
+
+<GitContributors />
+<GitChangelog />

@@ -156,3 +156,7 @@ Kami berharap kalian akan terus menginspirasi dan berkontribusi untuk dunia deng
 --- 
 
 **#GEMAS #Wisuda2024 #HIMASTAT #StatistikaUT #StatGen #MahasiswaStatistika #Wisuda2024**
+
+
+<GitContributors />
+<GitChangelog />

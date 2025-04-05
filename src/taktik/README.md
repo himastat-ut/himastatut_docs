@@ -68,3 +68,7 @@ B --> D{Kompetisi Ramah}
 D --> E[Kolaborasi Tim]
 E --> F[Peningkatan Keterampilan]
 ```
+
+
+<GitContributors />
+<GitChangelog />

@@ -49,3 +49,7 @@ Seri pendalaman materi **SATS4312** terbagi menjadi beberapa pertemuan. Rekaman 
 > *"Melalui SIGMA – Model Linear Terapan, mari perkuat pemahaman regresi untuk keberhasilan analisis data secara menyeluruh."*
 
 <Catalog />
+
+
+<GitContributors />
+<GitChangelog />

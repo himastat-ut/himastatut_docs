@@ -97,3 +97,7 @@ Sekali lagi, terima kasih untuk seluruh pengurus periode 2023/2024. Semoga penga
 
 Salam hormat,  
 **HIMASTAT Universitas Terbuka**
+
+
+<GitContributors />
+<GitChangelog />

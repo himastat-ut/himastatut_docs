@@ -45,3 +45,7 @@ Tonton rekaman **StatGen Class 2023 - Komputer 1 (SATS4111) Pertemuan 6** di baw
 "Tidak ada kata terlambat untuk belajar. Maka dari itu, mari cerdas bersama Himastat!"
 
 #statgenclass2023 #sigma
+
+
+<GitContributors />
+<GitChangelog />

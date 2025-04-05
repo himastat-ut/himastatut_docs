@@ -106,3 +106,7 @@ Membuat desain visual untuk konten media sosial HIMASTAT. Minimal menguasai Canv
 📺 YouTube: [himastatistikut2703](https://youtube.com/@himastatistikut2703)
 
 Mari bersama-sama menciptakan HIMASTAT yang aktif, kreatif, dan berdampak! 💙
+
+
+<GitContributors />
+<GitChangelog />

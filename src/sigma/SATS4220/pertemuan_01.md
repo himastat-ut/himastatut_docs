@@ -44,3 +44,7 @@ Tonton rekaman **SIGMA - Pendalaman Materi Matematika III (SATS4220) Pertemuan 1
 --- 
 
 > "Matematika bukan tentang angka, tetapi tentang pemahaman konsep yang mendalam. Mari belajar bersama HIMASTAT!"
+
+
+<GitContributors />
+<GitChangelog />

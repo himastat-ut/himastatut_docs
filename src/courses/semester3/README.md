@@ -42,3 +42,7 @@ Setiap mata kuliah memberikan dasar yang lebih dalam mengenai konsep-konsep tekn
 Untuk informasi lebih lanjut mengenai setiap mata kuliah dan materi yang dibahas, Anda dapat melihat katalog kursus di bawah ini.
 
 <Catalog />
+
+
+<GitContributors />
+<GitChangelog />

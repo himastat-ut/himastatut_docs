@@ -42,3 +42,7 @@ Tonton rekaman **SIGMA - Pendalaman Materi Rancangan Percobaan (SATS4222) Pertem
 />
 
 > "Desain percobaan yang tepat adalah kunci untuk mendapatkan hasil eksperimen yang valid. Mari kita pelajari cara menyusunnya di SIGMA!"
+
+
+<GitContributors />
+<GitChangelog />

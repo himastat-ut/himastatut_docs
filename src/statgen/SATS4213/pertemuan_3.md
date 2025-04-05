@@ -46,3 +46,7 @@ Tonton rekaman **StatGen Class 2.0 - Pengumpulan & Penyajian Data (SATS4213) Per
 "Tidak ada kata terlambat untuk belajar. Maka dari itu, mari cerdas bersama Himastat!"
 
 #statgenclass2024 #sigma
+
+
+<GitContributors />
+<GitChangelog />

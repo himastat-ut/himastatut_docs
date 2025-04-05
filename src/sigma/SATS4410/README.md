@@ -33,3 +33,7 @@ Kelas pendalaman materi **SATS4410** terbagi menjadi beberapa pertemuan, setiap 
 > *"Memahami dasar konsep penaksiran titik adalah jantung dari inferensi statistik. Bersama SIGMA, kita berupaya membangun fondasi yang kokoh."*
 
 <Catalog />
+
+
+<GitContributors />
+<GitChangelog />

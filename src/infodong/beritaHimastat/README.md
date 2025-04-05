@@ -30,3 +30,7 @@ Halaman ini juga menjadi ruang komunikasi antara pengurus HIMASTAT dan mahasiswa
 ## Struktur Halaman
 
 <Catalog />
+
+
+<GitContributors />
+<GitChangelog />

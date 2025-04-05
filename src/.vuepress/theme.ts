@@ -210,21 +210,21 @@ export default hopeTheme({
     icon: {
       prefix: "fa6-solid:",
     },
-
     // install @vuepress/plugin-pwa and uncomment these if you want a PWA
-    // pwa: {
+    pwa: {
     //   favicon: "/favicon.ico",
-    //   cacheHTML: true,
-    //   cacheImage: true,
-    //   appendBase: true,
-    //   apple: {
-    //     icon: "/assets/icon/apple-icon-152.png",
-    //     statusBarColor: "black",
-    //   },
-    //   msTile: {
-    //     image: "/assets/icon/ms-icon-144.png",
-    //     color: "#ffffff",
-    //   },
+      cacheHTML: true,
+      cacheImage: true,
+      appendBase: true,
+      update: "available",
+      apple: {
+        icon: "logo.png",
+        statusBarColor: "black",
+      },
+      msTile: {
+        image: "logo.png",
+        color: "#ffffff",
+      },
     //   manifest: {
     //     icons: [
     //       {
@@ -266,6 +266,6 @@ export default hopeTheme({
     //       },
     //     ],
     //   },
-    // },
+    },
   },
 });

@@ -78,3 +78,6 @@ D --> G[Contoh Topik: Analisis Data Sederhana]
 > **Fleksibilitas Program**: Program ini dirancang untuk memberikan pengalaman belajar yang dinamis, di mana setiap pertemuan memberikan peluang bagi peserta untuk menggali lebih dalam topik-topik statistika dengan berbagai pendekatan, baik dari segi teori maupun praktik langsung. Oleh karena itu, StatGen memberi kebebasan bagi narasumber dan peserta untuk mengeksplorasi berbagai aspek statistika dengan cara yang interaktif dan relevan.
 
 <Catalog />
+
+<GitContributors />
+<GitChangelog />

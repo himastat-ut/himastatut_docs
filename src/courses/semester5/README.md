@@ -37,3 +37,7 @@ Setiap mata kuliah memberikan mahasiswa keterampilan yang dibutuhkan untuk menan
 Untuk informasi lebih lanjut mengenai setiap mata kuliah dan materi yang dibahas, Anda dapat melihat katalog kursus di bawah ini.
 
 <Catalog />
+
+
+<GitContributors />
+<GitChangelog />

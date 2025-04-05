@@ -33,3 +33,7 @@ Kelas pendalaman materi **SATS4421** terbagi menjadi beberapa pertemuan, yang ma
 > *"Memahami dasar-dasar metode multivariat adalah kunci untuk menganalisis data dengan banyak variabel secara efektif. Dengan SIGMA, mari kita asah keterampilan statistika multivariat Anda."*
 
 <Catalog />
+
+
+<GitContributors />
+<GitChangelog />

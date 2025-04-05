@@ -61,3 +61,7 @@ D --> E[Jejaring]
 E --> F[Inspirasi]
 ```
 
+
+
+<GitContributors />
+<GitChangelog />

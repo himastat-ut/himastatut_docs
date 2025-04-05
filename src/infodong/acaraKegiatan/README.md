@@ -30,3 +30,7 @@ Tujuan dari halaman ini adalah untuk memberikan ruang informasi yang dapat memba
 ## Struktur Halaman
 
 <Catalog />
+
+
+<GitContributors />
+<GitChangelog />

@@ -98,3 +98,6 @@ Bulan Februari 2025 menawarkan berbagai kesempatan bagi mahasiswa untuk mengemba
 Jangan lupa untuk mengikuti update kegiatan dan pendaftaran melalui kanal YouTube HIMASTAT UT atau Instagram untuk informasi lebih lanjut mengenai kesempatan-kesempatan menarik ini.
 
 --- 
+
+<GitContributors />
+<GitChangelog />

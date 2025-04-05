@@ -74,3 +74,7 @@ Tidak sempat mengikuti sesi Tuweb? Jangan khawatir! Anda dapat menonton rekaman 
 --- 
 
 Dengan adanya Tuweb, mahasiswa Universitas Terbuka dapat memperoleh **akses pendidikan yang lebih terjangkau**, **interaktif**, dan **fleksibel**, yang dapat disesuaikan dengan kebutuhan dan waktu mereka. Jangan lewatkan kesempatan ini untuk memperdalam pemahaman Anda mengenai materi kuliah dan mendukung keberhasilan akademik Anda!
+
+
+<GitContributors />
+<GitChangelog />

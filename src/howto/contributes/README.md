@@ -107,3 +107,6 @@ graph LR
     D --> E{Review dan Integrasi}
     E --> F[Kontribusi Terpadu]
 ```
+
+<GitContributors />
+<GitChangelog />

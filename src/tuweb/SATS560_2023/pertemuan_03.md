@@ -58,3 +58,6 @@ Setelah pertemuan ini, mahasiswa diharapkan untuk:
 Jika Anda memiliki pertanyaan atau ingin mendiskusikan materi lebih lanjut, silakan gunakan fitur komentar di bawah atau hubungi pembimbing melalui [elearning.ut.ac.id](https://elearning.ut.ac.id).
 
 --- 
+
+<GitContributors />
+<GitChangelog />

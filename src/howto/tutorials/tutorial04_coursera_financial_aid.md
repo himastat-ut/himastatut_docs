@@ -129,3 +129,7 @@ Terakhir, ingatlah bahwa tujuan Coursera menyediakan Financial Aid adalah untuk 
 [^31]: Penjelasan Financial Aid 100% di blog *The Guiding Boy*, 2025.  
 [^36]: Ernawati B. Sinaga – *Manfaat Belajar di Coursera bagi Mahasiswa*. Advan Blog, 2024.  
 [^37]: Data Penerimaan Sertifikat Coursera di Industri, 2025.
+
+
+<GitContributors />
+<GitChangelog />

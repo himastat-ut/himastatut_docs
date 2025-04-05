@@ -42,3 +42,7 @@ Tonton rekaman **SIGMA - Pendalaman Materi Komputer 2 (SATS4223) Pertemuan 3** d
 />
 
 > "Simulasi limit pusat adalah alat yang sangat kuat untuk memahami distribusi data. Bersama SIGMA, mari kita eksplorasi teknik ini lebih dalam!"
+
+
+<GitContributors />
+<GitChangelog />

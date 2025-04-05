@@ -92,3 +92,7 @@ Informasi terkait kegiatan **Bincang Mahasiswa (BIMA) Statistika** dapat ditemuk
 > "Tidak ada kata terlambat untuk belajar. Mari cerdas bersama HIMASTAT!"
 
 #bima #statistika #data_science #himastatut
+
+
+<GitContributors />
+<GitChangelog />

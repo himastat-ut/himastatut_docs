@@ -63,3 +63,7 @@ Jangan lewatkan rekaman acara ini di **YouTube HIMASTAT UT** untuk mendapatkan l
 Mari bergabung dengan kami di **HIMASTAT Universitas Terbuka** untuk mengikuti kegiatan menarik lainnya!
 
 #WebinarSeries #DataScientist #BigData #StatistikaFSTUT #HIMASTAT
+
+
+<GitContributors />
+<GitChangelog />

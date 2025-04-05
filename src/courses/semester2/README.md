@@ -34,3 +34,7 @@ Setiap mata kuliah dirancang untuk memperluas pengetahuan dasar yang diperoleh p
 Untuk informasi lebih lanjut mengenai setiap mata kuliah dan materi yang dibahas, Anda dapat melihat katalog kursus di bawah ini.
 
 <Catalog />
+
+
+<GitContributors />
+<GitChangelog />

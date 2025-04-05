@@ -102,3 +102,7 @@ Setiap pembaruan di repositori GitHub akan otomatis diperbarui di situs.
 --- 
 
 @slideend
+
+
+<GitContributors />
+<GitChangelog />

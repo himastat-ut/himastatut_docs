@@ -25,3 +25,7 @@ Kegiatan ini berlangsung secara daring dan memberikan kesempatan kepada mahasisw
 Semoga kegiatan BIMA ini dapat terus berlangsung dan memberi manfaat bagi mahasiswa Statistika dalam mengembangkan kompetensi mereka di bidang ini.
 
 Tonton rekaman kegiatan di [YouTube](https://www.youtube.com/watch?v=hapPJgTc24w&t=483s).
+
+
+<GitContributors />
+<GitChangelog />

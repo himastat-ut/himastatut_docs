@@ -35,3 +35,7 @@ Setiap mata kuliah di semester 6 ini bertujuan untuk memberikan mahasiswa ketera
 Untuk informasi lebih lanjut mengenai setiap mata kuliah dan materi yang dibahas, Anda dapat melihat katalog kursus di bawah ini.
 
 <Catalog />
+
+
+<GitContributors />
+<GitChangelog />

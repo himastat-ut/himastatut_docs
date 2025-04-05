@@ -32,3 +32,7 @@ Kelas ini terdiri dari beberapa sesi yang mencakup berbagai topik dalam **Metode
 Sesi ini dapat diakses melalui **YouTube HIMASTAT UT** atau **Instagram HIMASTAT UT** untuk memudahkan mahasiswa mengikuti materi kapan saja.
 
 > "Statistika Nonparametrik memberikan fleksibilitas dalam pengujian data yang tidak terdistribusi normal. Mari kita pelajari bersama di SIGMA!"
+
+
+<GitContributors />
+<GitChangelog />

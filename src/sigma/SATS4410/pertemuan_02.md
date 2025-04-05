@@ -69,3 +69,7 @@ Tonton rekaman **SIGMA – Pengantar Statistika Matematis I (SATS4410) Pertemuan
 --- 
 
 > *"Mengetahui metode Cramér-Rao dan Teorema Rao-Blackwell menjadi langkah penting menuju penduga terbaik dalam inferensi statistik. Mari pelajari bersama HIMASTAT UT!"*
+
+
+<GitContributors />
+<GitChangelog />

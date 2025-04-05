@@ -37,3 +37,7 @@ Selamat datang di halaman **Hasil Rapat RADAR** untuk bulan Juli 2024. Berikut a
 --- 
 
 Harap semua anggota mengikuti perkembangan lebih lanjut melalui [Agenda Rapat](./radar202407_agenda.md) yang sudah disiapkan.
+
+
+<GitContributors />
+<GitChangelog />

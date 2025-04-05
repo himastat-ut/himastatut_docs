@@ -37,3 +37,7 @@ JEPRET (Jejak Pengurus di Feed Terupdate) berfokus pada pengakuan atas upaya pen
 - **Keterlibatan Komunitas**: Mempererat hubungan antara pengurus lama dan baru melalui komunikasi yang transparan.
 
 <Catalog />
+
+
+<GitContributors />
+<GitChangelog />

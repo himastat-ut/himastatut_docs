@@ -91,3 +91,7 @@ Jika Anda memiliki pertanyaan mengenai materi atau ingin berdiskusi lebih lanjut
 <footer>
   <p>© 2023 Universitas Terbuka</p>
 </footer>
+
+
+<GitContributors />
+<GitChangelog />

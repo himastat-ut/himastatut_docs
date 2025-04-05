@@ -46,3 +46,7 @@ Tonton rekaman **StatGen Class 2023 - Metode Statistik 1 (SATS4121) Pertemuan 2*
 "Tidak ada kata terlambat untuk belajar. Maka dari itu, mari cerdas bersama Himastat!"
 
 #statgenclass2023 #sigma
+
+
+<GitContributors />
+<GitChangelog />

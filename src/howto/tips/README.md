@@ -48,3 +48,7 @@ Jurusan Statistika dapat menjadi tantangan, tetapi dengan pendekatan yang tepat,
 @tab Manajemen Waktu
 - Strategi untuk mengatur waktu dan memaksimalkan produktivitas belajar.
 :::
+
+
+<GitContributors />
+<GitChangelog />

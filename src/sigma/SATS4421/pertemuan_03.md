@@ -93,3 +93,7 @@ Tonton untuk penjelasan lebih detail dan contoh perhitungan manual $T^2$ Hotelli
 
 > *“Uji $T^2$ Hotelling adalah analisis multivariat yang memperluas $t$-Test univariat ke dimensi lebih tinggi.”*
 
+
+
+<GitContributors />
+<GitChangelog />

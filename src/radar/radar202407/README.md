@@ -52,3 +52,7 @@ Untuk mengetahui agenda dan hasil rapat bulan Juli 2024, berikut adalah detail l
 Untuk informasi lebih lanjut mengenai program RADAR dan lainnya, Anda dapat melihat daftar isi program di bawah ini.
 
 <Catalog />
+
+
+<GitContributors />
+<GitChangelog />

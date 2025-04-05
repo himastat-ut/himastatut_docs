@@ -34,3 +34,7 @@ Sesi ini dapat diakses melalui **YouTube HIMASTAT UT** atau **Instagram HIMASTAT
 --- 
 
 > "Pembelajaran matematika itu membutuhkan pemahaman yang mendalam dan konsistensi. Bersama SIGMA, mari kita bangun pemahaman matematika yang kuat!"
+
+
+<GitContributors />
+<GitChangelog />

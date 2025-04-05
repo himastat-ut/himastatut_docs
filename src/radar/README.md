@@ -73,3 +73,7 @@ graph LR
     A --> C{Umpan Balik}
     B --> D[Perbaikan Strategi]
     C --> E[Perbaikan Kinerja]
+
+
+<GitContributors />
+<GitChangelog />

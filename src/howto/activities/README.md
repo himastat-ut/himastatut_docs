@@ -58,3 +58,6 @@ Ikuti kegiatan seminar, lomba, dan kursus yang ada untuk memperkaya pengalaman b
 ::: warning
 Pastikan Anda aktif mengikuti kegiatan yang dapat mendukung pengembangan akademik Anda untuk memaksimalkan potensi diri.
 :::
+
+<GitContributors />
+<GitChangelog />

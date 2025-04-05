@@ -42,3 +42,7 @@ Tonton rekaman **SIGMA - Pendalaman Materi Komputer 2 (SATS4223) Pertemuan 1** d
 />
 
 > "Pemrograman R adalah dasar dari komputasi saintifik, mari bersama SIGMA kita kuasai ilmu ini!"
+
+
+<GitContributors />
+<GitChangelog />

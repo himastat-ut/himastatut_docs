@@ -90,3 +90,7 @@ Jangan lewatkan update terbaru dari kami!
 📧 **Email:** himastatut@gmail.com  
 📷 **Instagram:** [@himastat_ut](https://instagram.com/himastat_ut)  
 📺 **YouTube:** [himastatistikut2703](https://youtube.com/@himastat_ut)
+
+
+<GitContributors />
+<GitChangelog />

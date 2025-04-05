@@ -86,3 +86,7 @@ Untuk menghentikan berbagi, Anda dapat mengelola *permissions* pada file tersebu
 [^2]: Universitas Terbuka (2022), *[Panduan Aktivasi Email Office365 bagi Mahasiswa UT](https://palembang.ut.ac.id/article/pengumuman/pengenalan-fitur-baru-sia-ut-dengan-nama-baru-my-ut#:~:text=Diinformasikan%20untuk%20masuk%20ke%20halaman,silahkan%20merubah%20password%20default%20tersebut.)* – Format akun mahasiswa: **NIM@ecampus.ut.ac.id** dengan password awal *Ut+tglblnthnlahir* (mis. Ut01012000 untuk 1 Jan 2000).
 [^3]: Universitas Terbuka (2021), *[Membangun SDM Unggul melalui Digital Learning Ecosystem](https://repository.ut.ac.id/9499/1/BP0018-21.pdf.pdf)*, hal. 14 – Dengan Office 365, mahasiswa dapat menggunakan Microsoft Office secara online dan berkolaborasi/sharing dokumen dengan mahasiswa lain maupun tutor.
 [^4]: Universitas Terbuka (2021), *[Membangun SDM Unggul melalui Digital Learning Ecosystem](https://repository.ut.ac.id/9499/1/BP0018-21.pdf.pdf)*, hal. 14 – Dengan Office 365, mahasiswa dapat menggunakan Microsoft Office secara online dan berkolaborasi/sharing dokumen dengan mahasiswa lain maupun tutor.
+
+
+<GitContributors />
+<GitChangelog />

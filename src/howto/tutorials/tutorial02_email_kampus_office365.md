@@ -94,3 +94,7 @@ Selain versi web, Anda tentunya dapat menggunakan aplikasi Office 365 secara **o
 [^2]: Universitas Terbuka (2022), *[Panduan Aktivasi Email Office365 Mahasiswa](https://www.instagram.com/ut_bogor/p/C4zsFLDrjnT/?img_index=1)* – Format login awal akun Office 365 mahasiswa UT: NIM@ecampus.ut.ac.id dan password default “Ut+TanggalLahir” (contoh: UtDDMMYYYY).
 [^3]: Media Sosial UT (2023) – *[Panduan Login MyUT dengan Akun Office 365](https://www.instagram.com/ut_sorong/reel/C_ceOmoNPpI/)*: Akses myut.ut.ac.id atau admisi-sia.ut.ac.id, klik tombol “Office365”, lalu login dengan akun email UT Anda.
 [^4]: Universitas Terbuka (2021), *[Membangun SDM Unggul melalui Digital Learning Ecosystem](https://repository.ut.ac.id/9499/1/BP0018-21.pdf.pdf)*, hal. 14 – Office 365 memungkinkan mahasiswa menggunakan Word, Excel, PowerPoint secara **online** dan berkolaborasi real-time dalam dokumen yang sama.
+
+
+<GitContributors />
+<GitChangelog />

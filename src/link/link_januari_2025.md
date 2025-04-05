@@ -97,3 +97,7 @@ Jangan lewatkan kesempatan untuk berkontribusi, bertumbuh, dan belajar dalam ber
 Jangan lupa untuk mengikuti update kegiatan dan pendaftaran melalui kanal YouTube HIMASTAT UT atau Instagram untuk informasi lebih lanjut mengenai kesempatan-kesempatan menarik ini.
 
 --- 
+
+
+<GitContributors />
+<GitChangelog />

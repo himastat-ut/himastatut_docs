@@ -21,3 +21,7 @@ Selain itu, kegiatan Temu Sapa Online juga bertujuan untuk menciptakan komunitas
 Secara keseluruhan, Temu Sapa Online adalah acara yang sangat bermanfaat bagi mahasiswa yang ingin mendapatkan informasi terkini mengenai program studi mereka, memperkuat koneksi dengan dosen dan sesama mahasiswa, serta mendapatkan bimbingan terkait berbagai aspek kehidupan kampus di UT.
 
 Tonton rekaman kegiatan Temu Sapa Online di [YouTube](https://youtu.be/LoWFdx9Gucw?si=oBjFfPb1iAk6l1kf).
+
+
+<GitContributors />
+<GitChangelog />

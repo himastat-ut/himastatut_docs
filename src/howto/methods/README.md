@@ -52,3 +52,7 @@ Metodologi statistik adalah fondasi dari analisis data. Mahasiswa Statistika per
 @tab Uji Hipotesis
 - Penjelasan tentang cara menguji hipotesis dalam konteks statistik.
 :::
+
+
+<GitContributors />
+<GitChangelog />

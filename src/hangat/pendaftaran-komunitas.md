@@ -44,3 +44,7 @@ Ayo, isi formnya sekarang dan jadi bagian dari komunitas yang lebih besar!
 --- 
 
 **#HIMASTAT2024 #KomunitasStatistikaUT #ProkerHANGAT #MahasiswaStatistikaUT #UniversitasTerbuka #Minstat**
+
+
+<GitContributors />
+<GitChangelog />

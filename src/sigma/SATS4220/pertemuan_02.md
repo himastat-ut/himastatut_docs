@@ -38,3 +38,7 @@ Tonton rekaman **SIGMA - Pendalaman Materi Matematika III (SATS4220) Pertemuan 2
 --- 
 
 > "Penyelesaian persamaan diferensial membutuhkan ketelitian dan pemahaman yang mendalam. Terus berlatih untuk menguasainya!"
+
+
+<GitContributors />
+<GitChangelog />

@@ -72,3 +72,6 @@ Ayo, gabung dan bawa pertanyaan seputar mata kuliah **SATS4423** ke kelas, kita 
 "Tidak ada kata terlambat untuk belajar. Maka dari itu, mari cerdas bersama Himastat!"
 
 #statgenclass2024 #sigma
+
+<GitContributors />
+<GitChangelog />

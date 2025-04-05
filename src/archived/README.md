@@ -24,3 +24,7 @@ date: 2024-05-01
 Welcome to the Statistika Program's Archive Program. Below you will find the Archive Program available all time.
 
 <Catalog />
+
+
+<GitContributors />
+<GitChangelog />

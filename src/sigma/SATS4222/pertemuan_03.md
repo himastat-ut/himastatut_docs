@@ -43,3 +43,7 @@ Tonton rekaman **SIGMA - Pendalaman Materi Rancangan Percobaan (SATS4222) Pertem
 />
 
 > "Rancangan faktorial membantu kita memahami interaksi antara dua atau lebih faktor. Mari kita pelajari cara menyusunnya di SIGMA!"
+
+
+<GitContributors />
+<GitChangelog />

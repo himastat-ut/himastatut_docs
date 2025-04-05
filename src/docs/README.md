@@ -87,3 +87,6 @@ graph LR
     C --> F[Hosting & Deployment]
     D --> G[Documentation Repository]
 ```
+
+<GitContributors />
+<GitChangelog />

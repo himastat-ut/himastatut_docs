@@ -77,3 +77,6 @@ graph LR
     C --> F[Event A]
     C --> G[Event B]
 ```
+
+<GitContributors />
+<GitChangelog />
