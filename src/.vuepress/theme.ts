@@ -79,6 +79,9 @@ export default hopeTheme({
     tabs: true,
     tasklist: true,
     vPre: true,
+    highlighter: {
+      type: "shiki",
+    },
 
     // uncomment these if you need TeX support
     math: {
@@ -217,6 +220,8 @@ export default hopeTheme({
       cacheImage: true,
       appendBase: true,
       update: "available",
+      ServiceWorker: true,
+      updatePopup: true,
       apple: {
         icon: "logo.png",
         statusBarColor: "black",

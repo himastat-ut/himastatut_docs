@@ -115,7 +115,3 @@ highlights:
         details: Rahmat Hidayat - Bertanggung jawab dalam mengelola proses perekrutan, membentuk tim untuk mendukung berbagai program HIMA, serta menjaga hubungan yang baik antar anggota himpunan.
         link: "portofolio/MHS048409024.md"
 --- 
-
-
-<GitContributors />
-<GitChangelog />

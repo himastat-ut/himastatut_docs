@@ -125,7 +125,3 @@ highlights:
         details: Nazma Fahira - Bertanggung jawab dalam pengelolaan platform digital dan teknologi yang mendukung kegiatan himpunan, serta melakukan riset dan inovasi dalam bidang teknologi statistika.
         link: "portofolio/MHS053284089.md"
 --- 
-
-
-<GitContributors />
-<GitChangelog />

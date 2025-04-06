@@ -72,6 +72,3 @@ highlights:
 copyright: false
 footer: Theme by <a href="https://himastatut.my.id" target="_blank">Himpunan Mahasiswa Universitas Terbuka</a> | MIT Licensed, Copyright © 2024-present Himastatut Docs
 --- 
-
-<GitContributors />
-<GitChangelog />

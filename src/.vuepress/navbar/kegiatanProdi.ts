@@ -28,6 +28,11 @@ export default {
         icon: "chalkboard-user",
         link: "/webinarseries/prodi/README.md",
       },
+      {
+        text: "Tutorial Radio Statistika",
+        icon: "chalkboard-user",
+        link: "/tutorialradio/statistika/README.md",
+      },
     ]
   };
   
