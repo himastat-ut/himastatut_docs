@@ -88,5 +88,7 @@ Untuk menghentikan berbagi, Anda dapat mengelola *permissions* pada file tersebu
 [^4]: Universitas Terbuka (2021), *[Membangun SDM Unggul melalui Digital Learning Ecosystem](https://repository.ut.ac.id/9499/1/BP0018-21.pdf.pdf)*, hal. 14 – Dengan Office 365, mahasiswa dapat menggunakan Microsoft Office secara online dan berkolaborasi/sharing dokumen dengan mahasiswa lain maupun tutor.
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

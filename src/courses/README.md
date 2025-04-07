@@ -20,5 +20,7 @@ Welcome to the Statistika Program's course catalog. Below you will find the cour
 <Catalog />
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

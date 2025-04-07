@@ -117,5 +117,7 @@ Setelah akun Anda terverifikasi sebagai mahasiswa, Anda dapat mengakses berbagai
 [^11]: "Deepnote", Deepnote, [online] Available: https://www.deepnote.com/.
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

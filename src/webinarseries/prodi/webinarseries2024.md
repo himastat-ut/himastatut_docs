@@ -64,5 +64,7 @@ Mari bergabung dengan kami di **HIMASTAT Universitas Terbuka** untuk mengikuti k
 #WebinarSeries #Statistika #Telco #StatistikaFSTUT #HIMASTAT
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

@@ -35,5 +35,7 @@ Kelas pendalaman materi **SATS4421** terbagi menjadi beberapa pertemuan, yang ma
 <Catalog />
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

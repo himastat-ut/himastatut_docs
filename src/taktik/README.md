@@ -70,5 +70,7 @@ E --> F[Peningkatan Keterampilan]
 ```
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

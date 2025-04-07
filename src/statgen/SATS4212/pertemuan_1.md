@@ -49,5 +49,7 @@ Tonton rekaman **StatGen Class 2.0 - Analisis Data Statistik (SATS4212) Pertemua
 #statgenclass2024 #sigma
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

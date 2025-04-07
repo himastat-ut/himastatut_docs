@@ -35,5 +35,7 @@ Kelas pendalaman materi **SATS4410** terbagi menjadi beberapa pertemuan, setiap 
 <Catalog />
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

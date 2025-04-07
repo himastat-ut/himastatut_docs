@@ -23,5 +23,7 @@ Secara keseluruhan, Temu Sapa Online adalah acara yang sangat bermanfaat bagi ma
 Tonton rekaman kegiatan Temu Sapa Online di [YouTube](https://youtu.be/LoWFdx9Gucw?si=oBjFfPb1iAk6l1kf).
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

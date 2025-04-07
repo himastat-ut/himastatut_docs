@@ -83,5 +83,7 @@ graph LR
     E --> K[Seminar & Lomba]
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

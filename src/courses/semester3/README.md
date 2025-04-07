@@ -44,5 +44,7 @@ Untuk informasi lebih lanjut mengenai setiap mata kuliah dan materi yang dibahas
 <Catalog />
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

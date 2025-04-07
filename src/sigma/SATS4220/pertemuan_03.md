@@ -40,5 +40,7 @@ Tonton rekaman **SIGMA - Pendalaman Materi Matematika III (SATS4220) Pertemuan 3
 > "Penyelesaian persamaan diferensial eksak memerlukan ketelitian dalam menggunakan teknik integrasi. Terus berlatih untuk memahaminya dengan baik!"
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

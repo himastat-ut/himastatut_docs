@@ -26,5 +26,7 @@ Welcome to the Statistika Program's Archive Program. Below you will find the Arc
 <Catalog />
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

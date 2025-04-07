@@ -34,5 +34,7 @@ Sesi ini dapat diakses melalui **YouTube HIMASTAT UT** atau **Instagram HIMASTAT
 > "Pemrograman R adalah keterampilan penting untuk komputasi saintifik, mari kita pelajari bersama-sama di SIGMA!"
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

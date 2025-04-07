@@ -48,5 +48,7 @@ D --> E[Interaktif Diskusi]
 E --> F[Pemahaman dan Aplikasi]
 ```
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

@@ -86,5 +86,7 @@ Teruslah berinovasi dan berkontribusi, karena perjalanan kalian baru saja dimula
 #GEMAS #MahasiswaBerprestasi #BanggaBerkarya #Himastat #Gemashimastatut #KomunitasStatistikaUT
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

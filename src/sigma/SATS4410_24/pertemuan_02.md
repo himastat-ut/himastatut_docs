@@ -44,5 +44,7 @@ Tonton rekaman **SIGMA - Pendalaman Materi Pengantar Statistika Matematis 1 (SAT
 > "Fungsi densitas bersama dan nilai harapan adalah konsep yang sangat penting dalam statistik. Mari kita pelajari bersama cara menghitung dan mengaplikasikannya di SIGMA!"
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

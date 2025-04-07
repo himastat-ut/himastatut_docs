@@ -25,5 +25,7 @@ Informasi dalam halaman ini ditujukan untuk membantu mahasiswa agar tetap up-to-
 <Catalog />
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

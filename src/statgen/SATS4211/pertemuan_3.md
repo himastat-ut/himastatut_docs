@@ -61,5 +61,7 @@ Ayo, gabung dan bawa pertanyaan seputar mata kuliah **SATS4211** ke kelas, kita 
 #statgenclass2024 #sigma
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

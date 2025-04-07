@@ -63,5 +63,7 @@ E --> F[Inspirasi]
 
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

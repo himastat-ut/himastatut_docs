@@ -95,5 +95,7 @@ Dengan struktur ini, Anda dapat melihat bagaimana folder di dalam `src` dikelomp
 
 Jika Anda memerlukan perubahan atau penambahan detail, beri tahu saya!
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

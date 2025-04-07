@@ -32,5 +32,7 @@ Tujuan dari halaman ini adalah untuk memberikan ruang informasi yang dapat memba
 <Catalog />
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

@@ -96,5 +96,7 @@ Selain versi web, Anda tentunya dapat menggunakan aplikasi Office 365 secara **o
 [^4]: Universitas Terbuka (2021), *[Membangun SDM Unggul melalui Digital Learning Ecosystem](https://repository.ut.ac.id/9499/1/BP0018-21.pdf.pdf)*, hal. 14 – Office 365 memungkinkan mahasiswa menggunakan Word, Excel, PowerPoint secara **online** dan berkolaborasi real-time dalam dokumen yang sama.
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

@@ -94,5 +94,7 @@ Informasi terkait kegiatan **Bincang Mahasiswa (BIMA) Statistika** dapat ditemuk
 #bima #statistika #data_science #himastatut
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

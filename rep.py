@@ -18,7 +18,9 @@ def process_md_files_in_directory(directory, text_to_add):
                 add_text_to_md_file(file_path, text_to_add)
 
 # Teks yang ingin ditambahkan di akhir file
-text_to_add = """<GitContributors />
+text_to_add = """## Bagikan
+<Share colorful />
+<GitContributors />
 <GitChangelog />"""
 
 # Direktori yang ingin diproses

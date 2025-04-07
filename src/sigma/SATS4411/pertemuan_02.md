@@ -44,5 +44,7 @@ Tonton rekaman **SIGMA - Pendalaman Materi Metode Statistika Nonparametrik (SATS
 > "Pemilihan uji statistik yang tepat sangat penting untuk mendapatkan hasil yang valid. Mari kita pelajari bersama cara menggunakan uji McNemar dan Wilcoxon di SIGMA!"
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

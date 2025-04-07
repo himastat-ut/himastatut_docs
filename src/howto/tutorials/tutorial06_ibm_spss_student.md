@@ -124,5 +124,7 @@ Jangan dicoba kalau memang tidak diperlukan karena memang ilegal dan jika memang
 [^10]: JASP Team, "JASP 0.18 Manual." Available: https://jasp-stats.org/manual/. Accessed: Apr. 7, 2025.
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

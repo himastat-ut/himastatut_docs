@@ -35,5 +35,7 @@ Setiap pertemuan akan membahas topik yang berbeda, dan sesi-sesi tersebut dapat 
 <Catalog />
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

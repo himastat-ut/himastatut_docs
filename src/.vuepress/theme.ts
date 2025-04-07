@@ -121,6 +121,7 @@ export default hopeTheme({
   fullscreen: true,
   focus: true,
   pure: true,
+  print: true,
   plugins: {
     git: {
       changelog: true,
@@ -207,7 +208,37 @@ export default hopeTheme({
     },
 
     components: {
-      components: ["Badge", "VPCard","VidStack",],
+      components: ["Badge", "VPCard","VidStack", "PDF" ,"Share"],
+      componentOptions: {
+        share: {
+          services: [
+            "buffer",
+            "douban",
+            "email",
+            "evernote",
+            "facebook",
+            "flipboard",
+            "line",
+            "linkedin",
+            "messenger",
+            "pinterest",
+            "qq",
+            "qzone",
+            "qrcode",
+            "reddit",
+            "skype",
+            "sms",
+            "snapchat",
+            "telegram",
+            "tumblr",
+            "twitter",
+            "vk",
+            "weibo",
+            "whatsapp",
+            "wordpress",
+          ]
+        }
+      }
     },
 
     icon: {

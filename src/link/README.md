@@ -68,5 +68,7 @@ E --> F[Kompetisi Nasional]
 F --> G[Jejaring Internasional]
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

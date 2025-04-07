@@ -51,5 +51,7 @@ Seri pendalaman materi **SATS4312** terbagi menjadi beberapa pertemuan. Rekaman 
 <Catalog />
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

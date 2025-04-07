@@ -27,5 +27,7 @@ Semoga kegiatan BIMA ini dapat terus berlangsung dan memberi manfaat bagi mahasi
 Tonton rekaman kegiatan di [YouTube](https://www.youtube.com/watch?v=hapPJgTc24w&t=483s).
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

@@ -45,5 +45,7 @@ Tonton rekaman **SIGMA - Pendalaman Materi Komputer 2 (SATS4223) Pertemuan 2** d
 > "Grafik adalah alat penting dalam analisis data. Di SIGMA, kita akan pelajari cara menggunakan R untuk visualisasi yang efektif dan menarik!"
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

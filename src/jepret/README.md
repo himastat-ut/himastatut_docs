@@ -39,5 +39,7 @@ JEPRET (Jejak Pengurus di Feed Terupdate) berfokus pada pengakuan atas upaya pen
 <Catalog />
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

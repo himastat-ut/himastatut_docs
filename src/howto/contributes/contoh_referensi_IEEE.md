@@ -87,5 +87,7 @@ Semoga tutorial ini bermanfaat bagi Anda dalam berkontribusi pada pengembangan H
 [^5]: F. J. Brown, *Analysis of Data Structures*, Report no. 101, DataTech Solutions, Chicago, IL, 2020.  
 [^6]: M. Kumar, A. Singh, and P. Patel, "AI in medical diagnostics: A case study in oncology," *Journal of Medical AI Research*, vol. 8, no. 2, pp. 45-55, May 2021.
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

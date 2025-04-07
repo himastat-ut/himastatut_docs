@@ -50,5 +50,7 @@ Jurusan Statistika dapat menjadi tantangan, tetapi dengan pendekatan yang tepat,
 :::
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

@@ -44,5 +44,7 @@ Tonton rekaman **SIGMA - Pendalaman Materi Pengantar Statistika Matematis 1 (SAT
 > "Peluang adalah alat untuk memahami ketidakpastian. Di SIGMA, kita akan mengasah keterampilan kita dalam menghitung dan memahami peluang!"
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

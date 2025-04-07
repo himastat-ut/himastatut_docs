@@ -75,5 +75,7 @@ graph LR
     C --> E[Perbaikan Kinerja]
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

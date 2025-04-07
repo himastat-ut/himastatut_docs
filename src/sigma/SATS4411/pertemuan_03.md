@@ -44,5 +44,7 @@ Tonton rekaman **SIGMA - Pendalaman Materi Metode Statistika Nonparametrik (SATS
 > "Pengukuran hubungan antar variabel sangat penting dalam analisis data. Mari kita pelajari bersama cara menggunakan Koefisien Kontingensi dan Korelasi Rank di SIGMA!"
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

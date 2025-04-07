@@ -91,5 +91,7 @@ Konfigurasi TypeScript untuk proyek Himastatut Docs, yang mendefinisikan pengatu
 
 Dengan memahami struktur folder ini, Anda akan lebih mudah berkontribusi pada proyek Himastatut Docs. Jika Anda ingin tahu lebih lanjut tentang masing-masing folder dan fungsinya, Anda dapat melanjutkan ke halaman-halaman berikutnya yang akan membahas lebih detail.
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

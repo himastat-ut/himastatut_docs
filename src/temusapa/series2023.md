@@ -74,5 +74,7 @@ Untuk informasi lebih lanjut mengenai Temu Sapa Online Mahasiswa Statistika FST 
 > "Mari kita terus belajar dan berkembang bersama di Program Studi Statistika FST UT."
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

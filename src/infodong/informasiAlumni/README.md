@@ -32,5 +32,7 @@ Tujuan dari halaman ini adalah untuk menjaga koneksi yang kuat antara kampus dan
 <Catalog />
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

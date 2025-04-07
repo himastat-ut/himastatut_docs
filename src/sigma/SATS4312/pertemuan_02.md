@@ -86,5 +86,7 @@ Tonton rekaman **SIGMA – Model Linear Terapan (SATS4312) Pertemuan 2** di taut
 > *"Pemodelan dengan variabel indikator memudahkan kita menampung data kualitatif, sedangkan penanganan respon biner memerlukan pendekatan tersendiri, seperti Weighted Least Squares atau regresi logistik."*
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

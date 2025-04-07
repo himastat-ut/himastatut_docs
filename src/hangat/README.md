@@ -78,5 +78,7 @@ graph LR
     C --> G[Event B]
 ```
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

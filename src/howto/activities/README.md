@@ -59,5 +59,7 @@ Ikuti kegiatan seminar, lomba, dan kursus yang ada untuk memperkaya pengalaman b
 Pastikan Anda aktif mengikuti kegiatan yang dapat mendukung pengembangan akademik Anda untuk memaksimalkan potensi diri.
 :::
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

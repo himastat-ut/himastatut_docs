@@ -88,5 +88,7 @@ graph LR
     D --> G[Documentation Repository]
 ```
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

@@ -48,5 +48,7 @@ Tonton rekaman **StatGen Class 2023 - Metode Statistik 1 (SATS4121) Pertemuan 3*
 #statgenclass2023 #sigma
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

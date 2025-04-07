@@ -34,5 +34,7 @@ Sesi ini dapat diakses melalui **YouTube HIMASTAT UT** atau **Instagram HIMASTAT
 > "Statistika Nonparametrik memberikan fleksibilitas dalam pengujian data yang tidak terdistribusi normal. Mari kita pelajari bersama di SIGMA!"
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

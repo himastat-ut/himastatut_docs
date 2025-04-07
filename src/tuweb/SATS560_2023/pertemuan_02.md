@@ -60,5 +60,7 @@ Jika Anda memiliki pertanyaan atau ingin mendiskusikan materi lebih lanjut, sila
 --- 
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

@@ -99,5 +99,7 @@ Salam hormat,
 **HIMASTAT Universitas Terbuka**
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

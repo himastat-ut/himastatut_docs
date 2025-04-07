@@ -60,5 +60,7 @@ Selalu verifikasi hasil analisis dan visualisasi data untuk memastikan bahwa dat
 :::
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

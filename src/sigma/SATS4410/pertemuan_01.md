@@ -57,5 +57,7 @@ Tonton rekaman **SIGMA – Pengantar Statistika Matematis I (SATS4410) Pertemuan
 > *"Pemahaman mengenai bias, ragam, dan kuadrat tengah galat akan menjadi pintu gerbang menuju teori inferensi statistik. Mari asah konsepnya bersama HIMASTAT UT!"*
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

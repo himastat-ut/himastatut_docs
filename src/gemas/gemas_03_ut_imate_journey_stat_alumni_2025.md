@@ -113,5 +113,7 @@ Mari bersama-sama menciptakan komunitas yang lebih inspiratif dan bermanfaat bag
 #GEMAS #UTIMATEJOURNEY #HIMASTAT #StatistikaUT #StatGen #MahasiswaStatistika #SharingSession #MotivasiAlumni #Statistik
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

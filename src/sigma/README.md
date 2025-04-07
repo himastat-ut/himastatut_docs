@@ -70,5 +70,7 @@ B --> E{Praktik & Pembahasan Materi}
 
 <Catalog />
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

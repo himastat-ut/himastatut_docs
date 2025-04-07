@@ -83,5 +83,7 @@ Program Studi Statistika memiliki akreditasi B, yang menunjukkan kualitas pendid
 
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

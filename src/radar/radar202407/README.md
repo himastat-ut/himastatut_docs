@@ -54,5 +54,7 @@ Untuk informasi lebih lanjut mengenai program RADAR dan lainnya, Anda dapat meli
 <Catalog />
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

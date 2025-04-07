@@ -54,5 +54,7 @@ Metodologi statistik adalah fondasi dari analisis data. Mahasiswa Statistika per
 :::
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

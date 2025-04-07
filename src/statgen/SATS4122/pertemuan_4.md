@@ -48,5 +48,7 @@ Tonton rekaman **StatGen Class 3.0 - Aljabar Linear Terapan (SATS4122) Pertemuan
 #statgenclass2025 #sigma
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

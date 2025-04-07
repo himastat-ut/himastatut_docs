@@ -34,5 +34,7 @@ Sesi ini dapat diakses melalui **YouTube HIMASTAT UT** atau **Instagram HIMASTAT
 > "Peluang adalah dasar dari probabilitas, mari kita pelajari konsep-konsep pentingnya bersama-sama di SIGMA!"
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

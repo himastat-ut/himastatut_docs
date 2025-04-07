@@ -41,5 +41,7 @@ Jika Anda memiliki ide atau tambahan yang ingin dibahas, harap membawa materi te
 Untuk referensi lebih lanjut, Anda dapat melihat halaman [Hasil Rapat](./radar202407_hasil.md).
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

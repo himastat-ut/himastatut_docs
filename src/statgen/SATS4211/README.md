@@ -35,5 +35,7 @@ Setiap pertemuan akan membahas topik yang berbeda dan dapat diakses melalui **Yo
 <Catalog />
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

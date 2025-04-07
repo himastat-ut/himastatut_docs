@@ -92,5 +92,7 @@ Jangan lewatkan update terbaru dari kami!
 📺 **YouTube:** [himastatistikut2703](https://youtube.com/@himastat_ut)
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

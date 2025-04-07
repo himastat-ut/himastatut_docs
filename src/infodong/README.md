@@ -95,5 +95,7 @@ graph LR
 ```
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

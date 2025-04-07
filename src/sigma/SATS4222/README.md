@@ -34,5 +34,7 @@ Sesi ini dapat diakses melalui **YouTube HIMASTAT UT** atau **Instagram HIMASTAT
 > "Rancangan percobaan yang baik akan menghasilkan data yang berkualitas tinggi. Mari kita pelajari bersama cara menyusunnya di SIGMA!"
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

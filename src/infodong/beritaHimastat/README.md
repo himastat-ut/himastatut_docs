@@ -32,5 +32,7 @@ Halaman ini juga menjadi ruang komunikasi antara pengurus HIMASTAT dan mahasiswa
 <Catalog />
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

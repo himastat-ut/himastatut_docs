@@ -65,5 +65,7 @@ Mari bergabung dengan kami di **HIMASTAT Universitas Terbuka** untuk mengikuti k
 #WebinarSeries #DataScientist #BigData #StatistikaFSTUT #HIMASTAT
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

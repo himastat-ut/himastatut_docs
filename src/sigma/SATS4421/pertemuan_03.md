@@ -95,5 +95,7 @@ Tonton untuk penjelasan lebih detail dan contoh perhitungan manual $T^2$ Hotelli
 
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

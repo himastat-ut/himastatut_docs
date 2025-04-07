@@ -79,5 +79,7 @@ D --> G[Contoh Topik: Analisis Data Sederhana]
 
 <Catalog />
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

@@ -99,5 +99,7 @@ Jangan lupa untuk mengikuti update kegiatan dan pendaftaran melalui kanal YouTub
 
 --- 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

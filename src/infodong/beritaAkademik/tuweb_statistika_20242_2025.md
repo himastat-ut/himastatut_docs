@@ -118,5 +118,7 @@ Untuk mendukung kelancaran komunikasi, disediakan **Grup WhatsApp** khusus bagi 
 Dengan adanya TUWEB, kini belajar tidak lagi terasa sendirian. Manfaatkan program tutorial webinar ini sebaik mungkin untuk menunjang pemahamanmu. **Yuk segera daftar TUWEB 2025/2024.2** dan mari belajar bersama secara online dengan semangat! 🎉 Selamat belajar dan semoga sukses untuk ujian akhir semesternya nanti. **#StayStatistik** 📊✌️
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

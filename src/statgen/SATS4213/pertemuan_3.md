@@ -48,5 +48,7 @@ Tonton rekaman **StatGen Class 2.0 - Pengumpulan & Penyajian Data (SATS4213) Per
 #statgenclass2024 #sigma
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

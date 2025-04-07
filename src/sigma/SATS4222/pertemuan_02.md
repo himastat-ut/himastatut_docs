@@ -46,5 +46,7 @@ Tonton rekaman **SIGMA - Pendalaman Materi Rancangan Percobaan (SATS4222) Pertem
 
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

@@ -98,5 +98,7 @@ SAS Studio adalah lingkungan pengembangan berbasis web milik SAS® yang memungk
 [^6]: SAS Support, "SAS Studio – Learn & Support." Available: https://support.sas.com/en/software/studio-support.html. Accessed: Apr. 7, 2025.
 [^7]: SAS Institute, "Academic Research – Why choose SAS for academic research?" Available: https://www.sas.com/en_sg/industry/education/solution/higher-ed/academic-research.html. Accessed: Apr. 7, 2025.
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

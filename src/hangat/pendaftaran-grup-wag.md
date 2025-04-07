@@ -51,5 +51,7 @@ Jangan sampai ketinggalan, ayo bergabung dan jadilah bagian dari komunitas yang 
 **#HIMASTATUT #StatistikaUT #MahasiswaUT #InfoStatistika**
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

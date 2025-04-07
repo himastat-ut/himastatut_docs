@@ -88,5 +88,7 @@ Ikuti kami di Instagram [@himastat_ut](https://www.instagram.com/himastat_ut) un
 Halaman ini adalah sumber utama untuk segala informasi terkini mengenai **Universitas Terbuka** dan **Program Studi Statistika**. Pastikan selalu mengunjungi halaman ini untuk mendapatkan informasi penting seputar perkuliahan dan kegiatan akademik.
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

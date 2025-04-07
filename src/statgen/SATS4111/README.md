@@ -34,5 +34,7 @@ Sesi ini dapat berubah sesuai dengan kebutuhan, dan setiap kelas dapat diakses m
 
 <Catalog />
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />

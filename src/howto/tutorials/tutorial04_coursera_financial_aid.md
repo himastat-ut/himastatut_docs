@@ -131,5 +131,7 @@ Terakhir, ingatlah bahwa tujuan Coursera menyediakan Financial Aid adalah untuk 
 [^37]: Data Penerimaan Sertifikat Coursera di Industri, 2025.
 
 
+## Bagikan
+<Share colorful />
 <GitContributors />
 <GitChangelog />
