@@ -1,3 +1,4 @@
+---
 title: SATS4211 - Pertemuan 2
 date: 2024-05-21
 icon: chart-bar
@@ -12,7 +13,7 @@ tags:
   - statistika
   - statgenclass2024
 category: 
-- STATGEN
+  - STATGEN
 --- 
 
 # Metode Statistika II (SATS4211) Pertemuan 2

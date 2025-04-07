@@ -1,4 +1,4 @@
---- 
+---
 title: Pamit Pengurus HIMASTAT 2023/2024
 index: true
 icon: handshake
@@ -12,7 +12,7 @@ author:
   - name: "Himastatut Docs"
     email: "himastatut@gmail.com"
     url: "https://himastatut.my.id/article/"
---- 
+---
 
 # Pamit Pengurus HIMASTAT 2023/2024
 
@@ -67,7 +67,7 @@ Kami ingin memberikan penghargaan khusus kepada beberapa pengurus yang telah men
 Berikut adalah gambar dokumentasi perpisahan pengurus HIMASTAT 2023/2024 yang penuh makna:
 
 | No | Gambar | Keterangan |
-|--- -|--- --- --|--- --- --- --- |
+|----|--------|------------|
 | 1 | ![](./pamit2023/1.jpg =x300) | Poster perpisahan pengurus HIMASTAT 2023/2024 beserta nama dan jabatan masing-masing pengurus |
 | 2 | ![](./pamit2023/2.jpg =x300) | Banner Pesan Kesan|
 | 3 | ![](./pamit2023/3.jpg =x300) | Kesan pengurus HIMASTAT 2023/2024 |
@@ -89,7 +89,7 @@ Beberapa tautan profil pengurus yang bisa kamu kunjungi:
 - [Jihad Padilah (Divisi Akademik)](/jepret/jepret2023/portofolio/MHS045357039.md)
 - [Rahmat Hidayat (Divisi SDM)](/jepret/jepret2023/portofolio/MHS048409024.md)
 
---- 
+---
 
 ## 📝 Penutup
 

@@ -13,7 +13,7 @@ tags:
   - statistika
   - statgenclass2024
 category: 
-- STATGEN
+  - STATGEN
 --- 
 
 # Metode Statistika II (SATS4211) Pertemuan 3

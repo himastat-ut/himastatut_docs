@@ -1,4 +1,4 @@
---- 
+---
 title: Informasi Tutorial Berbasis Web (TUWEB) Statistika UT 2025/2024.2
 index: true
 icon: newspaper
@@ -12,7 +12,7 @@ author:
   - name: "Himastatut Docs"
     email: "himastatut@gmail.com"
     url: "https://himastatut.my.id/article/"
---- 
+---
 
 # Informasi Tutorial Berbasis Web (TUWEB) Statistika UT 2025/2024.2
 
@@ -30,12 +30,12 @@ Berikut adalah **daftar mata kuliah** Program Studi Statistika yang tersedia dal
 
 ### Semester 1
 | Kode Mata Kuliah | Nama Mata Kuliah        |
-| --- --- --- --- --- - | --- --- --- --- --- --- --- -- |
+| ---------------- | ----------------------- |
 | **SATS4121**     | Metode Statistik 1      |
 
 ### Semester 2
 | Kode Mata Kuliah | Nama Mata Kuliah        |
-| --- --- --- --- --- - | --- --- --- --- --- --- --- -- |
+| ---------------- | ----------------------- |
 | **SATS4111**     | Komputer 1              |
 | **SATS4120**     | Matematika 1            |
 | **SATS4211**     | Metode Statistik 2      |
@@ -43,7 +43,7 @@ Berikut adalah **daftar mata kuliah** Program Studi Statistika yang tersedia dal
 
 ### Semester 3
 | Kode Mata Kuliah | Nama Mata Kuliah                 |
-| --- --- --- --- --- - | --- --- --- --- --- --- --- --- --- --- -- |
+| ---------------- | -------------------------------- |
 | **SATS4122**     | Aljabar Linear Terapan           |
 | **SATS4210**     | Matematika 2                     |
 | **SATS4213**     | Pengumpulan & Penyajian Data     |
@@ -51,7 +51,7 @@ Berikut adalah **daftar mata kuliah** Program Studi Statistika yang tersedia dal
 
 ### Semester 4
 | Kode Mata Kuliah | Nama Mata Kuliah                 |
-| --- --- --- --- --- - | --- --- --- --- --- --- --- --- --- --- -- |
+| ---------------- | -------------------------------- |
 | **SATS4220**     | Matematika 3                     |
 | **SATS4222**     | Rancangan Percobaan              |
 | **SATS4224**     | Pengantar Sosiometri             |
@@ -61,7 +61,7 @@ Berikut adalah **daftar mata kuliah** Program Studi Statistika yang tersedia dal
 
 ### Semester 5
 | Kode Mata Kuliah | Nama Mata Kuliah                       |
-| --- --- --- --- --- - | --- --- --- --- --- --- --- --- --- --- --- --- -- |
+| ---------------- | -------------------------------------- |
 | **SATS4311**     | Asuransi I                             |
 | **SATS4321**     | Metode Sampling                        |
 | **SATS4323**     | Metode Peramalan                       |
@@ -70,7 +70,7 @@ Berikut adalah **daftar mata kuliah** Program Studi Statistika yang tersedia dal
 
 ### Semester 6
 | Kode Mata Kuliah | Nama Mata Kuliah                       |
-| --- --- --- --- --- - | --- --- --- --- --- --- --- --- --- --- --- --- -- |
+| ---------------- | -------------------------------------- |
 | **SATS4412**     | Asuransi II                            |
 | **SATS4510**     | Metodologi Penelitian                  |
 | **SATS4420**     | Pengantar Statistika Matematis 2       |
@@ -79,7 +79,7 @@ Berikut adalah **daftar mata kuliah** Program Studi Statistika yang tersedia dal
 
 ### Semester 7
 | Kode Mata Kuliah | Nama Mata Kuliah             |
-| --- --- --- --- --- - | --- --- --- --- --- --- --- --- --- - |
+| ---------------- | ---------------------------- |
 | **SATS4324**     | Inferensi Bayesian           |
 | **SATS4423**     | Analisis Runtun Waktu        |
 | **SATS4560**     | Karya Ilmiah *(Penulisan)*   |
@@ -91,7 +91,7 @@ Berikut adalah **daftar mata kuliah** Program Studi Statistika yang tersedia dal
 **Pelaksanaan TUWEB** Semester 2024/25.2 akan dilaksanakan setiap akhir pekan (hari **Sabtu dan Minggu**), dengan masing-masing mata kuliah mendapatkan **8 kali pertemuan** secara sinkron (live) sepanjang semester. Setiap sesi dilaksanakan secara **online melalui Microsoft Teams** dengan durasi **120 menit per pertemuan**. Berikut jadwal sesi TUWEB tiap harinya (WIB):
 
 | Hari    | Jam Pelaksanaan        |
-| --- --- - | --- --- --- --- --- --- --- - |
+| ------- | ---------------------- |
 | Sabtu   | 08.00 – 10.00 WIB      |
 | Sabtu   | 10.30 – 12.30 WIB      |
 | Sabtu   | 13.00 – 15.00 WIB      |
@@ -113,7 +113,7 @@ Untuk mendukung kelancaran komunikasi, disediakan **Grup WhatsApp** khusus bagi 
 - **Grup WhatsApp TUWEB Statistika 2025/2024.2:** [Klik di sini untuk bergabung](http://s.id/WAG_HimastatUT) – Grup ini digunakan untuk koordinasi jadwal, penyampaian informasi teknis setiap sesi, dan diskusi antar peserta TUWEB. Pastikan bergabung agar tidak ketinggalan info penting seputar pelaksanaan tutorial.
 - **Komunitas WhatsApp HIMASTAT UT:** [Klik di sini untuk bergabung](https://chat.whatsapp.com/HLT9mlwDF6987pavHdCBXK) – Komunitas ini terbuka bagi seluruh mahasiswa Statistika UT di seluruh Indonesia. Di sini kamu bisa berdiskusi santai tentang perkuliahan, berbagi tips mengerjakan tugas/ToTUTON, info kegiatan HIMASTAT, dan hal seru lainnya bersama **1375+ anggota aktif**. Jangan lewatkan kesempatan untuk memperluas jaringan pertemanan dan mendapatkan insight dari kakak tingkat maupun alumni!
 
---- 
+---
 
 Dengan adanya TUWEB, kini belajar tidak lagi terasa sendirian. Manfaatkan program tutorial webinar ini sebaik mungkin untuk menunjang pemahamanmu. **Yuk segera daftar TUWEB 2025/2024.2** dan mari belajar bersama secara online dengan semangat! 🎉 Selamat belajar dan semoga sukses untuk ujian akhir semesternya nanti. **#StayStatistik** 📊✌️
 

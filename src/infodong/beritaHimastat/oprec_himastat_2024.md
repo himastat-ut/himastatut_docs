@@ -1,4 +1,4 @@
---- 
+---
 title: Open Recruitment HIMASTAT 2024/2025
 index: true
 icon: phone
@@ -12,7 +12,7 @@ author:
   - name: "Himastatut Docs"
     email: "himastatut@gmail.com"
     url: "https://himastatut.my.id/article/"
---- 
+---
 
 # Open Recruitment HIMASTAT 2024/2025
 
@@ -27,14 +27,14 @@ Mari bergabung menjadi bagian dari pilar utama HIMASTAT dan kembangkan potensimu
 - **Pendaftaran:** [bit.ly/OPRECHIMASTAT2024](https://bit.ly/OPRECHIMASTAT2024)
 - **Breakdown Jobdesc:** [bit.ly/guidebook-2024](https://bit.ly/guidebook-2024)
 
---- 
+---
 
 ## 🗓️ Alur Seleksi
 
 Berikut adalah tahapan seleksi Open Recruitment HIMASTAT 2024:
 
 | Tahap     | Kegiatan                             | Tanggal                 |
-|--- --- --- --|--- --- --- --- --- --- --- --- --- --- --- --- --|--- --- --- --- --- --- --- --- -|
+|-----------|--------------------------------------|-------------------------|
 | Tahap 1   | Seleksi Administrasi                 | 10 - 17 Agustus 2024   |
 |           | Pengumuman Tahap 1                   | 19 Agustus 2024        |
 | Tahap 2   | Interview 1-on-1 & LGD               | 21 - 28 Agustus 2024   |
@@ -43,7 +43,7 @@ Berikut adalah tahapan seleksi Open Recruitment HIMASTAT 2024:
 |           | Pengumuman Tahap 3                   | 11 September 2024      |
 |           | Onboarding Pengurus                  | 14 September 2024      |
 
---- 
+---
 
 ## 🎁 Benefit Bergabung dengan HIMASTAT
 
@@ -53,7 +53,7 @@ Berikut adalah tahapan seleksi Open Recruitment HIMASTAT 2024:
 - Peningkatan soft skill  
 - Akses mudah terhadap informasi akademik  
 
---- 
+---
 
 ## ✅ Persyaratan Umum
 
@@ -65,7 +65,7 @@ Berikut adalah tahapan seleksi Open Recruitment HIMASTAT 2024:
 - Mampu bekerja secara individu maupun tim  
 - Memiliki portfolio (khusus untuk posisi Graphic Designer)  
 
---- 
+---
 
 ## 🧩 Posisi dan Jobdesc Singkat
 
@@ -84,12 +84,12 @@ Bertanggung jawab terhadap konten di media sosial HIMASTAT. Melakukan posting, p
 ### Graphic Designer (GD)  
 Membuat desain visual untuk konten media sosial HIMASTAT. Minimal menguasai Canva dan memiliki portofolio.
 
---- 
+---
 
 ## 📸 Dokumentasi Gambar Informasi
 
 | No. | Gambar | Keterangan |
-|--- --|--- --- --|--- --- --- --- |
+|-----|--------|------------|
 | 1 | ![](./oprec2024/1.jpg =x300) | Poster utama open recruitment HIMASTAT 2024/2025 |
 | 2 | ![](./oprec2024/2.jpg =x300) | Timeline dan tahapan seleksi mulai dari pendaftaran hingga onboarding |
 | 3 | ![](./oprec2024/3.jpg =x300) | Informasi lengkap terkait benefit dan persyaratan calon anggota |
@@ -97,7 +97,7 @@ Membuat desain visual untuk konten media sosial HIMASTAT. Minimal menguasai Canv
 
 > **Catatan**: Pastikan gambar diletakkan di folder `./oprec2024/` sesuai dengan struktur di atas.
 
---- 
+---
 
 ## 🔗 Tetap Terhubung
 

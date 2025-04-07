@@ -1,4 +1,4 @@
---- 
+---
 title: Wisuda Apresiasi - Periode 2024.1 & 2024.2
 date: 2024-05-01
 author:
@@ -15,7 +15,7 @@ tags:
  - apresiasi
  - himastat
 icon: rocket
---- 
+---
 
 # 🎓 Wisuda Apresiasi - Periode 2024.1 & 2024.2 🚀
 
@@ -23,14 +23,14 @@ icon: rocket
 
 Lulus adalah **awal baru**! Ilmu yang telah kalian capai akan membawa kalian menuju sukses yang lebih besar di masa depan. Kami sangat bangga dengan pencapaian kalian dan yakin kalian siap menghadapi tantangan yang ada di depan! ✨
 
---- 
+---
 
 ## Daftar Wisudawan Periode 2024
 
 Mari kita berikan apresiasi kepada para wisudawan yang telah menunjukkan dedikasi dan usaha keras dalam meraih gelar Sarjana Statistika. Berikut adalah daftar wisudawan yang lulus pada periode **2024.1** dan **2024.2**:
 
 | **Nama Mahasiswa**               | **NIM**       | **UPBJJ**         | **Periode** |
-|--- --- --- --- --- --- --- --- --- --- --- --|--- --- --- --- --- |--- --- --- --- --- --- -|--- --- --- --- -|
+|-----------------------------------|---------------|-------------------|-------------|
 | FEBRI NADIRSYAH ZAINI             | 041633368     | BANDAR LAMPUNG    | 20241       |
 | FERI GINANJAR                     | 041171504     | BANDUNG           | 20241       |
 | AULIL AMRI                        | 020316501     | BATAM             | 20241       |
@@ -130,7 +130,7 @@ Mari kita berikan apresiasi kepada para wisudawan yang telah menunjukkan dedikas
 
 👏 **Selamat Wisudawan!** 🎉 Teruslah berkarya dan buktikan bahwa perjalanan kalian baru saja dimulai!
 
---- 
+---
 
 ## Pesan Motivasi untuk Mahasiswa Aktif 🌱
 
@@ -147,13 +147,13 @@ Saksikan video penuh kebanggaan yang merangkum perjalanan wisudawan Statistika U
   title="Wisuda Apresiasi Statistika 2024"
  />
 
---- 
+---
 
 ## 🏆 Terus Berkarya, Wisudawan! 🎓
 
 Kami berharap kalian akan terus menginspirasi dan berkontribusi untuk dunia dengan segala ilmu yang telah diperoleh. Wisuda hanyalah sebuah **awal** dari segalanya. Semoga setiap langkah yang kalian ambil membawa kalian menuju kesuksesan yang lebih besar. Kami percaya, masa depan kalian cerah! 🌟
 
---- 
+---
 
 **#GEMAS #Wisuda2024 #HIMASTAT #StatistikaUT #StatGen #MahasiswaStatistika #Wisuda2024**
 
