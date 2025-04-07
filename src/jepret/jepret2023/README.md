@@ -21,7 +21,7 @@ tagline: Cerdas bersama Himpunan Mahasiswa Statistika.
 actions:
   - text: Pelajari Lebih Lanjut
     icon: lightbulb
-    link: ./docs/
+    link: /docs/
     type: primary
 
   - text: Website Statistika UT
