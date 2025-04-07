@@ -16,7 +16,7 @@
     "@vuepress/plugin-docsearch": "^2.0.0-rc.82",
     "@vuepress/plugin-git": "^2.0.0-rc.91",
     "@vuepress/plugin-pwa": "^2.0.0-rc.82",
-    "@vuepress/plugin-revealjs": "^2.0.0-rc.91",
+    "@vuepress/plugin-revealjs": "^2.0.0-rc.82",
     "@vuepress/plugin-search": "^2.0.0-rc.82",
     "@vuepress/plugin-seo": "^2.0.0-rc.85",
     "@vuepress/plugin-shiki": "^2.0.0-rc.91",
