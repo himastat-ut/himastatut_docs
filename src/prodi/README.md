@@ -72,7 +72,11 @@ Berikut adalah beberapa dosen terkemuka yang mengajar di Program Studi Statistik
 
 Program Studi Statistika memiliki akreditasi B, yang menunjukkan kualitas pendidikan yang dijalankan di universitas ini[^6].
 
-## Referensi
+## Bagikan
+<Share colorful />
+<GitContributors />
+<GitChangelog />
+
 
 [^1]: Universitas Terbuka, *Sejarah Program Studi Statistika*, [https://statistika-fst.ut.ac.id/sejarah-statistika/](https://statistika-fst.ut.ac.id/sejarah-statistika/)
 [^2]: Universitas Terbuka, *Visi dan Misi Program Studi Statistika*, [https://statistika-fst.ut.ac.id/visi-dan-misi/](https://statistika-fst.ut.ac.id/visi-dan-misi/)
@@ -80,10 +84,3 @@ Program Studi Statistika memiliki akreditasi B, yang menunjukkan kualitas pendid
 [^4]: Universitas Terbuka, *Kurikulum Program Studi Statistika*, [https://statistika-fst.ut.ac.id/kurikulum/](https://statistika-fst.ut.ac.id/kurikulum/)
 [^5]: Universitas Terbuka, *Capaian Pembelajaran dan Struktur Kurikulum*, [https://statistika-fst.ut.ac.id/kurikulum/](https://statistika-fst.ut.ac.id/kurikulum/)
 [^6]: Universitas Terbuka, *Sertifikat Akreditasi Program Studi Statistika*, [https://statistika-fst.ut.ac.id/sertifikasi-akreditasi/](https://statistika-fst.ut.ac.id/sertifikasi-akreditasi/)
-
-
-
-## Bagikan
-<Share colorful />
-<GitContributors />
-<GitChangelog />

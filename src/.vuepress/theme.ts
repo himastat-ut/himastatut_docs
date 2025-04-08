@@ -159,6 +159,7 @@ export default hopeTheme({
       // Konfigurasi tag
       tag: "/tag/",
       // tagItem: "/tag/:name/",
+      
     },
     search: {
       hotKeys: ['s', '/'],
@@ -208,7 +209,19 @@ export default hopeTheme({
     },
 
     components: {
-      components: ["Badge", "VPCard","VidStack", "PDF" ,"Share"],
+      components: [
+        "Badge", 
+        "VPCard",
+        "VidStack", 
+        "PDF",
+        "Share", 
+        "VPBanner",
+        "SiteInfo",
+        "BiliBili",
+        "CodePen",
+        "StackBlitz",
+        "XiGua",
+      ],
       componentOptions: {
         share: {
           services: [

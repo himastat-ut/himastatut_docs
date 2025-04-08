@@ -111,7 +111,7 @@ Terakhir, ingatlah bahwa tujuan Coursera menyediakan Financial Aid adalah untuk 
 
 --- 
 
-## Referensi
+
 
 [^4]: **Muhammad Tahaa Khan** – *Guide for Applying Financial Aid in Coursera*. Medium, 2019.  
 [^6]: **GitHub Copilot**, GitHub Docs, [online] tersedia: <https://github.com/copilot>.  

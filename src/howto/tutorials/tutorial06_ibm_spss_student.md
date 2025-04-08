@@ -110,7 +110,7 @@ Jangan dicoba kalau memang tidak diperlukan karena memang ilegal dan jika memang
 
 ---
 
-## Referensi
+
 
 [^1]: IBM, "IBM SPSS Statistics – Product Overview." Available: https://www.ibm.com/products/spss-statistics. Accessed: Apr. 7, 2025.  
 [^2]: IBM, "Extending SPSS Statistics with Python and R." Available: https://www.ibm.com/docs/en/spss-statistics. Accessed: Apr. 7, 2025.  

@@ -102,7 +102,7 @@ Setelah akun Anda terverifikasi sebagai mahasiswa, Anda dapat mengakses berbagai
 
 --- 
 
-## Referensi
+
 
 [^1]: "GitHub Education for Students", GitHub Docs, [online] Available: https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-education-for-students/apply-to-github-education-as-a-student.
 [^2]: "GitHub Student Developer Pack Overview", GitHub Docs, [online] Available: https://github.com/education/students.

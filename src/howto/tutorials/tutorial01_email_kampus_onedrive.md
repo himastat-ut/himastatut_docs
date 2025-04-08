@@ -80,8 +80,6 @@ Untuk menghentikan berbagi, Anda dapat mengelola *permissions* pada file tersebu
 - **Gunakan Fitur Pencarian:** OneDrive memiliki fitur pencarian yang canggih. Cukup ketik kata kunci pada kotak *Search* untuk menemukan dokumen tanpa harus mencari manual di banyak folder.
 - **Perhatikan Koneksi Internet:** Saat mengunggah file besar atau banyak file sekaligus, pastikan koneksi internet stabil. Untuk penggunaan offline, unduh file yang dibutuhkan terlebih dahulu, lalu unggah kembali versi terbaru ke OneDrive setelah selesai diedit.
 
-## Referensi
-
 [^1]: Universitas Terbuka (2021), *[Membangun SDM Unggul melalui Digital Learning Ecosystem](https://repository.ut.ac.id/9499/1/BP0018-21.pdf.pdf)*, hal. 14 – Layanan email e-campus UT menyediakan kapasitas inbox 50 GB dan penyimpanan OneDrive 1 TB terintegrasi Office 365.
 [^2]: Universitas Terbuka (2022), *[Panduan Aktivasi Email Office365 bagi Mahasiswa UT](https://palembang.ut.ac.id/article/pengumuman/pengenalan-fitur-baru-sia-ut-dengan-nama-baru-my-ut#:~:text=Diinformasikan%20untuk%20masuk%20ke%20halaman,silahkan%20merubah%20password%20default%20tersebut.)* – Format akun mahasiswa: **NIM@ecampus.ut.ac.id** dengan password awal *Ut+tglblnthnlahir* (mis. Ut01012000 untuk 1 Jan 2000).
 [^3]: Universitas Terbuka (2021), *[Membangun SDM Unggul melalui Digital Learning Ecosystem](https://repository.ut.ac.id/9499/1/BP0018-21.pdf.pdf)*, hal. 14 – Dengan Office 365, mahasiswa dapat menggunakan Microsoft Office secara online dan berkolaborasi/sharing dokumen dengan mahasiswa lain maupun tutor.

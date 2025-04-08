@@ -88,7 +88,7 @@ Selain versi web, Anda tentunya dapat menggunakan aplikasi Office 365 secara **o
 - **Update dan Keamanan:** Pastikan perangkat Anda rutin tersambung internet minimal sekali setiap 30 hari. Lisensi Office 365 akan melakukan pengecekan berkala. Selain itu, selalu logout dari Office 365 di perangkat publik dan jaga kerahasiaan password akun UT Anda. Aktifkan verifikasi keamanan tambahan jika disediakan.
 
 
-## Referensi
+
 
 [^1]: UT Palabuhanratu (2024), *[Ecampus UT – Microsoft 365 Gratis untuk Mahasiswa](https://www.salutpalabuhanratu.com/ecampus-ut-sepowerfull-itukah-microsoft-365-gratisan-untuk-mahasiswa)* – Email Ecampus (@ecampus.ut.ac.id) merupakan akun Office 365 berlisensi resmi untuk mahasiswa UT.
 [^2]: Universitas Terbuka (2022), *[Panduan Aktivasi Email Office365 Mahasiswa](https://www.instagram.com/ut_bogor/p/C4zsFLDrjnT/?img_index=1)* – Format login awal akun Office 365 mahasiswa UT: NIM@ecampus.ut.ac.id dan password default “Ut+TanggalLahir” (contoh: UtDDMMYYYY).

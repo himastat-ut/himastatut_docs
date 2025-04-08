@@ -80,8 +80,6 @@ Untuk mempermudah Anda dalam berkontribusi, silakan perhatikan beberapa hal pent
 
 Dengan berkontribusi, Anda tidak hanya membantu memperkaya dokumentasi, tetapi juga dapat mempererat hubungan antara mahasiswa, alumni, dan dosen. Kami berharap Anda dapat bergabung dalam inisiatif ini dan menjadi bagian dari komunitas HIMASTAT yang lebih kuat dan berdaya.
 
-### Referensi untuk Kontribusi
-
 [^1]: **VuePress Documentation** – *Panduan Penggunaan VuePress*, [online] tersedia: <https://vuejs.org/guide/quick-start.html>.
 [^2]: **VuePress Hope Theme** – *Desain Tema VuePress*, [online] tersedia: <https://theme-hope.vuejs.press/guide/>.
 [^3]: **GitHub Docs** – *Panduan GitHub*, [online] tersedia: <https://docs.github.com/en>.
