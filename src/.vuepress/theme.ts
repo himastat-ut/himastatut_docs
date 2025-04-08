@@ -1,17 +1,28 @@
 import { hopeTheme } from "vuepress-theme-hope";
 import { getDirname, path } from "vuepress/utils";
+import { dateSorter } from "@vuepress/helper";
 
 import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
   hostname: "https://himastatut.my.id",
+  pageInfo: ["Author", "Original", "Date", "PageView", "ReadingTime", "Category", "Tag", "Word"],
+  hotReload: true,
   author: {
     name: "Himastatut Docs",
     url: "https://himastatut.my.id",
     email: "himastatut@gmail.com",
   },
+  blogLocales: {
+    slide: "Slides",
+    original: "Original",
+  },
+  contributors: true,
   logo: "logo.png",
+  navbarAutoHide: "none",
+  toc: true,
+  license: " | MIT License",
 
   repo: "himastat-ut/himastatut_docs",
   repoLabel: "GitHub",
@@ -26,7 +37,7 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "Theme by <a href='https://himastatut.my.id' target='_blank'>Himpunan Mahasiswa Universitas Terbuka</a> | MIT Licensed",
+  footer: "Theme by <a href='https://himastatut.my.id' target='_blank'>Himpunan Mahasiswa Universitas Terbuka</a>",
 
   displayFooter: true,
 
@@ -159,7 +170,20 @@ export default hopeTheme({
       // Konfigurasi tag
       tag: "/tag/",
       // tagItem: "/tag/:name/",
-      
+      type: [
+        {
+          key: "slide",
+          filter: (page) => page.frontmatter.layout === "Slide",
+          frontmatter: () => ({ title: "Slides" }),
+        },
+        {
+          key: "original",
+          filter: (page) => !!page.frontmatter.original,
+          sorter: (pageA, pageB) =>
+            dateSorter(pageA.frontmatter.date, pageB.frontmatter.date),
+          frontmatter: () => ({ title: "Original" }),
+        },
+      ],
     },
     search: {
       hotKeys: ['s', '/'],

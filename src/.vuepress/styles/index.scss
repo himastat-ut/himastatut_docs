@@ -127,7 +127,8 @@ $media-query-config: (
   .page-date-info,
   .page-reading-time-info,
   .page-category-info,
-  .page-tag-info {
+  .page-tag-info,
+  .page-word-info {
     position: relative;
 
     svg {
