@@ -4,7 +4,7 @@ date: 2024-04-02
 category:
   - How To
   - Tutorials
-icon: book-open
+icon: hard-drive
 index: true
 author:
   - name: "Firmansyah Mukti Wijaya"

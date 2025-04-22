@@ -4,7 +4,7 @@ date: 2025-04-07
 category:
   - How To
   - Tutorials
-icon: book-open
+icon: diagram-project
 index: true
 author:
   - name: "Firmansyah Mukti Wijaya"
