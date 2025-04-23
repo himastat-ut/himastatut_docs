@@ -1,7 +1,7 @@
 {
   "name": "himastatut_docs",
   "description": "himastatut_docs",
-  "version": "1.1.1",
+  "version": "1.2.1",
   "license": "MIT",
   "type": "module",
   "scripts": {
@@ -22,6 +22,7 @@
     "@vuepress/plugin-shiki": "^2.0.0-rc.91",
     "@vuepress/plugin-sitemap": "^2.0.0-rc.85",
     "chart.js": "^4.4.8",
+    "echarts": "^5.6.0",
     "flowchart.ts": "^3.0.1",
     "katex": "^0.16.21",
     "mermaid": "^11.5.0",
