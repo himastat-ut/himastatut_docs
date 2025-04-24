@@ -1,5 +1,30 @@
 @use "sass:map";
 
+.vp-toggle-navbar-button {
+  display: block;
+}
+
+.vp-toggle-navbar-button > span {
+  position: static !important;
+}
+
+.vp-toggle-navbar-button.is-active .vp-middle {
+  display: none;
+}
+
+.vp-nav-screen {
+  display: block;
+}
+
+.nav-screen-links {
+  display: block;
+}
+
+@media screen and (max-width: 850px) {
+  .vp-toggle-navbar-button {
+    display: block !important;
+  }
+}
 // Konfigurasi media query untuk berbagai ukuran layar
 $media-query-config: (
   (max-width: 850px, label: "Statistics Genius (StatGen)"),

@@ -33,6 +33,7 @@ Halaman **Info Dong** menyajikan berbagai informasi terkini yang relevan untuk s
 
 Halaman **Info Dong** dibagi menjadi beberapa kategori untuk memudahkan pencarian informasi. Pilih kategori yang sesuai dengan kebutuhan Anda:
 
+- **FAQ Kuliah**: Kumpulan pertanyaan yang sering diajukan seputar perkuliahan di Program Studi Statistika Universitas Terbuka, yang dirancang untuk mempermudah mahasiswa mendapatkan informasi terkait perkuliahan.
 - **Berita Akademik**: Pengumuman terkini terkait perkuliahan, ujian, dan program akademik lainnya.
 - **Acara & Kegiatan**: Informasi tentang seminar, workshop, kompetisi, dan acara lain yang relevan dengan mahasiswa dan alumni.
 - **Program Baru**: Update mengenai program-program terbaru yang ditawarkan oleh Universitas Terbuka atau Program Studi Statistika.
@@ -46,6 +47,10 @@ Halaman **Info Dong** dibagi menjadi beberapa kategori untuk memudahkan pencaria
 ### Tabulasi Kategori
 
 ::: tabs
+
+@tab FAQ Kuliah
+- Pertanyaan umum mengenai perkuliahan di Program Studi Statistika Universitas Terbuka, termasuk pendaftaran, ujian, dan informasi akademik lainnya.
+
 @tab Berita Akademik
 - Pengumuman perkuliahan terbaru, jadwal ujian, dan informasi akademik lainnya.
 
@@ -78,20 +83,25 @@ Untuk memberikan gambaran yang lebih jelas tentang bagaimana konten di halaman i
 
 ```mermaid
 graph LR
-    A[Info Dong] --> B{Berita Akademik}
-    A --> C{Acara & Kegiatan}
-    A --> D{Program Baru}
-    A --> E{Informasi Alumni}
-    A --> F{Berita HIMASTAT}
-    B --> F1[Pengumuman Ujian]
-    B --> F2[Jadwal Perkuliahan]
-    C --> F3[Seminar & Workshop]
-    C --> F4[Kompetisi & Lomba]
-    D --> F5[Program Baru Universitas]
-    E --> F6[Kesempatan Kerja]
-    E --> F7[Networking Alumni]
-    F --> F8[Open Recruitment HIMASTAT]
-    F --> F9[Perpisahan Pengurus HIMASTAT]
+    A[Info Dong] --> B{FAQ Kuliah}
+    A --> C{Berita Akademik}
+    A --> D{Acara & Kegiatan}
+    A --> E{Program Baru}
+    A --> F{Informasi Alumni}
+    A --> G{Berita HIMASTAT}
+    B --> F1[FAQ Pendaftaran]
+    B --> F2[FAQ Ujian]
+    B --> F3[FAQ Perkuliahan]
+    B --> F4[FAQ Istilah Tertentu Dalam Sistem UT]
+    C --> F5[Pengumuman Ujian]
+    C --> F6[Jadwal Perkuliahan]
+    D --> F7[Seminar & Workshop]
+    D --> F8[Kompetisi & Lomba]
+    E --> F9[Program Baru Universitas]
+    F --> F10[Kesempatan Kerja]
+    F --> F11[Networking Alumni]
+    G --> F12[Open Recruitment HIMASTAT]
+    G --> F13[Perpisahan Pengurus HIMASTAT]
 ```
 
 

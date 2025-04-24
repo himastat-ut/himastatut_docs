@@ -24,6 +24,11 @@ export default [
           icon: "book",
           link: "/infodong/beritaHimastat/",
         },
+        {
+          text: "FAQ Kuliah",
+          icon: "fa-solid:question-circle",
+          link: "/infodong/faqKuliah/",
+        },
       ]
     }
   ];
