@@ -1,6 +1,4 @@
 import { defineUserConfig } from "vuepress";
-import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
-import { openGraphPlugin } from 'vuepress-plugin-open-graph'
 import theme from "./theme.js";
 
 export default defineUserConfig({
@@ -16,16 +14,6 @@ export default defineUserConfig({
     ['meta', { name: 'naver-site-verification', content: '' }],
     ['meta', { name: 'p:domain_verify', content: 'd6e8397f9d89b87750a2ce95163d6b12' }],
     ['link', { rel: 'icon', href: '/assets/image/logo.png' }]
-  ],
-  plugins: [
-    googleAnalyticsPlugin({
-      id: 'G-D44QRKWK4W',
-      debug: true,
-    }),
-    openGraphPlugin({
-      host: "himastatut.my.id",
-      defaultImage: "/assets/image/logo.png",
-    }),
   ],
   theme,
   enhance({ app, router, siteData }) {},
