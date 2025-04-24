@@ -1,6 +1,6 @@
 import { defineUserConfig } from "vuepress";
 import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
-
+import { openGraphPlugin } from 'vuepress-plugin-open-graph'
 import theme from "./theme.js";
 
 export default defineUserConfig({
@@ -19,8 +19,12 @@ export default defineUserConfig({
   ],
   plugins: [
     googleAnalyticsPlugin({
-      id: 'G-Q2P8YZZW7J',
+      id: 'G-D44QRKWK4W',
       debug: true,
+    }),
+    openGraphPlugin({
+      host: "himastatut.my.id",
+      defaultImage: "/assets/image/logo.png",
     }),
   ],
   theme,

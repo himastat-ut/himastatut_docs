@@ -243,7 +243,8 @@ export default hopeTheme({
       components: [
         "Badge", 
         "VPCard",
-        "VidStack", 
+        "VidStack",
+        "ArtPlayer",
         "PDF",
         "Share", 
         "VPBanner",
