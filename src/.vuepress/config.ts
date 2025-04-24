@@ -1,4 +1,5 @@
 import { defineUserConfig } from "vuepress";
+import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
 
 import theme from "./theme.js";
 
@@ -15,6 +16,12 @@ export default defineUserConfig({
     ['meta', { name: 'naver-site-verification', content: '' }],
     ['meta', { name: 'p:domain_verify', content: 'd6e8397f9d89b87750a2ce95163d6b12' }],
     ['link', { rel: 'icon', href: '/assets/image/logo.png' }]
+  ],
+  plugins: [
+    googleAnalyticsPlugin({
+      id: 'G-Q2P8YZZW7J',
+      debug: true,
+    }),
   ],
   theme,
   enhance({ app, router, siteData }) {},
