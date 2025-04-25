@@ -22,6 +22,11 @@ actions:
     link: ./docs/
     type: primary
 
+  - text: Baca Artikel
+    icon: newspaper
+    link: ./article/
+    type: primary
+
   - text:  Website Statistika UT
     icon: up-right-from-square
     link: https://statistika-fst.ut.ac.id/

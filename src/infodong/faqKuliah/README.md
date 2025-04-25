@@ -37,8 +37,8 @@ Berikut adalah daftar topik utama yang akan dibahas dalam halaman **FAQ Kuliah**
 
 - **Istilah-istilah Perkuliahan**: Penjelasan mengenai berbagai istilah yang sering digunakan dalam perkuliahan di Universitas Terbuka, termasuk singkatan, terminologi akademik, serta konsep-konsep yang mungkin membingungkan bagi mahasiswa baru.
 
-
 ## Bagikan
+
 <Share colorful />
 <GitContributors />
 <GitChangelog />
