@@ -31,7 +31,7 @@ export default {
         {
             text: "FAQ Kuliah",
             icon: "fa-solid:question-circle",
-            link: "/infodong/beritaHimastat/",
+            link: "/infodong/faqKuliah/",
         },
     ]
   };

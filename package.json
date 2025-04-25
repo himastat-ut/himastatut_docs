@@ -21,19 +21,19 @@
     "@vuepress/plugin-shiki": "^2.0.0-rc.91",
     "@vuepress/plugin-sitemap": "^2.0.0-rc.85",
     "artplayer": "^5.2.3",
-    "chart.js": "^4.4.8",
+    "chart.js": "^4.4.9",
     "echarts": "^5.6.0",
     "flowchart.ts": "^3.0.1",
-    "katex": "^0.16.21",
-    "mermaid": "^11.5.0",
+    "katex": "^0.16.22",
+    "mermaid": "^11.6.0",
     "sass": "^1.87.0",
-    "sass-embedded": "^1.85.1",
+    "sass-embedded": "^1.87.0",
     "vidstack": "^1.12.13",
     "vue": "^3.5.13",
     "vuepress": "^2.0.0-rc.20",
-    "vuepress-theme-hope": "^2.0.0-rc.74"
+    "vuepress-theme-hope": "^2.0.0-rc.82"
   },
   "dependencies": {
-    "dotenv": "^16.4.7"
+    "dotenv": "^16.5.0"
   }
 }
