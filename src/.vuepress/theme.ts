@@ -19,7 +19,7 @@ export default hopeTheme({
     original: "Original",
   },
   contributors: true,
-  logo: "logo-tinywebp",
+  logo: "logo-tiny.webp",
   navbarAutoHide: "none",
   toc: true,
   license: " | MIT License",
@@ -299,11 +299,11 @@ export default hopeTheme({
       ServiceWorker: true,
       updatePopup: true,
       apple: {
-        icon: "logo-tinywebp",
+        icon: "logo-tiny.webp",
         statusBarColor: "black",
       },
       msTile: {
-        image: "logo-tinywebp",
+        image: "logo-tiny.webp",
         color: "#ffffff",
       },
     //   manifest: {
