@@ -1,5 +1,5 @@
 ---
-title: FAQ Kuliah - Tautan Penting dalam Perkuliahan UT
+title: Tautan Penting dalam Perkuliahan UT
 date: 2025-04-24
 author:
   - name: "Firmansyah Mukti Wijaya"
