@@ -35,7 +35,6 @@ actions:
 
 highlights:
   - header: Program Kerja
-    image: /assets/image/features.svg
     bgImage: assets/image/bg/bg1-light.jpg
     bgIbgmageDark: assets/image/bg/bg1-dark.jpg
     features:

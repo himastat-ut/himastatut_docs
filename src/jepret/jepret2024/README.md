@@ -21,9 +21,12 @@ tagline: Cerdas bersama Himpunan Mahasiswa Statistika.
 actions:
   - text: Pelajari Lebih Lanjut
     icon: lightbulb
-    link: /docs/
+    link: /jepret/
     type: primary
-
+  - text: Slide Proker .pptx
+    icon: fa-solid:file-powerpoint
+    link: /jepret/jepret2024/slide.md
+    type: primary
   - text: Website Statistika UT
     icon: up-right-from-square
     link: https://statistika-fst.ut.ac.id/
