@@ -19,7 +19,7 @@ export default hopeTheme({
     original: "Original",
   },
   contributors: true,
-  logo: "logo-small.png",
+  logo: "logo-tiny.png",
   navbarAutoHide: "none",
   toc: true,
   license: " | MIT License",
@@ -299,11 +299,11 @@ export default hopeTheme({
       ServiceWorker: true,
       updatePopup: true,
       apple: {
-        icon: "logo-small.png",
+        icon: "logo-tiny.png",
         statusBarColor: "black",
       },
       msTile: {
-        image: "logo-small.png",
+        image: "logo-tiny.png",
         color: "#ffffff",
       },
     //   manifest: {

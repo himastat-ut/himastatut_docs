@@ -13,7 +13,7 @@ export default defineUserConfig({
     ['meta', { name: 'yandex-verification', content: '1275725ccdfb310d' }],
     ['meta', { name: 'naver-site-verification', content: '' }],
     ['meta', { name: 'p:domain_verify', content: 'd6e8397f9d89b87750a2ce95163d6b12' }],
-    ['link', { rel: 'icon', href: '/assets/image/logo.png' }]
+    ['link', { rel: 'icon', href: '/assets/image/logo-tiny.png' }]
   ],
   theme,
   enhance({ app, router, siteData }) {},
