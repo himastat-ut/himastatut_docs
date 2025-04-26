@@ -11,7 +11,7 @@ author:
 category:
   - JEPRET
 title: Himpunan Mahasiswa Statistika 2024/2025
-heroImage: logo.png
+heroImage: logo-small.png
 bgImage: assets/image/bg/bg6-light.jpg
 bgIbgmageDark: assets/image/bg/bg6-dark.jpg
 bgImageStyle:
@@ -35,9 +35,8 @@ actions:
 highlights:
   - header: Exploring the World of Statistika with Himpunan Mahasiswa Statistika UT
     description: Bergabunglah dengan komunitas dinamis statistisi dan penggemar data di Himpunan Mahasiswa Statistika UT. Kami berkomitmen untuk meningkatkan pengetahuan, kolaborasi, dan pertumbuhan di bidang statistika.
-    image: /assets/image/hero-statistics.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
+    bgImage: /assets/image/bg/bg7-light.webp
+    bgImageDark: /assets/image/bg/bg7-light.webp
     bgImageStyle:
       background-repeat: repeat
       background-size: initial
@@ -99,9 +98,8 @@ highlights:
 
   - header: Struktur Kepengurusan Himpunan Mahasiswa Statistika 2024/2025
     description: Tim yang berkomitmen untuk mengembangkan Himpunan Mahasiswa Statistika dengan semangat kebersamaan dan inovasi.
-    image: /assets/image/team-structure.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/1-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
+    bgImage: /assets/image/bg/bg1-light.webp
+    bgImageDark: /assets/image/bg/bg1-light.webp
     features:
       - title: Ketua Himpunan
         icon: fa6-solid:user-tie

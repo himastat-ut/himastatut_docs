@@ -10,8 +10,8 @@ author:
     email: "himastatut@gmail.com"
     url: "https://himastatut.my.id/article/"
 heroImage: logo-small.png
-bgImage: assets/image/bg/bg6-light.jpg
-bgIbgmageDark: assets/image/bg/bg6-dark.jpg
+bgImage: assets/image/bg/bg6-light.webp
+bgIbgmageDark: assets/image/bg/bg6-dark.webp
 bgImageStyle:
   background-attachment: fixed
 heroText: Himastatut Docs
@@ -35,8 +35,8 @@ actions:
 
 highlights:
   - header: Program Kerja
-    bgImage: assets/image/bg/bg1-light.jpg
-    bgIbgmageDark: assets/image/bg/bg1-dark.jpg
+    bgImage: assets/image/bg/bg1-light.webp
+    bgIbgmageDark: assets/image/bg/bg1-dark.webp
     features:
       - title: HANGAT (Hubungan Aktif dan Komunikasi Terpadu)
         icon: comments
