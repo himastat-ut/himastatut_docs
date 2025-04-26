@@ -11,7 +11,7 @@ author:
 category:
   - JEPRET
 title: Himpunan Mahasiswa Statistika 2024/2025
-heroImage: assets/image/logo.png
+heroImage: logo.png
 bgImage: assets/image/bg/bg6-light.jpg
 bgIbgmageDark: assets/image/bg/bg6-dark.jpg
 bgImageStyle:

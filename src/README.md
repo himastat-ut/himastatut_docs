@@ -9,7 +9,7 @@ author:
   - name: "Himastatut Docs"
     email: "himastatut@gmail.com"
     url: "https://himastatut.my.id/article/"
-heroImage: assets/image/logo.png
+heroImage: logo-small.png
 bgImage: assets/image/bg/bg6-light.jpg
 bgIbgmageDark: assets/image/bg/bg6-dark.jpg
 bgImageStyle:
