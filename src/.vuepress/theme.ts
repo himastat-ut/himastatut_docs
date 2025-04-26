@@ -19,7 +19,7 @@ export default hopeTheme({
     original: "Original",
   },
   contributors: true,
-  logo: "logo-tiny.png",
+  logo: "logo-tinywebp",
   navbarAutoHide: "none",
   toc: true,
   license: " | MIT License",
@@ -299,34 +299,34 @@ export default hopeTheme({
       ServiceWorker: true,
       updatePopup: true,
       apple: {
-        icon: "logo-tiny.png",
+        icon: "logo-tinywebp",
         statusBarColor: "black",
       },
       msTile: {
-        image: "logo-tiny.png",
+        image: "logo-tinywebp",
         color: "#ffffff",
       },
     //   manifest: {
     //     icons: [
     //       {
-    //         src: "/assets/icon/chrome-mask-512.png",
+    //         src: "/assets/icon/chrome-mask-512webp",
     //         sizes: "512x512",
     //         purpose: "maskable",
     //         type: "image/png",
     //       },
     //       {
-    //         src: "/assets/icon/chrome-mask-192.png",
+    //         src: "/assets/icon/chrome-mask-192webp",
     //         sizes: "192x192",
     //         purpose: "maskable",
     //         type: "image/png",
     //       },
     //       {
-    //         src: "/assets/icon/chrome-512.png",
+    //         src: "/assets/icon/chrome-512webp",
     //         sizes: "512x512",
     //         type: "image/png",
     //       },
     //       {
-    //         src: "/assets/icon/chrome-192.png",
+    //         src: "/assets/icon/chrome-192webp",
     //         sizes: "192x192",
     //         type: "image/png",
     //       },iconicon
@@ -338,7 +338,7 @@ export default hopeTheme({
     //         url: "/demo/",
     //         icons: [
     //           {
-    //             src: "/assets/icon/guide-maskable.png",
+    //             src: "/assets/icon/guide-maskablewebp",
     //             sizes: "192x192",
     //             purpose: "maskable",
     //             type: "image/png",
