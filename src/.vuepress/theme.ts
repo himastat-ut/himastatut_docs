@@ -296,7 +296,7 @@ export default hopeTheme({
       cacheImage: true,
       appendBase: true,
       update: "available",
-      ServiceWorker: true,
+      serviceWorker: true,
       updatePopup: true,
       apple: {
         icon: "logo-tiny.webp",

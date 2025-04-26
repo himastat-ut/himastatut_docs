@@ -64,13 +64,15 @@ $media-query-config: (
   }
 }
 
-// Penyesuaian tampilan untuk vp-hero-info-wrapper agar memenuhi layar penuh
 .vp-hero-info-wrapper {
   height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
   position: relative;
+  
+  // Menggunakan 'will-change' untuk mengoptimalkan rendering
+  will-change: transform;
 
   .vp-hero-mask {
     position: absolute;
@@ -78,6 +80,14 @@ $media-query-config: (
     left: 0;
     right: 0;
     bottom: 0;
+    
+    // Jika vp-hero-mask adalah gambar latar belakang, pastikan gambar ini dioptimalkan
+    background-size: cover;
+    background-position: center center;
+
+    // Gunakan 'will-change' untuk memberi tahu browser tentang perubahan transformasi
+    will-change: background-image, opacity;
+    transition: opacity 0.3s ease;
   }
 
   .vp-hero-info {
@@ -98,6 +108,7 @@ $media-query-config: (
     }
   }
 }
+
 
 // Penyesuaian margin footnote-item agar offset header tepat
 .footnote-item {
