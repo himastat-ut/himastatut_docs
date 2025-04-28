@@ -27,7 +27,7 @@ Jangan lewatkan kesempatan untuk mengikuti **STATGEN 4.0** Sesi 1 yang akan memb
 - **Tanggal**: Selasa, 29 April 2025
 - **Waktu**: 19.15 WIB – 21.15 WIB
 - **Platform**: Zoom
-- **Link Zoom**: [s.id/sats4324_s1](s.id/sats4324_s1)
+- **Link Zoom**: [https://s.id/sats4324_s1](https://s.id/sats4324_s1)
 
 ## 📝 Pendaftaran
 - **Pendaftaran**: [Daftar sekarang](https://s.id/sats4324_s1)
