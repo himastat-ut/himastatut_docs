@@ -22,7 +22,7 @@ actions:
     link: ./docs/
     type: primary
 
-  - text: Baca Artikel
+  - text: Baca Artikel Kami
     icon: newspaper
     link: ./article/
     type: primary
