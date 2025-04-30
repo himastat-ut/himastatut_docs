@@ -75,11 +75,11 @@ Ikuti kami di Instagram [@himastat_ut](https://www.instagram.com/himastat_ut) un
 
 | No. | Gambar Ujian | Keterangan |
 | ---| -------------| -----------|
-| 1 | ![Gambar 1](skemaUjian2024/1.jpg =x300) | Gambar pertama berisi informasi mengenai skema dan sifat ujian tahun 2024. |
-| 2 | ![Gambar 2](skemaUjian2024/2.jpg =x300) | Gambar kedua berisi tabel mengenai skema dan sifat ujian berbagai mata kuliah. |
-| 3 | ![Gambar 3](skemaUjian2024/3.jpg =x300) | Gambar ketiga menunjukkan detail mata kuliah dan ujian yang dibuka serta jenis ujian. |
-| 4 | ![Gambar 4](skemaUjian2024/4.jpg =x300) | Gambar keempat melengkapi informasi mengenai ujian dan sifat ujian di berbagai program studi. |
-| 5 | ![Gambar 5](skemaUjian2024/5.jpg =x300) | Gambar kelima memperlihatkan tambahan informasi dan pengingat penting tentang ujian 2024. |
+| 1 | ![Gambar 1](./skema-ujian-2024/1.jpg =x300) | Gambar pertama berisi informasi mengenai skema dan sifat ujian tahun 2024. |
+| 2 | ![Gambar 2](./skema-ujian-2024/2.jpg =x300) | Gambar kedua berisi tabel mengenai skema dan sifat ujian berbagai mata kuliah. |
+| 3 | ![Gambar 3](./skema-ujian-2024/3.jpg =x300) | Gambar ketiga menunjukkan detail mata kuliah dan ujian yang dibuka serta jenis ujian. |
+| 4 | ![Gambar 4](./skema-ujian-2024/4.jpg =x300) | Gambar keempat melengkapi informasi mengenai ujian dan sifat ujian di berbagai program studi. |
+| 5 | ![Gambar 5](./skema-ujian-2024/5.jpg =x300) | Gambar kelima memperlihatkan tambahan informasi dan pengingat penting tentang ujian 2024. |
 
 ---
 
