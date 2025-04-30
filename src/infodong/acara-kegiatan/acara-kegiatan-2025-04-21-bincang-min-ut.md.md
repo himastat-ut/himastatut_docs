@@ -35,7 +35,7 @@ Pertanyaan yang menarik akan dijawab langsung dalam sesi IG Live. Ayo, jangan ra
 Tema kali ini mengangkat peran penting perempuan dalam sejarah dan perkembangan Universitas Terbuka. Melalui bincang-bincang ini, kita akan mengenal lebih dekat tokoh-tokoh perempuan yang telah memberikan warna dan kontribusi signifikan bagi institusi kita tercinta.
 
 ## 📸 Gambar Acara
-![Poster Acara Bincang bersama MinUT Episode 78](./20250425BincangMinUT78/poster_acara_bincang78.jpg)
+![Poster Acara Bincang bersama MinUT Episode 78](./2025-04-25-bincang-min-ut78/poster_acara_bincang78.jpg)
 
 ## 🔗 Tautan Terkait
 Untuk informasi lebih lanjut dan update terkini, kunjungi:

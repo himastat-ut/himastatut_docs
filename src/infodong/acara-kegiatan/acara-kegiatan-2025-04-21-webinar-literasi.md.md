@@ -48,7 +48,7 @@ Acara ini cocok untuk Anda yang ingin mengetahui lebih dalam tentang **e-journal
 
 ### Gambar Acara
 
-![Webinar Poster](./20250421WebinarLiterasi/poster_webinar.jpg)
+![Webinar Poster](./2025-04-21-webinar-literasi/poster_webinar.jpg)
 
 ---
 

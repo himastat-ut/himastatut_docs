@@ -42,7 +42,7 @@ Tema kali ini membahas pentingnya pemahaman terhadap data kategori dalam proses 
 - **Networking**: Kesempatan untuk berinteraksi dengan para profesional dan akademisi di bidang statistik.
 
 ## 📸 Gambar Acara
-![Poster GB TALKS Season 5 Episode 18](./20250424GBTALKS18/poster_gb_talks_18.jpg)
+![Poster GB TALKS Season 5 Episode 18](./2025-04-24-gbtaks18/poster_gb_talks_18.jpg)
 
 ## 🔗 Tautan Terkait
 Untuk informasi lebih lanjut dan pembaruan terkini, kunjungi:
