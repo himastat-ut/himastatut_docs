@@ -69,10 +69,10 @@ Selamat kepada **Mahasiswa Statistika Universitas Terbuka** yang telah meraih pr
 
 ## Galeri & Dokumentasi
 
-![Banner Mahasiswa Berprestasi](gemas01Penghargaan122024/event-photo.jpg =400x)
+![Banner Mahasiswa Berprestasi](./gemas01-penghargaan-122024/event-photo.jpg =400x)
 
-| ![Mahasiswa Berprestasi 1](gemas01Penghargaan122024/1.jpg =200x) | ![Mahasiswa Berprestasi 2](gemas01Penghargaan122024/2.jpg =200x) |
-| ![Mahasiswa Berprestasi 4](gemas01Penghargaan122024/4.jpg =200x)  | ![Mahasiswa Berprestasi 3](gemas01Penghargaan122024/3.jpg =200x) |
+| ![Mahasiswa Berprestasi 1](./gemas01-penghargaan-122024/1.jpg =200x) | ![Mahasiswa Berprestasi 2](./gemas01-penghargaan-122024/2.jpg =200x) |
+| ![Mahasiswa Berprestasi 4](./gemas01-penghargaan-122024/4.jpg =200x)  | ![Mahasiswa Berprestasi 3](./gemas01-penghargaan-122024/3.jpg =200x) |
 --- 
 
 ### Kesimpulan
