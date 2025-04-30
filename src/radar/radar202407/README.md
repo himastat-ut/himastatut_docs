@@ -44,8 +44,8 @@ RADAR (Rapat Asyik Diskusi dan Analisis Review) adalah program bulanan yang dise
 
 Untuk mengetahui agenda dan hasil rapat bulan Juli 2024, berikut adalah detail lebih lanjut:
 
-- **Agenda**: Lihat halaman [Agenda Rapat](./radar202407_agenda.md) untuk mengetahui poin-poin yang akan dibahas pada rapat bulan ini.
-- **Hasil**: Lihat halaman [Hasil Rapat](./radar202407_hasil.md) untuk mengetahui kesimpulan dan langkah-langkah yang disepakati dalam rapat.
+- **Agenda**: Lihat halaman [Agenda Rapat](./radar-2024-07-agenda.md) untuk mengetahui poin-poin yang akan dibahas pada rapat bulan ini.
+- **Hasil**: Lihat halaman [Hasil Rapat](./radar-2024-07-hasil.md) untuk mengetahui kesimpulan dan langkah-langkah yang disepakati dalam rapat.
 
 --- 
 

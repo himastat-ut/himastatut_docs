@@ -44,7 +44,7 @@ Pada sesi perdana **Bincang Mahasiswa (BIMA) Statistika**, topik yang dibahas ad
    
    ![Data Science](datascience.png)
 
-   ![Data Science 2](datascience_2.png)
+   ![Data Science 2](data-science-2.png)
 
 #### 3. **Masa Depan Statistika: Berkarir di Dunia Profesional**
    - **Al Afra Rasya Syakura** berbagi pengalamannya mengenai berbagai jalur karir yang dapat diambil oleh mahasiswa statistika. Ia juga memberikan panduan praktis mengenai bagaimana mempersiapkan diri untuk memasuki dunia profesional, termasuk keterampilan tambahan yang diperlukan di luar statistik dasar.
@@ -61,7 +61,7 @@ Pada sesi tanya jawab, para peserta menunjukkan antusiasme yang tinggi dengan me
 
 Para narasumber menjawab dengan jelas dan memberikan solusi praktis. Mereka juga berbagi berbagai sumber daya dan kursus yang dapat diikuti untuk meningkatkan keterampilan lebih lanjut.
 
-![Sesi Tanya Jawab](screenshot_meet.png)
+![Sesi Tanya Jawab](screenshot-meet.png)
 
 --- 
 

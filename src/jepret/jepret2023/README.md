@@ -76,40 +76,40 @@ highlights:
       - title: Ketua Himpunan
         icon: fa6-solid:user-tie
         details: Khusnul Maulud Awalludin - Sebagai Ketua Himpunan Mahasiswa Statistika, Khusnul memimpin dengan visi yang kuat untuk membangun komunitas yang solid dan berdaya saing tinggi dalam bidang statistika.
-        link: "portofolio/MHS044567536.md"
+        link: "portofolio/mhs-044567536.md"
 
       - title: Wakil Ketua Himpunan
         icon: fa6-solid:user-tie
         details: Erlan Ahmad Fauzi - Wakil Ketua yang bertanggung jawab untuk mendukung kepemimpinan ketua dalam menjalankan program kerja serta memastikan kelancaran organisasi.
-        link: "portofolio/MHS044534133.md"
+        link: "portofolio/mhs-044534133.md"
       
       - title: Sekretaris
         icon: fa6-solid:file
         details: Anju Anjannah - Menjaga kelancaran administrasi dan komunikasi internal organisasi, serta memastikan setiap agenda dan rapat terlaksana dengan baik.
-        link: "portofolio/MHS044924625.md"
+        link: "portofolio/mhs-044924625.md"
 
       - title: Divisi IT 1
         icon: fa6-solid:desktop
         details: Martha Erlita Sabadtini - Mengelola pengembangan sistem dan teknologi informasi dalam organisasi, memastikan infrastruktur IT berjalan lancar dan mendukung aktivitas operasional.
-        link: "portofolio/MHS044648707.md"
+        link: "portofolio/mhs-044648707.md"
 
       - title: Divisi IT 2
         icon: fa6-solid:desktop
         details: Fildzah Najwa Maulidina - Mengelola pengembangan sistem dan teknologi informasi dalam organisasi, memastikan infrastruktur IT berjalan lancar dan mendukung aktivitas operasional.
-        link: "portofolio/MHS044981618.md"
+        link: "portofolio/mhs-044981618.md"
 
       - title: Divisi Hubungan Masyarakat
         icon: fa6-solid:bullhorn
         details: Alfi Fadel Agustian Helmi - Mengelola komunikasi eksternal dan internal organisasi, menghubungi berbagai pihak terkait dengan kegiatan HIMASTAT, serta mendukung keberhasilan program-program yang dilaksanakan.
-        link: "portofolio/MHS045255283.md"
+        link: "portofolio/mhs-045255283.md"
 
       - title: Kepala Divisi Akademik
         icon: fa6-solid:chalkboard-user
         details: Jihad Padilah - Bertanggung jawab dalam mengelola program-program yang berkaitan dengan akademik, termasuk pendataan mahasiswa berprestasi dan pengelolaan kegiatan akademik lainnya.
-        link: "portofolio/MHS045357039.md"
+        link: "portofolio/mhs-045357039.md"
 
       - title: Kepala Divisi Sumber Daya Manusia
         icon: fa6-solid:users
         details: Rahmat Hidayat - Bertanggung jawab dalam mengelola proses perekrutan, membentuk tim untuk mendukung berbagai program HIMA, serta menjaga hubungan yang baik antar anggota himpunan.
-        link: "portofolio/MHS048409024.md"
+        link: "portofolio/mhs-048409024.md"
 --- 

@@ -11,27 +11,27 @@ export default {
         {
             text: "Berita Akademik",
             icon: "book",
-            link: "/infodong/beritaAkademik/",
+            link: "/infodong/berita-akademik/",
         },
         {
             text: "Acara & Kegiatan",
             icon: "calendar",
-            link: "/infodong/acaraKegiatan/",
+            link: "/infodong/acara-kegiatan/",
         },
         {
             text: "Informasi Alumni",
             icon: "user-tie",
-            link: "/infodong/informasiAlumni/",
+            link: "/infodong/informasi-alumni/",
         },
         {
             text: "Berita Himastat",
             icon: "book",
-            link: "/infodong/beritaHimastat/",
+            link: "/infodong/berita-himastat/",
         },
         {
             text: "FAQ Kuliah",
             icon: "fa-solid:question-circle",
-            link: "/infodong/faqKuliah/",
+            link: "/infodong/faq-kuliah/",
         },
     ]
   };

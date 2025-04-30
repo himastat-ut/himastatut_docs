@@ -104,25 +104,25 @@ highlights:
       - title: Ketua Himpunan
         icon: fa6-solid:user-tie
         details: Susi Indah Situmorang - Sebagai Ketua Himpunan Mahasiswa Statistika, Susi memimpin dengan visi yang kuat untuk membangun komunitas yang solid dan berdaya saing tinggi dalam bidang statistika.
-        link: "portofolio/MHS043164149.md"
+        link: "portofolio/mhs-043164149.md"
 
       - title: Wakil Ketua Himpunan
         icon: fa6-solid:user-tie
         details: Zakiyyah - Wakil Ketua yang bertanggung jawab untuk mendukung kepemimpinan ketua dalam menjalankan program kerja serta memastikan kelancaran organisasi.
-        link: "portofolio/MHS044845085.md"
+        link: "portofolio/mhs-044845085.md"
       
       - title: Sekretaris
         icon: fa6-solid:file
         details: Elis Lumban Gaol - Menjaga kelancaran administrasi dan komunikasi internal organisasi, serta memastikan setiap agenda dan rapat terlaksana dengan baik.
-        link: "portofolio/MHS044875482.md"
+        link: "portofolio/mhs-044875482.md"
 
       - title: Divisi IT
         icon: fa6-solid:desktop
         details: Firmansyah Mukti Wijaya - Mengelola pengembangan sistem dan teknologi informasi dalam organisasi, memastikan infrastruktur IT berjalan lancar dan mendukung aktivitas operasional.
-        link: "portofolio/MHS050900568.md"
+        link: "portofolio/mhs-050900568.md"
 
       - title: Divisi IT
         icon: fa6-solid:desktop
         details: Nazma Fahira - Bertanggung jawab dalam pengelolaan platform digital dan teknologi yang mendukung kegiatan himpunan, serta melakukan riset dan inovasi dalam bidang teknologi statistika.
-        link: "portofolio/MHS053284089.md"
+        link: "portofolio/mhs-053284089.md"
 --- 

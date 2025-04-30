@@ -45,19 +45,19 @@ _Transformasi dan Kepemimpinan Statistika_
 <small>
 
 #### **Ketua**  
-**Susi Indah Situmorang** - [Jepret](./portofolio/MHS043164149)
+**Susi Indah Situmorang** - [Jepret](./portofolio/mhs-043164149)
 
 #### **Wakil Ketua**  
-**Zakiyyah** - [Jepret](./portofolio/MHS044845085)
+**Zakiyyah** - [Jepret](./portofolio/mhs-044845085)
 
 #### **Sekretaris**  
-**Elis Lumban Gaol** - [Jepret](./portofolio/MHS044875482)
+**Elis Lumban Gaol** - [Jepret](./portofolio/mhs-044875482)
 
 #### **Divisi IT 1**  
-**Firmansyah Mukti Wijaya** - [Jepret](./portofolio/MHS050900568)
+**Firmansyah Mukti Wijaya** - [Jepret](./portofolio/mhs-050900568)
 
 #### **Divisi IT 2**  
-**Nazma Fahira** - [Jepret](./portofolio/MHS053284089)
+**Nazma Fahira** - [Jepret](./portofolio/mhs-053284089)
 
 </small>
 

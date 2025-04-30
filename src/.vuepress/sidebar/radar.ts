@@ -13,12 +13,12 @@ export default [
         },
         {
           text: "Agenda Juli 2024",
-          link: "/radar/radar202407/radar202407_agenda.md",
+          link: "/radar/radar202407/radar-2024-07-agenda.md",
           icon: "1",
         },
         {
           text: "Hasil Juli 2024",
-          link: "/radar/radar202407/radar202407_hasil.md",
+          link: "/radar/radar202407/radar-2024-07-hasil.md",
           icon: "2",
         },
       ],
@@ -36,12 +36,12 @@ export default [
         },
         {
           text: "Agenda Agustus 2024",
-          link: "/radar/radar202407/radar202407_agenda.md",
+          link: "/radar/radar202407/radar-2024-07-agenda.md",
           icon: "1",
         },
         {
           text: "Hasil Agustus 2024",
-          link: "/radar/radar202407/radar202407_hasil.md",
+          link: "/radar/radar202407/radar-2024-07-hasil.md",
           icon: "2",
         },
       ],
@@ -59,12 +59,12 @@ export default [
         },
         {
           text: "Agenda September 2024",
-          link: "/radar/radar202407/radar202407_agenda.md",
+          link: "/radar/radar202407/radar-2024-07-agenda.md",
           icon: "1",
         },
         {
           text: "Hasil September 2024",
-          link: "/radar/radar202407/radar202407_hasil.md",
+          link: "/radar/radar202407/radar-2024-07-hasil.md",
           icon: "2",
         },
       ],
@@ -82,12 +82,12 @@ export default [
         },
         {
           text: "Agenda Oktober 2024",
-          link: "/radar/radar202407/radar202407_agenda.md",
+          link: "/radar/radar202407/radar-2024-07-agenda.md",
           icon: "1",
         },
         {
           text: "Hasil Oktober 2024",
-          link: "/radar/radar202407/radar202407_hasil.md",
+          link: "/radar/radar202407/radar-2024-07-hasil.md",
           icon: "2",
         },
       ],
@@ -105,12 +105,12 @@ export default [
         },
         {
           text: "Agenda November 2024",
-          link: "/radar/radar202407/radar202407_agenda.md",
+          link: "/radar/radar202407/radar-2024-07-agenda.md",
           icon: "1",
         },
         {
           text: "Hasil November 2024",
-          link: "/radar/radar202407/radar202407_hasil.md",
+          link: "/radar/radar202407/radar-2024-07-hasil.md",
           icon: "2",
         },
       ],
@@ -128,12 +128,12 @@ export default [
         },
         {
           text: "Agenda Desember 2024",
-          link: "/radar/radar202407/radar202407_agenda.md",
+          link: "/radar/radar202407/radar-2024-07-agenda.md",
           icon: "1",
         },
         {
           text: "Hasil Desember 2024",
-          link: "/radar/radar202407/radar202407_hasil.md",
+          link: "/radar/radar202407/radar-2024-07-hasil.md",
           icon: "2",
         },
       ],

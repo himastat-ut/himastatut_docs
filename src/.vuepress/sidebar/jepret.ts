@@ -18,27 +18,27 @@ export default [
             {
               text: "Susi Indah Situmorang",
               icon: "fa6-solid:user-tie",
-              link: "jepret2024/portofolio/MHS043164149.md"
+              link: "jepret2024/portofolio/mhs-043164149.md"
             },
             {
               text: "Zakiyyah",
               icon: "fa6-solid:user-tie",
-              link: "jepret2024/portofolio/MHS044845085.md"
+              link: "jepret2024/portofolio/mhs-044845085.md"
             },
             {
               text: "Elis Lumban Gaol",
               icon: "fa6-solid:file",
-              link: "jepret2024/portofolio/MHS044875482.md"
+              link: "jepret2024/portofolio/mhs-044875482.md"
             },
             {
               text: "Firmansyah Mukti Wijaya",
               icon: "fa6-solid:desktop",
-              link: "jepret2024/portofolio/MHS050900568.md"
+              link: "jepret2024/portofolio/mhs-050900568.md"
             },
             {
               text: "Nazma Fahira",
               icon: "fa6-solid:desktop",
-              link: "jepret2024/portofolio/MHS053284089.md"
+              link: "jepret2024/portofolio/mhs-053284089.md"
             }
           ]
         },
@@ -56,42 +56,42 @@ export default [
             {
               text: "Khusnul Maulud Awalludin",
               icon: "fa6-solid:user-tie",
-              link: "jepret2023/portofolio/MHS044567536.md"
+              link: "jepret2023/portofolio/mhs-044567536.md"
             },
             {
               text: "Erlan Ahmad Fauzi",
               icon: "fa6-solid:user-tie",
-              link: "jepret2023/portofolio/MHS044534133.md"
+              link: "jepret2023/portofolio/mhs-044534133.md"
             },
             {
               text: "Anju Anjannah",
               icon: "fa6-solid:file",
-              link: "jepret2023/portofolio/MHS044924625.md"
+              link: "jepret2023/portofolio/mhs-044924625.md"
             },
             {
               text: "Rahmat Hidayat",
               icon: "fa6-solid:desktop",
-              link: "jepret2023/portofolio/MHS048409024.md"
+              link: "jepret2023/portofolio/mhs-048409024.md"
             },
             {
               text: "Alfi Fadel Agustian Helmi",
               icon: "fa6-solid:desktop",
-              link: "jepret2023/portofolio/MHS045255283.md"
+              link: "jepret2023/portofolio/mhs-045255283.md"
             },
             {
               text: "Jihad Padilah",
               icon: "fa6-solid:user",
-              link: "jepret2023/portofolio/MHS045357039.md"
+              link: "jepret2023/portofolio/mhs-045357039.md"
             },
             {
               text: "Martha Erlita Sabadtini",
               icon: "fa6-solid:user",
-              link: "jepret2023/portofolio/MHS044648707.md"
+              link: "jepret2023/portofolio/mhs-044648707.md"
             },
             {
               text: "Fildzah Nazwa Maulidina",
               icon: "fa6-solid:user",
-              link: "jepret2023/portofolio/MHS044981618.md"
+              link: "jepret2023/portofolio/mhs-044981618.md"
             },
           ]
         },

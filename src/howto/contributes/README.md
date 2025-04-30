@@ -38,7 +38,7 @@ Untuk memulai kontribusi Anda, berikut adalah beberapa langkah yang perlu diikut
    - **Git & GitHub**: Semua kontribusi dilakukan melalui GitHub dengan membuat PR (Pull Request) dan menggunakan fitur branch untuk pengembangan[^8].
 
 2. **Siapkan Draft Anda**
-   - Anda bisa mulai dengan memberikan draft isi informasi ke [link kontribusi](cara_kirim_kontribusi.md) yang sudah disediakan.
+   - Anda bisa mulai dengan memberikan draft isi informasi ke [link kontribusi](cara-kirim-kontribusi.md) yang sudah disediakan.
    - Gunakan format yang telah ditentukan di [formulir kontribusi](#).
 
 3. **Proses Pengajuan**
