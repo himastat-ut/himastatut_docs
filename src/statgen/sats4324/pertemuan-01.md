@@ -70,7 +70,7 @@ Pada pertemuan pertama ini, materi yang dibahas adalah **Pengantar Inferensi Bay
 ## **Berita**
 Pada tanggal 29 April 2025, acara **StatGen 4.0 - Inferensi Bayesian Sesi 1** diadakan dengan sukses. Materi yang dibahas adalah pengantar tentang Inferensi Bayesian yang memaparkan dasar-dasar Teorema Bayes dan aplikasinya. Kegiatan ini dihadiri oleh mahasiswa dari berbagai UPBJJ, dengan pembicara Andi Rosilala dan moderator Susi Indah Situmorang.
 
-Untuk informasi lebih lanjut, Anda bisa membaca laporan lengkap acara [di sini](src\infodong\acara-kegiatan\acara-kegiatan-2025-04-29-statgen-inferensi-bayesian-sesi-1.md).
+Untuk informasi lebih lanjut, Anda bisa membaca laporan lengkap acara [di sini](./../../infodong/acara-kegiatan/acara-kegiatan-2025-04-29-statgen-inferensi-bayesian-sesi-1.md).
 
 ![STATGEN 4.0 Inferensi Bayesian](../../infodong/acara-kegiatan/2025-04-29-sats4324/poster-inferensi-bayesian.png =400x)
 
