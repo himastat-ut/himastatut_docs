@@ -67,7 +67,7 @@ Lomba Karya Tulis JEF yang diselenggarakan oleh Bank Indonesia mengajak mahasisw
 **Penjelasan**:  
 Kompetisi ini menawarkan platform bagi mahasiswa untuk menunjukkan keahlian mereka dalam menulis esai ilmiah yang berkaitan dengan topik-topik sosial dan teknologi. Lomba ini bertujuan untuk mengasah kemampuan berpikir kritis dan kemampuan menulis mahasiswa dalam konteks yang lebih akademik.
 
-![KPM Competition](./link-maret-2025/kpm-competition.png =200x)
+![KPM Competition](./link-maret-2025/kmp-competition.png =200x)
 
 ### 5. **Lomba Poster dan Motion Graphic**
 - **Penyelenggara**: Kementerian Komunikasi dan Digital
