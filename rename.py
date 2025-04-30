@@ -13,6 +13,13 @@ def clear_screen():
 # Daftar path folder yang akan diproses
 root_dir = 'src'  # Anda bisa mengubah ini dengan folder root yang ingin diproses
 
+# Fungsi untuk mengganti nama folder dengan huruf kecil dan tanda hubung
+def format_folder_name(dirname):
+    # Gantilah spasi atau underscore dengan tanda hubung
+    # dan ubah menjadi huruf kecil
+    new_name = dirname.replace('_', '-').lower()
+    return new_name
+
 def rename_files_and_folders(root_dir):
     # Menelusuri seluruh folder dan subfolder
     for dirpath, dirnames, filenames in os.walk(root_dir, topdown=False):
@@ -22,11 +29,13 @@ def rename_files_and_folders(root_dir):
         
         # Mengecek folder terlebih dahulu, termasuk semua subfolder
         for dirname in dirnames:
-            # Mengecek jika ada huruf kapital atau karakter _
-            if any(c.isupper() for c in dirname) or "_" in dirname:
+            # Pastikan folder berada di dalam src\statgen\...
+            if 'statgen' in dirpath.lower():  # Menyesuaikan pengecekan agar tidak terlewat
                 old_path = os.path.join(dirpath, dirname)
-                new_name = input(f"Nama folder ditemukan: {old_path}\nMasukkan nama baru untuk folder: ")
-                if new_name:  # Jika ada nama baru yang diberikan
+                new_name = format_folder_name(dirname)
+                
+                # Jika nama baru berbeda, ganti nama folder
+                if new_name != dirname:
                     new_path = os.path.join(dirpath, new_name)
                     os.rename(old_path, new_path)
                     clear_screen()  # Membersihkan layar setelah perubahan
@@ -54,7 +63,7 @@ def rename_files_and_folders(root_dir):
                 clear_screen()  # Membersihkan layar setelah perubahan
                 print(f"File berhasil diganti menjadi: {new_path}\n")
 
-            # Mengecek jika ada huruf kapital atau karakter _
+            # Mengecek jika ada huruf kapital atau karakter _ pada file
             elif any(c.isupper() for c in filename) or "_" in filename:
                 old_path = os.path.join(dirpath, filename)
                 ext = os.path.splitext(filename)[1]  # Mendapatkan ekstensi file
