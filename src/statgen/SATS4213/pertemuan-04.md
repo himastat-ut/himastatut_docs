@@ -62,7 +62,7 @@ Jangan lupa untuk melihat poster acara **StatGen Class Vol. 2.0** di Instagram d
 
 [**Instagram Post - StatGen Class Vol. 2.0**](https://www.instagram.com/p/C7U_YhtyBmw/?img_index=1)
 
-![StatGen Class 2.0 Poster](pertemuan_4_image.png)
+![StatGen Class 2.0 Poster](pertemuan-4-image.png)
 
 Ayo, gabung dan bawa pertanyaan seputar mata kuliah **SATS4213** ke kelas, kita belajar bareng! 💡
 

@@ -91,7 +91,7 @@ Acara **Inspiring Achievements** ini memberikan wawasan yang sangat berharga bag
 
 --- 
 
-![Infografis GEMAS](gemas02InspiringAchievements2025/gemas_02_gemas_inspiring_achievements.jpg)
+![Infografis GEMAS](./gemas02-inspiring-achievements-2025/gemas-02-gemas-inspiring-achievements.jpg)
 
 --- 
 

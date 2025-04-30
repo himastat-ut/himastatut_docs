@@ -47,7 +47,7 @@ Berikut adalah beberapa kegiatan yang dapat diikuti mahasiswa pada bulan **Febru
 **Penjelasan**:  
 **Young Scientist Essay Competition 2025** mengajak mahasiswa untuk menulis esai ilmiah dengan topik-topik terkini. Kompetisi ini bertujuan untuk mengasah kemampuan menulis serta berpikir kritis mahasiswa dalam ilmu pengetahuan, dengan kesempatan untuk mendapatkan hadiah menarik dan publikasi karya.
 
-![Young Scientist Essay Competition](./link-februari-2025/young_scientist.png =200x)
+![Young Scientist Essay Competition](./link-februari-2025/young-scientist.png =200x)
 
 ### 3. **Semar Infographic Competition 2025**
 - **Penyelenggara**: Festival Ilmiah Mahasiswa (FILM) 2025
@@ -57,7 +57,7 @@ Berikut adalah beberapa kegiatan yang dapat diikuti mahasiswa pada bulan **Febru
 **Penjelasan**:  
 **Semar Infographic Competition 2025** adalah lomba infografis yang mengangkat tema "Sinergi Inovatif Generasi Muda di Era Society 5.0 untuk Mewujudkan Sustainable Development Goals (SDGs) Menuju Indonesia Emas 2045". Hadiah total senilai Rp5.000.000 menanti pemenang dari lomba ini.
 
-![Semar Infographic Competition](./link-februari-2025/semar_infographic.png =200x)
+![Semar Infographic Competition](./link-februari-2025/semar-infographic.png =200x)
 
 ### 4. **ISTEC 2025 (International Science Technology and Engineering Competition)**
 - **Penyelenggara**: BCS (Bali Creative Science)
@@ -80,7 +80,7 @@ Berikut adalah beberapa kegiatan yang dapat diikuti mahasiswa pada bulan **Febru
 **Penjelasan**:  
 **Kompetisi Debat Nasional 2025** bertujuan untuk mengasah kemampuan berpikir kritis dan kemampuan berdebat mahasiswa. Dengan dua gelombang pendaftaran, peserta memiliki fleksibilitas lebih dalam mengikuti kompetisi ini.
 
-![Kompetisi Debat Nasional](./link-februari-2025/debat_nasional.png =200x)
+![Kompetisi Debat Nasional](./link-februari-2025/debat-nasional.png =200x)
 
 --- 
 

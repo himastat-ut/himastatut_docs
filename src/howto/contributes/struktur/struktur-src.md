@@ -42,8 +42,8 @@ src
 │   ├── ... → Semester lainnya 
 │ 
 ├── gemas → Program penghargaan dan apresiasi HIMASTAT 
-│   ├── gemas_01_penghargaan_himastat_12_2024.md → Penghargaan HIMASTAT 2024 
-│   ├── gemas_02_inspiring_achievements_2025.md → Pencapaian inspiratif 2025 
+│   ├── gemas-01-penghargaan-himastat-12-2024.md → Penghargaan HIMASTAT 2024 
+│   ├── gemas-02-inspiring-achievements-2025.md → Pencapaian inspiratif 2025 
 │   └── ... → Dokumentasi penghargaan lainnya 
 │ 
 ├── hangat → Program komunikasi mahasiswa Statistika 

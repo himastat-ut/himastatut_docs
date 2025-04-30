@@ -63,7 +63,7 @@ Jangan lupa untuk melihat poster acara **StatGen Class Vol. 2.0** di Instagram d
 
 [**Instagram Post - StatGen Class Vol. 2.0**](https://www.instagram.com/p/C6jPjM5yCLv/?img_index=1)
 
-![StatGen Class 2.0 Poster](pertemuan_1_image.png)
+![StatGen Class 2.0 Poster](pertemuan-1-image.png)
 
 Ayo, gabung dan bawa pertanyaan seputar mata kuliah **SATS4423** ke kelas, kita belajar bareng! 💡
 

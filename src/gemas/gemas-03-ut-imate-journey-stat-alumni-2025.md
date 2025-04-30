@@ -89,7 +89,7 @@ Acara **UT-IMATE JOURNEY** ini memberikan banyak pelajaran berharga bagi mahasis
 
 --- 
 
-![Infografis GEMAS](gemas03UtImateJourney/gemas_03_utama_event.jpg)
+![Infografis GEMAS](./gemas03-ut-imate-journey/gemas-04-utama-event.jpg)
 
 --- 
 

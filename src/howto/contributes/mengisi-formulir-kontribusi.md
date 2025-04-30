@@ -40,7 +40,7 @@ Halaman ini menjelaskan cara mengisi formulir kontribusi yang digunakan untuk be
 Berikut adalah contoh formulir kontribusi dalam format Word yang perlu diisi:
 
 **Preview Formulir Kontribusi:**
-<PDF url="download/formulir_kontribusi_himastatutdocs.pdf" />
+<PDF url="download/formulir-kontribusi-himastatutdocs.pdf" />
 
 **Link Download:**
 <VPCard
