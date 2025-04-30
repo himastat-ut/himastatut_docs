@@ -48,7 +48,7 @@ Jangan lewatkan kesempatan untuk mengikuti **STATGEN 4.0** Sesi 1 yang akan memb
 Webinar ini memberikan kesempatan untuk mempelajari **Inferensi Bayesian**, salah satu teknik penting dalam statistik yang digunakan untuk membuat keputusan berdasarkan data yang tidak pasti. Jangan lewatkan kesempatan untuk memperdalam pemahaman kamu di bidang ini!
 
 ## 📸 Gambar Acara
-![STATGEN 4.0 Inferensi Bayesian](./2025-04-29-sats4324/poster_inferensi_bayesian.png)
+![STATGEN 4.0 Inferensi Bayesian](./2025-04-29-sats4324/poster-inferensi-bayesian.png)
 
 ## 🔗 Tautan Terkait
 Untuk informasi lebih lanjut dan pembaruan terkini, kunjungi:
