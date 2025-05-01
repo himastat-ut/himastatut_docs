@@ -14,6 +14,11 @@ export default {
             link: "/infodong/berita-akademik/",
         },
         {
+            text: "Berita Universitas Terbuka",
+            icon: "school-circle-check",
+            link: "/infodong/berita-universitas-terbuka/",
+        },
+        {
             text: "Acara & Kegiatan",
             icon: "calendar",
             link: "/infodong/acara-kegiatan/",

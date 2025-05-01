@@ -1,6 +1,7 @@
 ---
 title: Informasi Tutorial Berbasis Web (TUWEB) Statistika UT 2025/2024.2
 index: true
+date: 2025-04-10
 icon: newspaper
 category:
   - Berita Akademik

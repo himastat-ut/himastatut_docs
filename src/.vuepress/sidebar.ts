@@ -13,6 +13,7 @@ import infodongAcaraKegiatanSidebar from "./sidebar/infodong/acaraKegiatan.ts";
 import infodongBeritaAkademikSidebar from "./sidebar/infodong/beritaAkademik.ts";
 import infodongBeritaHimastatSidebar from "./sidebar/infodong/beritaHimastat.ts";
 import infodongFaqKuliahSidebar from "./sidebar/infodong/faqKuliah.ts";
+import infodongBeritaUTSidebar from "./sidebar/infodong/beritaUniversitasTerbuka.ts";
 import infodongInformasiAlumniSidebar from "./sidebar/infodong/informasiAlumni.ts";
 import howtoTipsSidebar from "./sidebar/howto/tips.ts";
 import howtoTutorialsSidebar from "./sidebar/howto/tutorials.ts";
@@ -34,6 +35,7 @@ export default sidebar({
   "/infodong/informasi-alumni/": infodongInformasiAlumniSidebar,
   "/infodong/berita-himastat/": infodongBeritaHimastatSidebar,
   "/infodong/faq-kuliah/": infodongFaqKuliahSidebar,
+  "/infodong/berita-universitas-terbuka/": infodongBeritaUTSidebar,
   "/howto/tips/": howtoTipsSidebar,
   "/howto/tutorials/": howtoTutorialsSidebar,
   "/howto/methods/": howtoMethodsSidebar,

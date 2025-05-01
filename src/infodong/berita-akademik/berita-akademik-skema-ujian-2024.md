@@ -1,6 +1,7 @@
 ---
 title: Skema dan Sifat Ujian Statistika UT 2024
 index: true
+date: 2025-04-20
 icon: book
 category:
   - Berita Akademik

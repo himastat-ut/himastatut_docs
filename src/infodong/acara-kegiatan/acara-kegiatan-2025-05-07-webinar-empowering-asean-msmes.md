@@ -70,7 +70,6 @@ Kami menantikan kehadiran Anda di acara ini! 🌿
 
 ---
 
-## Referensi
 [^1]: "Empowering ASEAN MSMEs for Sustainability," Universitas Terbuka, [Online]. Tersedia: [https://sl.ut.ac.id/FHISIP_IntWebinarSeries](https://sl.ut.ac.id/FHISIP_IntWebinarSeries). [Diakses: Apr. 28, 2025].
 [^2]:  "Webinar Internasional: Empowering ASEAN MSMEs for Sustainability," Universiti Sains Malaysia, [Online]. Tersedia: [https://sl.ut.ac.id/FHISIP_IntWebinarSeries-UTTV](https://sl.ut.ac.id/FHISIP_IntWebinarSeries-UTTV). [Diakses: Apr. 28, 2025].
 
