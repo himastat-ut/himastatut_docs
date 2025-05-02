@@ -7,6 +7,8 @@ category:
   - Hukum
   - Ilmu Sosial
   - Politik
+  - Info Dong
+  - Acara Kegiatan
 author:
   - name: "Universitas Terbuka"
     email: "info@ut.ac.id"

@@ -6,6 +6,8 @@ category:
   - Webinar
   - MSMEs ASEAN
   - Keberlanjutan
+  - Info Dong
+  - Acara Kegiatan
 author:
   - name: "Universitas Terbuka"
     email: "info@ut.ac.id"

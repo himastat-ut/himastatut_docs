@@ -6,7 +6,12 @@ category:
   - Seminar
   - Teknologi
   - Energi
+  - Info Dong
+  - Acara Kegiatan
 author:
+  - name: "Universitas Terbuka"
+    email: "info@ut.ac.id"
+    url: "https://www.ut.ac.id"
   - name: "Firmansyah Mukti Wijaya"
     email: "ikimukti@gmail.com"
     url: "https://ikimukti.com"

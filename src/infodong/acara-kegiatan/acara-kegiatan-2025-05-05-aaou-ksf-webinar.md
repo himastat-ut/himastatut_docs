@@ -6,6 +6,8 @@ category:
   - Webinar
   - AI in Education
   - Universitas Terbuka
+  - Info Dong
+  - Acara Kegiatan
 author:
   - name: "Universitas Terbuka"
     email: "kemahasiswaan@ut.ac.id"
