@@ -1,7 +1,21 @@
 {
   "name": "himastatut_docs",
   "description": "himastatut_docs",
-  "version": "1.2.5.6",
+  "author": "himastatut",
+  "homepage": "https://github.com/himastat-ut/himastatut_docs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himastat-ut/himastatut_docs.git",
+    "directory": "himastatut_docs"
+  },
+  "keywords": [
+    "himastatut",
+    "himastatut_docs",
+    "himastatut-docs",
+    "himastatut-docs-vuepress",
+    "himastatut-docs-vuepress-theme-hope"
+  ],
+  "version": "1.2.5.8",
   "license": "MIT",
   "type": "module",
   "scripts": {
