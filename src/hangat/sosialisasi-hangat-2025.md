@@ -64,7 +64,7 @@ Dengan mengikuti program HANGAT 2025, Anda dapat:
 
 ## Informasi Penting
 ## 📸 Gambar Acara
-![Leveraging Student Benefits](./2025-05-04-leveraging-student-benefits/webinar-poster.jpg)
+![Leveraging Student Benefits](./../infodong/acara-kegiatan/2025-05-04-leveraging-student-benefits/webinar-poster.jpg)
 📅 **Tanggal Sosialisasi**: Minggu, 4 Mei 2025  
 🕒 **Waktu**: 19.15 - 21.15 WIB  
 🔗 **Link Bergabung**: [QR Code / Link Tautan](https://s.id/KAO0K)  
