@@ -4,7 +4,8 @@ date: 2025-05-04
 icon: calendar  
 category:  
   - Acara Kegiatan  
-  - Mahasiswa Statistika  
+  - Mahasiswa Statistika
+  - Info Dong  
 author:  
   - name: "Firmansyah Mukti Wijaya"  
     email: "ikimukti@gmail.com"  
