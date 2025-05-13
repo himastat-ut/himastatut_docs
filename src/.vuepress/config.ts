@@ -1,5 +1,6 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
+import { openGraphPlugin } from 'vuepress-plugin-open-graph'
 
 export default defineUserConfig({
   base: "/",
@@ -20,6 +21,10 @@ export default defineUserConfig({
   setup() {},
   shouldPrefetch: false,
   rootComponents: [],
+  plugins: [
+    openGraphPlugin({
+    }),
+  ],
 
   // Enable it with pwa
   // shouldPrefetch: false,

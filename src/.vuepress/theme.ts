@@ -134,6 +134,7 @@ export default hopeTheme({
   pure: true,
   print: true,
   plugins: {
+
     activeHeaderLinks: true,
     catalog: true,
     copyCode: {

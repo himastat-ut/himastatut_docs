@@ -2,6 +2,16 @@
 title: "2nd International Student Conference on Economics and Business Excellence (ISCEBE) 2025"
 date: 2025-06-21
 icon: calendar
+image: "./2025-06-21-iscebe2025/poster.png"
+description: "Konferensi Internasional ISCEBE 2025: Membangun Masa Depan yang Berkelanjutan melalui Ekonomi Hijau, Inovasi Bisnis, dan Kebijakan."
+tags:
+  - ISCEBE
+  - Konferensi Internasional
+  - Ekonomi Hijau
+  - Inovasi Bisnis
+  - Kebijakan Berkelanjutan
+  - Mahasiswa Internasional
+  - Universitas Terbuka
 category:
   - Acara Kegiatan
   - Konferensi Internasional

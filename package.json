@@ -52,6 +52,7 @@
     "vuepress-theme-hope": "^2.0.0-rc.74"
   },
   "dependencies": {
-    "dotenv": "^16.5.0"
+    "dotenv": "^16.5.0",
+    "vuepress-plugin-open-graph": "^1.19.0"
   }
 }
