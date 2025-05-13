@@ -14,6 +14,9 @@ tags:
   - statgenclass2023
 category: 
   - STATGEN
+image: "./../statgen.png"
+index: true
+description: "StatGen Class 2023 - Komputer 1 (SATS4111) adalah program untuk memperkenalkan mahasiswa pada perangkat lunak R dan aplikasinya dalam analisis statistik."
 --- 
 
 # STATGEN CLASS 2023 Komputer 1 (SATS4111) Pertemuan 2

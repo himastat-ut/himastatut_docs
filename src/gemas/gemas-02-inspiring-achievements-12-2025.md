@@ -1,6 +1,8 @@
 --- 
 title: Inspiring Achievements - A Sharing Session for UT Statistics Students
 date: 2025-01-30
+image: "./gemas02-inspiring-achievements-2025/gemas-02-gemas-event-photo.png"
+description: "Inspiring Achievements - A Sharing Session for UT Statistics Students"
 author:
   - name: "Firmansyah Mukti Wijaya"
     email: "ikimukti@gmail.com"

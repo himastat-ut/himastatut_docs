@@ -2,6 +2,8 @@
 title: SATS4111 – Komputer 1
 icon: fa-solid:laptop
 order: 1
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2017/04/SATS4111-1.jpg"
+description: "Buku Materi Pokok (BMP) SATS4111 - Komputer 1"
 category:
   - Course
   - Semester 2

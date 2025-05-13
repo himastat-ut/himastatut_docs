@@ -1,6 +1,14 @@
 ---
 title: Tugas Mata Kuliah (TMK) Semester 2024/2025 Genap
 date: 2025-04-24
+image: "./2025-04-26-tmk-ut/1.png"
+description: "Informasi lengkap mengenai Tugas Mata Kuliah (TMK) untuk mahasiswa Universitas Terbuka semester Genap 2024/2025. Termasuk jadwal, cara login, dan FAQ."
+tags:
+  - TMK
+  - Tutorial Online
+  - Tugas Mata Kuliah
+  - Universitas Terbuka
+  - Info Dong
 author:
   - name: "Firmansyah Mukti Wijaya"
     email: "ikimukti@gmail.com"
@@ -10,10 +18,6 @@ author:
     url: "https://himastatut.my.id/article/"
 category:
   - FAQ Kuliah
-tags:
-  - TMK UT
-  - Tutorial Online
-  - Tugas Mata Kuliah
 icon: fa-solid:book
 ---
 

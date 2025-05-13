@@ -2,6 +2,14 @@
 title: "AAOU x KSF Webinar 2025: Global Perspectives on the Application of AI in Education"
 date: 2025-04-30
 icon: globe
+image: "./2025-05-05-aaou-ksf-webinar/aaou-ksf-webinar-2025-poster.jpg"
+description: "Webinar AAOU x KSF 2025 membahas penerapan AI dalam pendidikan. Bergabunglah untuk mendapatkan wawasan dari para ahli di bidang pendidikan terbuka dan jarak jauh."
+tags:
+  - Webinar
+  - AI in Education
+  - Universitas Terbuka
+  - Info Dong
+  - Acara Kegiatan
 category:
   - Webinar
   - AI in Education

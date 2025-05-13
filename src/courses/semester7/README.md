@@ -2,6 +2,8 @@
 title: Semester 7
 icon: fa-solid:calendar-day
 order: 7
+image: "./semester.png"
+description: "Semester 6 memberikan mahasiswa kesempatan untuk memperdalam pengetahuan mereka dalam statistik lanjutan dan penerapannya."
 category:
   - Course
   - Semester 7

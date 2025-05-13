@@ -11,6 +11,16 @@ author:
     url: "https://himastatut.my.id/article/"
 category:
   - SIGMA
+tags:
+  - HIMASTAT
+  - SIGMA
+  - Statistika
+  - Statistika Matematis
+  - Distribusi Khusus
+  - Fungsi Pembangkit Momen
+image: "./../sigma.png"
+index: true
+description: "SIGMA - Pendalaman Materi Pengantar Statistika Matematis 1 (SATS4410 2024) adalah program untuk memperdalam pemahaman mahasiswa dalam mata kuliah Pengantar Statistika Matematis 1, khususnya pada topik Distribusi Khusus Statistik dan Fungsi Pembangkit Momen."
 --- 
 
 # SIGMA - Pendalaman Materi Pengantar Statistika Matematis 1 (SATS4410 2024) Pertemuan 3

@@ -2,6 +2,8 @@
 title: Semester 2
 icon: fa-solid:calendar-day
 order: 2
+image: "./semester.png"
+description: "Semester 2 di program ini memberikan lebih banyak kedalaman dalam materi ilmu dasar dan penerapannya. Di semester ini, mahasiswa akan mempelajari topik-topik penting dalam matematika, statistik, komputer, serta sosiologi dan lainnya."
 category:
   - Course
   - Semester 2

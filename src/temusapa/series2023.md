@@ -9,9 +9,15 @@ author:
   - name: "Himastatut Docs"
     email: "himastatut@gmail.com"
     url: "https://himastatut.my.id/article/"
+image: "./temusapa.png"
+description: "Temu Sapa Online Mahasiswa Statistika FST UT adalah acara yang diadakan secara daring untuk memberikan informasi yang sangat penting kepada mahasiswa mengenai kebijakan akademik, prosedur registrasi, serta berbagai hal yang perlu diketahui oleh mahasiswa selama masa studi mereka."
 tags:
   - temusapa
   - statistika
+  - temu sapa online
+  - mahasiswa
+  - akademik
+  - registrasi
 category: 
   - Temu Sapa
   - Prodi Statistika

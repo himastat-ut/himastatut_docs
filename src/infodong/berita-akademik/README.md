@@ -1,6 +1,15 @@
 --- 
 title: Berita Akademik - Pengumuman Perkuliahan & Ujian
 index: true
+image: "./berita-akademik.png"
+description: "Halaman ini berisi berbagai informasi dan pengumuman akademik terkini yang berkaitan dengan perkuliahan, ujian, dan program-program akademik lainnya di Universitas Terbuka."
+tags:
+  - Berita
+  - Pengumuman
+  - Perkuliahan
+  - Ujian
+  - Universitas Terbuka
+date: 2025-04-07
 icon: newspaper
 category:
   - Berita Akademik

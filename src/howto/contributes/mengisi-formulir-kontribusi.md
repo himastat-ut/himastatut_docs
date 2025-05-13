@@ -1,6 +1,8 @@
 ---
 title: Panduan Mengisi Formulir Kontribusi via Word
 date: 2025-04-07
+image: "./contributes.png"
+description: "Panduan lengkap untuk mengisi formulir kontribusi Himastatut Docs dalam format Word."
 category:
   - How To
   - Contributes

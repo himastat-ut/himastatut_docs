@@ -2,6 +2,9 @@
 title: BIOL4110 – Biologi Umum
 icon: fa-solid:paw
 order: 1
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2019/07/BIOL411002.jpg"
+description: "Buku Materi Pokok (BMP) BIOL4110 - Biologi Umum"
+index: true
 category:
   - Course
   - Semester 1

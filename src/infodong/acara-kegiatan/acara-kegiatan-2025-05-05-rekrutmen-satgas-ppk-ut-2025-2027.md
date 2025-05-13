@@ -2,6 +2,14 @@
 title: "Rekrutmen Satuan Tugas Pencegahan dan Penanganan Kekerasan (PPK) Universitas Terbuka 2025-2027"
 date: 2025-05-05
 icon: calendar
+image: "./2025-05-05-rekrutmen-satgas-ppk-ut-2025-2027/poster.png"
+description: "Rekrutmen Satuan Tugas Pencegahan dan Penanganan Kekerasan (PPK) Universitas Terbuka untuk periode 2025-2027. Bergabunglah untuk menciptakan lingkungan akademik yang aman dan nyaman."
+tags:
+  - Rekrutmen
+  - Satuan Tugas
+  - PPK
+  - Universitas Terbuka
+  - Kekerasan
 category:
   - Rekrutmen
   - Universitas Terbuka

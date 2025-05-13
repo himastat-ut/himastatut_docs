@@ -2,6 +2,8 @@
 title: MATA4110 – Kalkulus I
 icon: fa-solid:divide
 order: 1
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2017/05/MATA4110-214x300.jpg"
+description: "Buku Materi Pokok (BMP) MATA4110 - Kalkulus I"
 category:
   - Course
   - Semester 1

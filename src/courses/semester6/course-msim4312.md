@@ -2,6 +2,8 @@
 title: SATS4510 – Metodologi Penelitian
 icon: fa-solid:clipboard-list
 order: 2
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2017/01/SATS4510.jpg"
+description: "Buku Materi Pokok (BMP) SATS4510 - Metodologi Penelitian"
 category:
   - Course
   - Semester 6

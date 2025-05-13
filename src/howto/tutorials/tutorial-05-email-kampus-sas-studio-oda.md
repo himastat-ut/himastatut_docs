@@ -1,6 +1,14 @@
 ---
 title: Memanfaatkan SAS Studio & SAS OnDemand for Academics untuk Mahasiswa Statistika UT
 date: 2025-04-07
+image: "./../tutorials.png"
+description: "Panduan lengkap untuk mahasiswa Statistika UT dalam memanfaatkan SAS Studio dan SAS OnDemand for Academics (ODA) untuk analisis data."
+tags:
+  - SAS
+  - SAS Studio
+  - SAS OnDemand for Academics
+  - Statistik
+  - Mahasiswa
 category:
   - How To
   - Tutorials

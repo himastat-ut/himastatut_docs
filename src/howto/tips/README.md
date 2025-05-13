@@ -2,6 +2,16 @@
 title: Tips - Tips Sukses di Jurusan Statistika
 index: true
 icon: lightbulb
+image: "./tips.png"
+description: "Halaman ini berisi berbagai tips yang bermanfaat untuk membantu Anda sukses dalam menjalani perkuliahan di jurusan Statistika."
+tags:
+  - Tips
+  - Sukses
+  - Jurusan Statistika
+  - Perkuliahan
+  - Belajar
+  - Ujian
+  - Manajemen Waktu
 category:
   - How To
   - Tips

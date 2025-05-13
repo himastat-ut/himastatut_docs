@@ -2,6 +2,8 @@
 title: Semester 8
 icon: fa-solid:calendar-day
 order: 8
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2022/10/SATS4324.jpg"
+description: "Buku Materi Pokok (BMP) SATS4324 - Inferensi Bayesian"
 category:
   - Course
   - Semester 8

@@ -1,6 +1,13 @@
 ---
 title: Tautan Penting dalam Perkuliahan UT
 date: 2025-04-24
+image: "./faq-kuliah.png"
+description: "Halaman ini menyajikan informasi mengenai berbagai tautan resmi yang digunakan dalam perkuliahan di Universitas Terbuka (UT)."
+tags:
+  - Tautan UT
+  - Akun Mahasiswa
+  - Sistem Perkuliahan
+  - Info Dong
 author:
   - name: "Firmansyah Mukti Wijaya"
     email: "ikimukti@gmail.com"
@@ -10,10 +17,6 @@ author:
     url: "https://himastatut.my.id/article/"
 category:
   - FAQ Kuliah
-tags:
-  - Tautan UT
-  - Akun Mahasiswa
-  - Sistem Perkuliahan
 icon: fa-solid:link
 ---
 

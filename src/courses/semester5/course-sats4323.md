@@ -2,6 +2,8 @@
 title: SATS4323 – Metode Peramalan
 icon: fa-solid:cloud
 order: 3
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2017/01/SATS4323.jpg"
+description: "Buku Materi Pokok (BMP) SATS4323 - Metode Peramalan"
 category:
   - Course
   - Semester 5

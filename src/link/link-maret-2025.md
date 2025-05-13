@@ -1,6 +1,8 @@
 --- 
 title: LINK Edisi Maret 2025 - Lintasan Inspirasi Nurturing Kegiatan
 date: 2025-03-01
+image: "./link-maret-2025/link.png"
+description: "Maret adalah bulan yang penuh dengan peluang baru dan tantangan menarik. Mari kita sambut bulan ini dengan semangat untuk terus belajar dan berkembang."
 author:
   - name: "Firmansyah Mukti Wijaya"
     email: "ikimukti@gmail.com"

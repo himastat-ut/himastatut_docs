@@ -2,6 +2,14 @@
 title: Series 1 - How to Enhancing Your Statistical Skills
 date: 2024-06-05
 icon: book
+image: "./poster.png"
+description: "Bincang Mahasiswa (BIMA) Statistika Series 1: How to Enhancing Your Statistical Skills"
+tags:
+  - Bincang Mahasiswa
+  - BIMA
+  - Himpunan Mahasiswa Statistika
+  - Fakultas Sains dan Teknologi
+  - Universitas Terbuka
 author:
   - name: "Firmansyah Mukti Wijaya"
     email: "ikimukti@gmail.com"

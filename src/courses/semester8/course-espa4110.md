@@ -2,6 +2,8 @@
 title: ESPA4110 – Pengantar Ekonomi Makro
 icon: fa-solid:chart-pie
 order: 10
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2020/07/ESPA411003.jpg"
+description: "Buku Materi Pokok (BMP) ESPA4110 - Pengantar Ekonomi Makro"
 category:
   - Course
   - Semester 8

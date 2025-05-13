@@ -11,6 +11,13 @@ author:
     url: "https://himastatut.my.id/article/"
 category:
   - RADAR
+tags:
+  - HIMASTAT
+  - RADAR
+  - Rapat
+date: 2024-07-01
+image: "./../radar.png"
+description: "Agenda Rapat RADAR untuk bulan Juli 2024, termasuk evaluasi kinerja pengurus dan strategi perbaikan."
 --- 
 
 # Agenda Rapat RADAR - Juli 2024

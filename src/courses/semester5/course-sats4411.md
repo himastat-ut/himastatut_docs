@@ -2,6 +2,8 @@
 title: SATS4411 – Metode Statistika Non Parametrik
 icon: fa-solid:chart-pie
 order: 5
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2020/07/SATS4411.jpg"
+description: "Buku Materi Pokok (BMP) SATS4411 - Metode Statistika Non Parametrik"
 category:
   - Course
   - Semester 5

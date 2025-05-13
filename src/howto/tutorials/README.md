@@ -2,6 +2,9 @@
 title: Tutorials - Panduan Lengkap untuk Mahasiswa Statistika
 index: true
 icon: book-open
+date: 2025-04-07
+image: "./tutorials.png"
+description: "Halaman ini menyediakan tutorial langkah-demi-langkah yang akan membantu Anda dalam mempelajari berbagai alat dan teknik yang digunakan dalam statistika."
 category:
   - How To
   - Tutorials

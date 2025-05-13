@@ -2,6 +2,17 @@
 title: JEPRET (Jejak Pengurus di Feed Terupdate)
 index: true
 icon: user-check
+date: 2024-08-01
+image: "./jepret.png"
+description: "JEPRET (Jejak Pengurus di Feed Terupdate) adalah program yang memberikan apresiasi kepada pengurus terdahulu atas kontribusinya selama masa jabatannya serta menyediakan transparansi mengenai pengurus yang sedang menjabat di HIMASTAT."
+tags:
+  - JEPRET
+  - Jejak Pengurus
+  - HIMASTAT
+  - Transparansi
+  - Apresiasi
+  - Pengurus
+  - HIMASTAT
 category:
   - JEPRET
 author:

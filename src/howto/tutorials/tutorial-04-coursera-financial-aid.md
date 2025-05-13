@@ -1,6 +1,14 @@
 --- 
 title: Mengajukan Financial Aid di Coursera untuk Mahasiswa Statistika UT
 date: 2025-04-04
+description: "Panduan langkah-demi-langkah untuk mengajukan bantuan keuangan di Coursera bagi mahasiswa Statistika Universitas Terbuka."
+image: "./tutorial02.png"
+tags:
+  - Coursera
+  - Financial Aid
+  - Mahasiswa
+  - Statistika
+  - UT
 category:
   - How To
   - Tutorials

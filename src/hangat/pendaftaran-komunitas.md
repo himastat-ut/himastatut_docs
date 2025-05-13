@@ -1,6 +1,8 @@
 --- 
 title: Pendaftaran WhatsApp Komunitas Mahasiswa Statistika UT
 index: true
+image: "./hangat.png"
+description: "Pendaftaran WhatsApp Community HIMASTAT UT untuk mahasiswa Statistika Universitas Terbuka."
 icon: comments
 category:
   - HANGAT

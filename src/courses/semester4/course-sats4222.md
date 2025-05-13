@@ -2,6 +2,8 @@
 title: SATS4222 – Rancangan Percobaan
 icon: fa-solid:flask
 order: 1
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2016/08/STAT4431.jpg"
+description: "Buku Materi Pokok (BMP) STAT4431 - Rancangan Percobaan"
 category:
   - Course
   - Semester 4

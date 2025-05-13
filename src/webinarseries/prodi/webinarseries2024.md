@@ -17,6 +17,9 @@ tags:
  - webinar
  - Universitas Terbuka
 icon: user-tie
+image: "./webinar-series-prodi.png"
+description: "Webinar Series Statistika FST UT adalah rangkaian acara daring yang menghadirkan pembicara ahli dalam bidang statistika dan data science, bertujuan untuk memperkenalkan topik-topik terbaru yang relevan dengan perkembangan dunia statistik."
+index: true
 --- 
 
 # Role of Statistics in Telco Company

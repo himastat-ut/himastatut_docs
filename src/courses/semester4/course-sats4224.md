@@ -2,6 +2,8 @@
 title: SATS4224 – Pengantar Sosiometri
 icon: fa-solid:users
 order: 1
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2017/04/SATS4224-1.jpg"
+description: "Buku Materi Pokok (BMP) SATS4224 - Pengantar Sosiometri"
 category:
   - Course
   - Semester 4

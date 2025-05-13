@@ -11,6 +11,16 @@ author:
     url: "https://himastatut.my.id/article/"
 category:
   - SIGMA
+tags:
+  - HIMASTAT
+  - SIGMA
+  - Statistika
+  - Penduga Terbaik
+  - Cramér-Rao
+  - Rao-Blackwell
+image: "./../sigma.png"
+index: true
+description: "SIGMA - Pendalaman Materi Pengantar Statistika Matematis I SATS4410 adalah program untuk memperdalam pemahaman mahasiswa dalam mata kuliah Pengantar Statistika Matematis I, khususnya pada topik Kriteria Penduga Terbaik."
 --- 
 
 # SIGMA – Pengantar Statistika Matematis I (SATS4410) Pertemuan 2

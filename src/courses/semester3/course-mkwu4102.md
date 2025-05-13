@@ -2,6 +2,8 @@
 title: MKWU4102 – Pendidikan Agama Katolik
 icon: fa-solid:church
 order: 1
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2022/02/MKWU410202.webp"
+description: "Buku Materi Pokok (BMP) MKWU4102 - Pendidikan Agama Katolik"
 category:
   - Course
   - Semester 3

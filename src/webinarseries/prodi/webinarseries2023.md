@@ -16,6 +16,9 @@ tags:
  - webinar
  - statistika
 icon: user-tie
+image: "./webinar-series-2023.png"
+description: "Webinar Series Statistika FST UT 2023 - Data Scientist: The Sexiest Job for Statistician? adalah acara daring yang membahas pentingnya profesi data scientist di era digital saat ini, dengan narasumber Bpk. Amir Toha Tjahjagama dari StarCore."
+index: true
 --- 
 
 # Data Scientist: The Sexiest Job for Statistician?

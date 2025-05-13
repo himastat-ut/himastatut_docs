@@ -2,6 +2,8 @@
 title: Contoh Penggunaan Referensi IEEE dalam Teks
 index: true
 icon: book
+image: "./contribute.png"
+description: "Panduan lengkap untuk menulis referensi IEEE dalam teks dokumentasi menggunakan format footnote di Markdown."
 category:
   - How To
   - Contributes

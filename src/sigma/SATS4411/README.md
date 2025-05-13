@@ -11,6 +11,16 @@ author:
     url: "https://himastatut.my.id/article/"
 category:
   - SIGMA
+tags:
+  - HIMASTAT
+  - SIGMA
+  - Statistika
+  - Statistika Nonparametrik
+  - Uji Tanda
+  - Uji Tren
+image: "./../sigma.png"
+index: true
+description: "SIGMA - Pendalaman Materi Metode Statistika Nonparametrik SATS4411 adalah program untuk memperdalam pemahaman mahasiswa dalam mata kuliah Metode Statistika Nonparametrik, khususnya pada topik Uji Tanda Sampel Tunggal dan Uji Tren."
 --- 
 
 # SIGMA - Pendalaman Materi Metode Statistika Nonparametrik SATS4411

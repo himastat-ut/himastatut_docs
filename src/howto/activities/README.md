@@ -2,6 +2,8 @@
 title: Activities - Pengembangan Akademik Mahasiswa Statistika
 index: true
 icon: clipboard-list
+image: "./activities.png"
+description: "Informasi mengenai kegiatan yang dapat membantu dalam pengembangan akademik mahasiswa Statistika, baik itu seminar, lomba, atau kegiatan lainnya."
 category:
   - How To
   - Activities

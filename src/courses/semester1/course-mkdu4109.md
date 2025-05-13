@@ -2,6 +2,8 @@
 title: MKDU4109 – Ilmu Sosial dan Budaya Dasar
 icon: fa-solid:people-arrows
 order: 1
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2017/02/MKDU4109-214x300.jpg"
+description: "Buku Materi Pokok (BMP) MKDU4109 - Ilmu Sosial dan Budaya Dasar"
 category:
   - Course
   - Semester 1

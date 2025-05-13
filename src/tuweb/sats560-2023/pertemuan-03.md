@@ -12,6 +12,11 @@ author:
 tags:
   - Karya Ilmiah
   - SATS560
+  - Tuweb
+  - Statistika
+image: "./images/image.png"
+description: "Tuweb Karya Ilmiah SATS560 adalah program untuk memperdalam pemahaman mahasiswa dalam penulisan karya ilmiah, termasuk struktur, referensi, dan teknik penyusunan."
+index: true
 category:
 - STATGEN
 --- 

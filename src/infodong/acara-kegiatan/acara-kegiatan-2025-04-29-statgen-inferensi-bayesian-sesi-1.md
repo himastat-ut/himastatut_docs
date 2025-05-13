@@ -2,6 +2,14 @@
 title: STATGEN 4.0 - "Inferensi Bayesian Sesi 1" - Pembelajaran Mendalam tentang Statistik
 date: 2025-04-29
 icon: chart-line
+image: "./2025-04-29-sats4324/poster-inferensi-bayesian.png"
+description: "STATGEN 4.0 - Inferensi Bayesian Sesi 1. Tema: 'Mendalami Inferensi Bayesian: Konsep dan Aplikasi dalam Statistika'. Bergabunglah untuk memperdalam pemahaman Anda tentang inferensi statistik."
+tags:
+  - STATGEN
+  - Inferensi Bayesian
+  - Webinar
+  - Statistika
+  - Pembelajaran
 category:
   - Webinar
   - Statistika

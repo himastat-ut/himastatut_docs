@@ -11,6 +11,14 @@ author:
     url: "https://himastatut.my.id/article/"
 category:
   - SIGMA
+tags:
+  - HIMASTAT
+  - SIGMA
+  - Statistika
+  - Rancangan Percobaan
+image: "./../sigma.png"
+index: true
+description: "SIGMA - Pendalaman Materi Rancangan Percobaan (SATS4222) adalah program untuk memperdalam pemahaman mahasiswa dalam mata kuliah Rancangan Percobaan, khususnya pada topik Rancangan Faktorial."
 --- 
 
 # SIGMA - Pendalaman Materi Rancangan Percobaan (SATS4222) Pertemuan 3

@@ -12,6 +12,10 @@ author:
 tags:
   - sosiometri
   - statgenclass2024
+  - SATS4224
+image: "./../statgen.png"
+description: "StatGen Class 3.0 - Pengantar Sosiometri (SATS4224) adalah program untuk memperkenalkan mahasiswa pada konsep dasar sosiometri dan aplikasinya dalam analisis hubungan sosial."
+index: true
 category: 
 - STATGEN
 --- 

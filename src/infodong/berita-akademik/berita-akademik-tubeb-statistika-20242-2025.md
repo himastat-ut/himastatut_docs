@@ -2,6 +2,16 @@
 title: Informasi Tutorial Berbasis Web (TUWEB) Statistika UT 2025/2024.2
 index: true
 date: 2025-04-10
+image: "./../berita-akademik.png"
+description: "Informasi lengkap mengenai Tutorial Berbasis Web (TUWEB) untuk mahasiswa Program Studi Statistika Universitas Terbuka tahun 2025/2024.2."
+tags:
+  - TUWEB
+  - Tutorial
+  - Statistika
+  - Universitas Terbuka
+  - HIMASTAT
+  - Berita Akademik
+  - Info Dong
 icon: newspaper
 category:
   - Berita Akademik

@@ -2,6 +2,8 @@
 title: SATS4220 – Matematika III
 icon: fa-solid:calculator
 order: 1
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2020/09/SATS422002.jpg"
+description: "Buku Materi Pokok (BMP) SATS4220 - Matematika III"
 category:
   - Course
   - Semester 4

@@ -2,6 +2,8 @@
 title: Mata Kuliah Statistika
 index: true
 icon: book
+image: "./semester.png"
+description: "Katalog Mata Kuliah Statistika"
 category:
   - Course
 author:

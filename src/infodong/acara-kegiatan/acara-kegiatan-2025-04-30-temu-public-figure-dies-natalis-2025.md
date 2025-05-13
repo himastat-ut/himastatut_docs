@@ -2,6 +2,15 @@
 title: "Temu Public Figure Dies Natalis ke-41 UT 2025 dan Disporseni Nasional UT 2025"
 date: 2025-04-30
 icon: microphone
+image: "./2025-05-02-temu-public-figure/dies-natalis-2025-poster.jpg"
+description: "Temu Public Figure Dies Natalis ke-41 UT 2025 dan Disporseni Nasional UT 2025. Bergabunglah untuk mendengarkan wawasan dari Kris Dayanti dan Nyimas Dewi Ratih Kamil."
+tags:
+  - Temu Public Figure
+  - Dies Natalis
+  - Disporseni Nasional
+  - UT
+  - Kris Dayanti
+  - Nyimas Dewi Ratih Kamil
 category:
   - Acara
   - Dies Natalis

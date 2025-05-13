@@ -13,6 +13,12 @@ author:
   - name: "Himastatut Docs"
     email: "himastatut@gmail.com"
     url: "https://himastatut.my.id/article/"
+tags:
+  - inferensi bayesian
+  - statistika
+  - statgen
+image: "./../statgen.png"
+description: "StatGen Class 4.0 - Pengantar Inferensi Bayesian (SATS4324) adalah program untuk memperkenalkan mahasiswa pada konsep dasar inferensi bayesian dan aplikasinya dalam analisis data."
 index: false
 ---
 

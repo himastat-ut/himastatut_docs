@@ -1,7 +1,14 @@
 ---
 title: Celebrating Women in Mathematics 2025  
 date: 2025-05-04  
-icon: calendar  
+icon: calendar
+image: "./2025-05-22-celebrating-women-in-math/poster.jpg"
+description: "Kami mengundang seluruh mahasiswa Universitas Terbuka, khususnya mahasiswa Program Studi Statistika, untuk bergabung dalam kegiatan Celebrating Women in Mathematics 2025."
+tags:  
+  - Webinar  
+  - Etnomatematika  
+  - Mahasiswa Statistika  
+  - Universitas Terbuka
 category:  
   - Acara Kegiatan  
   - Mahasiswa Statistika

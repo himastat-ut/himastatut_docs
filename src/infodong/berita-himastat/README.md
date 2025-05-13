@@ -1,6 +1,15 @@
 --- 
 title: Berita HIMASTAT - Kegiatan & Informasi Himpunan
 index: true
+date: 2025-04-07
+image: "./berita-himastat.png"
+description: "Halaman ini menyajikan berbagai informasi dan dokumentasi kegiatan yang diselenggarakan oleh Himpunan Mahasiswa Statistika Universitas Terbuka (HIMASTAT UT)."
+tags:
+  - Berita
+  - Kegiatan
+  - HIMASTAT
+  - Universitas Terbuka
+  - Info Dong
 icon: users
 category:
   - Berita HIMASTAT

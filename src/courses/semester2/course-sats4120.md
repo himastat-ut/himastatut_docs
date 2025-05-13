@@ -2,6 +2,8 @@
 title: SATS4120 – Matematika 1
 icon: fa-solid:calculator
 order: 1
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2017/01/SATS4120.jpg"
+description: "Buku Materi Pokok (BMP) SATS4120 - Matematika 1"
 category:
   - Course
   - Semester 2

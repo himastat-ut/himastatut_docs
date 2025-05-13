@@ -2,6 +2,15 @@
 title: Webinar Literasi Pemanfaatan Akses E-Resources Perpustakaan UT "e-Journal Taylor & Francis" - 26 April 2025
 date: 2025-04-21
 icon: book
+image: "./2025-04-26-webinar-literasi/poster-webinar.jpg"
+description: "Webinar Literasi Pemanfaatan Akses E-Resources Perpustakaan UT 'e-Journal Taylor & Francis' pada tanggal 26 April 2025. Bergabunglah untuk memperluas pengetahuan Anda tentang akses e-resources di perpustakaan digital."
+tags:
+  - Webinar
+  - E-Resources
+  - Perpustakaan
+  - UT
+  - e-Journal
+  - Taylor & Francis
 category:
   - Webinar
   - E-Resources

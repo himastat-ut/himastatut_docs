@@ -2,6 +2,15 @@
 title: Seminar Nasional Hukum Ilmu Sosial dan Ilmu Politik 2025 - "Menavigasi Tantangan Masa Depan; Tren Terkini Kajian Ilmu Hukum, Sosial, Politik, dan Humaniora"
 date: 2025-04-21
 icon: gavel
+image: "./2025-07-09-seminar-hukum-sosial-politik/poster-seminar-hukum-sosial-politik.png"
+description: "Seminar Nasional Hukum Ilmu Sosial dan Ilmu Politik 2025 membahas tren terkini kajian ilmu hukum, sosial, politik, dan humaniora. Bergabunglah untuk mendapatkan wawasan dari para ahli di bidangnya."
+tags:
+  - Seminar
+  - Hukum
+  - Ilmu Sosial
+  - Politik
+  - Info Dong
+  - Acara Kegiatan
 category:
   - Seminar
   - Hukum

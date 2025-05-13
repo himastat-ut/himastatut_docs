@@ -2,6 +2,9 @@
 title: Pengurus HIMASTAT 2024/2025
 index: true
 icon: users
+date: 2024-08-01
+image: "./pengurus2024/1.jpg"
+description: "Selamat datang untuk pengurus HIMASTAT 2024/2025! Mari kita saksikan gebrakan dan warna baru dari tim 2024/2025!"
 category:
   - Berita HIMASTAT
   - Info Dong

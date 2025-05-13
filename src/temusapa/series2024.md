@@ -12,6 +12,11 @@ author:
 tags:
   - temusapa
   - statistika
+  - mahasiswa
+  - akademik
+  - registrasi
+image: "./temusapa.png"
+description: "Temu Sapa Online Mahasiswa Statistika FST UT adalah acara daring untuk memberikan informasi penting kepada mahasiswa mengenai kebijakan akademik, prosedur registrasi, dan hal-hal yang perlu diketahui selama studi."
 category:
   - Temu Sapa
   - Prodi Statistika

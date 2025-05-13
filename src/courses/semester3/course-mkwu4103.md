@@ -2,6 +2,8 @@
 title: MKWU4103 – Pendidikan Agama Kristen
 icon: fa-solid:church
 order: 1
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2022/02/MKWU4103.jpg"
+description: "Buku Materi Pokok (BMP) MKWU4103 - Pendidikan Agama Kristen"
 category:
   - Course
   - Semester 3

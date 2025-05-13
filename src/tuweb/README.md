@@ -4,7 +4,22 @@ index: true
 icon: book
 category:
   - Archive
---- 
+date: 2024-05-05
+author:
+  - name: "Firmansyah Mukti Wijaya"
+    email: "ikimukti@gmail.com"
+    url: "https://ikimukti.com"
+  - name: "Himastatut Docs"
+    email: "himastatut@gmail.com"
+    url: "https://himastatut.my.id/article/"
+tags:
+   - HIMASTAT
+   - UT
+   - Tutorial
+   - Webinar
+image: "./tuweb.png"
+description: "Tuweb (Tutorial Webinar) adalah metode tutorial online sinkronus yang memungkinkan mahasiswa Universitas Terbuka untuk berinteraksi langsung dengan tutor dan sesama mahasiswa, meskipun berada di lokasi yang berbeda."
+---
 
 # Tuweb Tutorial Webinar Mahasiswa Universitas Terbuka
 

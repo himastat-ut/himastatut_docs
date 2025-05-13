@@ -2,6 +2,8 @@
 title: ISIP4110 – Pengantar Sosiologi
 icon: fa-solid:users
 order: 1
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2017/01/ISIP4110.jpg"
+description: "Buku Materi Pokok (BMP) ISIP4110 - Pengantar Sosiologi"
 category:
   - Course
   - Semester 2

@@ -2,6 +2,8 @@
 title: FISD4211 – Fisika Dasar I
 icon: fa-solid:atom
 order: 1
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2017/01/FISD4211.jpg"
+description: "Buku Materi Pokok (BMP) FISD4211 - Fisika Dasar I"
 category:
   - Course
   - Semester 2

@@ -2,6 +2,8 @@
 title: KIMD4110 – Kimia Dasar I
 icon: fa-solid:vial
 order: 1
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2017/01/KIMD4110-214x300.jpg"
+description: "Buku Materi Pokok (BMP) KIMD4110 - Kimia Dasar I"
 category:
   - Course
   - Semester 1

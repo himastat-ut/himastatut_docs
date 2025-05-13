@@ -2,6 +2,13 @@
 title: Hasil Juli 2024
 index: true
 icon: clipboard-list
+description: "Hasil Rapat RADAR untuk bulan Juli 2024, termasuk evaluasi kinerja pengurus dan strategi perbaikan."
+tags:
+  - HIMASTAT
+  - RADAR
+  - Rapat
+date: 2024-07-01
+image: "./../radar.png"
 author:
   - name: "Firmansyah Mukti Wijaya"
     email: "ikimukti@gmail.com"

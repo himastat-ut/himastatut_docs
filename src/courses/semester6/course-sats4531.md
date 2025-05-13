@@ -2,6 +2,8 @@
 title: ADBI4531 – Teori Pembuatan Keputusan
 icon: fa-solid:flag-checkered
 order: 1
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2017/01/ADBI4531.jpg"
+description: "Buku Materi Pokok (BMP) ADBI4531 - Teori Pembuatan Keputusan"
 category:
   - Course
   - Semester 6

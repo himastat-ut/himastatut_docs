@@ -2,6 +2,15 @@
 title: Informasi Alumni - Kabar & Kesempatan untuk Lulusan
 index: true
 icon: graduation-cap
+image: "./informasi-alumni.png"
+description: "Halaman ini berisi berbagai informasi yang ditujukan untuk alumni Program Studi Statistika Universitas Terbuka. Di dalamnya, alumni dapat menemukan kabar terbaru, peluang kerja, serta informasi mengenai kegiatan yang relevan untuk menjalin kembali hubungan dengan lingkungan kampus."
+tags:
+  - Alumni
+  - Kabar
+  - Kesempatan
+  - Universitas Terbuka
+  - Info Dong
+date: 2025-04-07
 category:
   - Informasi Alumni
   - Info Dong

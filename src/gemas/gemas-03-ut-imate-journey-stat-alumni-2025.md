@@ -1,6 +1,8 @@
 --- 
 title: UT-IMATE JOURNEY - Ujian, Tugas, & Motivasi Ala Alumni Statistika UT
 date: 2025-03-16
+image: "./gemas02-inspiring-achievements-2025/gemas-02-gemas-event-photo.png"
+description: "UT-IMATE JOURNEY - Ujian, Tugas, & Motivasi Ala Alumni Statistika UT"
 author:
   - name: "Firmansyah Mukti Wijaya"
     email: "ikimukti@gmail.com"

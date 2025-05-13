@@ -1,7 +1,9 @@
 ---
 title: Sosialisasi HANGAT 2025 dan Perkenalan HIMASTATUT.my.id  
 date: 2025-05-04  
-icon: users  
+icon: users
+image: "./hangat.png"
+description: "Sosialisasi HANGAT 2025 dan Perkenalan HIMASTATUT.my.id untuk mahasiswa Statistika Universitas Terbuka."
 category:  
   - HANGAT  
   - Sosialisasi  

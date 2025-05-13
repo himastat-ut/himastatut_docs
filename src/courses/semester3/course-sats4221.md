@@ -2,6 +2,8 @@
 title: SATS4221 – Pengantar Probabilitas
 icon: fa-solid:dice
 order: 1
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2017/01/SATS4221.jpg"
+description: "Buku Materi Pokok (BMP) SATS4221 - Pengantar Probabilitas"
 category:
   - Course
   - Semester 3

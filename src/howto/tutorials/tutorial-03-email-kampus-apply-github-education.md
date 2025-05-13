@@ -1,6 +1,13 @@
 --- 
 title: Mendaftar GitHub Education dengan Email Kampus UT
 date: 2024-04-02
+image: "./tutorial02.png"
+description: "Panduan langkah-demi-langkah untuk mendaftar GitHub Education menggunakan email kampus UT."
+tags:
+  - GitHub
+  - Education
+  - Email Kampus
+  - UT
 category:
   - How To
   - Tutorials

@@ -1,6 +1,15 @@
 ---
 title: "Katalog Kurikulum Terbaru UT 2025/2026"
 index: true
+image: "./katalog-kurikulum-ut-2025-2026/image.png"
+description: "Katalog Kurikulum terbaru untuk Semester 2025/2026 Universitas Terbuka (UT) telah dirilis. Temukan informasi lengkap mengenai perubahan dan pembaruan kurikulum ini."
+tags:
+  - Katalog Kurikulum
+  - Universitas Terbuka
+  - UT
+  - Program Studi
+  - Berita Akademik
+  - Info Dong
 date: 2025-05-12
 icon: book
 category:

@@ -2,6 +2,14 @@
 title: Info Dong - Informasi Terkini untuk Semua
 index: true
 icon: circle-question
+image: "./info-dong.png"
+description: "Halaman ini adalah sumber informasi utama yang menyediakan update terkini mengenai Universitas Terbuka, Fakultas Sains dan Teknologi, Program Studi Statistika, dan Himpunan Mahasiswa Statistika (HIMASTATUT)."
+tags:
+  - Info Dong
+  - Universitas Terbuka
+  - Fakultas Sains dan Teknologi
+  - Program Studi Statistika
+  - HIMASTATUT
 category:
   - Info Dong
 author:

@@ -2,6 +2,8 @@
 title: ADPU4442 – Sistem Informasi Manajemen
 icon: fa-solid:network-wired
 order: 1
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2017/05/ADPU4442.jpg"
+description: "Buku Materi Pokok (BMP) ADPU4442 - Sistem Informasi Manajemen"
 category:
   - Course
   - Semester 5

@@ -11,6 +11,15 @@ author:
     url: "https://himastatut.my.id/article/"
 category:
   - SIGMA
+tags:
+   - HIMASTAT
+   - SIGMA
+   - Statistika
+   - Multivariat
+   - Uji Hipotesis
+image: "./../sigma.png"
+index: true
+description: "SIGMA - Metode Statistika Multivariat SATS4421 adalah program untuk memperdalam pemahaman mahasiswa dalam mata kuliah Metode Statistika Multivariat, khususnya pada topik Uji Hipotesis Vektor Mean Populasi."
 --- 
 
 # SIGMA – Metode Statistika Multivariat (SATS4421) Pertemuan 3

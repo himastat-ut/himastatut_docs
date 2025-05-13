@@ -12,6 +12,9 @@ author:
 tags:
   - aljabar linear
   - statgenclass2025
+  - SATS4122
+image: "./../statgen.png"
+description: "StatGen Class 3.0 - Aljabar Linear Terapan (SATS4122) adalah program untuk memperkenalkan mahasiswa pada konsep dasar aljabar linear dan aplikasinya dalam statistika."
 category: 
 - STATGEN
 --- 

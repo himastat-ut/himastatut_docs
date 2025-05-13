@@ -2,6 +2,14 @@
 title: COBISMA 2025 - Kompetisi Bisnis dan Manajemen 2025
 date: 2025-04-21
 icon: trophy
+image: "./2025-04-24-cobisma/poster-cobisma-2025.png"
+description: "COBISMA 2025 - Kompetisi Bisnis dan Manajemen 2025. Tema: 'Menumbuhkan Kepemimpinan Visioner: Berinovasi untuk Masa Depan Berkelanjutan dalam Bisnis dan Manajemen'."
+tags:
+  - COBISMA
+  - Kompetisi Bisnis
+  - Manajemen
+  - Inovasi
+  - Keberlanjutan
 category:
   - Kompetisi
   - Bisnis & Manajemen

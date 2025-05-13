@@ -11,6 +11,13 @@ author:
   - name: "Himastatut Docs"
     email: "himastatut@gmail.com"
     url: "https://himastatut.my.id/article/"
+tags:
+  - statistika
+  - statgenclass2024
+  - SATS4213
+image: "./../statgen.png"
+description: "StatGen Class 2.0 - Pengumpulan & Penyajian Data (SATS4213) adalah program untuk memperkenalkan mahasiswa pada konsep dasar pengumpulan dan penyajian data serta aplikasinya dalam statistika."
+index: true
 --- 
 
 # Pengumpulan & Penyajian Data (SATS4213)

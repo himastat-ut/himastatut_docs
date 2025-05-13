@@ -2,6 +2,15 @@
 title: "Unlock the Art of Data: Visualisasi Keren dengan R - SATS4223 Komputer II"
 date: 2025-05-07
 icon: calendar
+image: "./2025-05-08-unlock-the-art-of-data/poster.jpg"
+description: "Tutorial Radio tentang Visualisasi Data dengan R menggunakan ggplot2 dan plotly. Bergabunglah untuk meningkatkan keterampilan visualisasi data Anda!"
+tags:
+  - Tutorial Radio
+  - Visualisasi Data
+  - R Programming
+  - ggplot2
+  - plotly
+  - Mahasiswa Statistika
 category:
   - Acara Kegiatan
   - Mahasiswa Statistika

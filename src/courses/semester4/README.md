@@ -2,6 +2,8 @@
 title: Semester 4
 icon: fa-solid:calendar-day
 order: 4
+image: "./semester.png"
+description: "Semester 4 dalam program ini memperdalam pemahaman mahasiswa dalam berbagai disiplin ilmu yang penting untuk pengembangan keterampilan teknis dan analitis lebih lanjut."
 category:
   - Course
   - Semester 4

@@ -2,6 +2,14 @@
 title: How To - Tips and Tutorials for Statistika Students
 index: true
 icon: file-circle-question
+date: 2025-04-07
+image: "./howto.png"
+description: "Halaman ini berisi berbagai tips, cara, dan penjelasan yang bermanfaat terkait dengan kehidupan perkuliahan di jurusan Statistika."
+tags:
+  - How To
+  - Tips
+  - Tutorials
+  - Statistika
 category:
   - How To
 author:

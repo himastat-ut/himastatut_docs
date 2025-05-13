@@ -2,6 +2,8 @@
 title: GEMAS (Gerakan Mempersembahkan Inspirasi dan Apresiasi)
 index: true
 icon: trophy
+image: "./gemas.png"
+description: "GEMAS adalah program penghargaan untuk mahasiswa dan alumni yang berprestasi di Universitas Terbuka."
 category:
   - GEMAS
 date: 2025-03-16

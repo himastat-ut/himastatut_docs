@@ -2,6 +2,8 @@
 title: Semester 1
 icon: fa-solid:calendar
 order: 1
+image: "./semester.png"
+description: "Semester 1 di program ini mencakup berbagai mata kuliah dasar yang bertujuan memberikan pemahaman fundamental dalam berbagai bidang ilmu, mulai dari matematika, sains, hingga keterampilan sosial dan bahasa."
 category:
   - Course
   - Semester 1

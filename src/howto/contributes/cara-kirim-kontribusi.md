@@ -1,6 +1,8 @@
 ---
 title: Cara Mengirim Kontribusi untuk Himastatut Docs
 date: 2025-04-07
+image: "./contributes.png"
+description: "Panduan lengkap untuk mengirimkan kontribusi Anda ke Himastatut Docs, baik melalui Pull Request maupun file draft."
 category:
   - How To
   - Contributes

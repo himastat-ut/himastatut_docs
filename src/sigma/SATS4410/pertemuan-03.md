@@ -11,6 +11,16 @@ author:
     url: "https://himastatut.my.id/article/"
 category:
   - SIGMA
+tags:
+   - HIMASTAT
+   - SIGMA
+   - Statistika
+   - Statistika Matematis
+   - Pengujian Hipotesis
+   - Penduga Selang
+image: "./../sigma.png"
+index: true
+description: "SIGMA - Pengantar Statistika Matematis I SATS4410 adalah program untuk memperdalam pemahaman mahasiswa dalam mata kuliah Pengantar Statistika Matematis I, khususnya pada topik Evaluasi Pengujian Hipotesis dan Penduga Selang."
 --- 
 
 # SIGMA – Pengantar Statistika Matematis I (SATS4410) Pertemuan 3

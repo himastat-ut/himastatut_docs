@@ -11,6 +11,15 @@ author:
     url: "https://himastatut.my.id/article/"
 category:
   - SIGMA
+tags:
+  - HIMASTAT
+  - SIGMA
+  - Statistika
+  - Regresi Berganda
+  - Regresi Polinomial
+image: "./../sigma.png"
+index: true
+description: "SIGMA - Model Linear Terapan SATS4312 adalah program untuk memperdalam pemahaman mahasiswa dalam mata kuliah Model Linear Terapan, khususnya pada topik Analisis Regresi Berganda dan Polinomial."
 --- 
 
 # SIGMA – Pendalaman Materi Model Linear Terapan (SATS4312)

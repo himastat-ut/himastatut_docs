@@ -2,6 +2,8 @@
 title: Semester 6
 icon: fa-solid:calendar-day
 order: 6
+image: "./semester.png"
+description: "Semester 6 memberikan mahasiswa kesempatan untuk memperdalam pengetahuan mereka dalam statistik lanjutan dan aplikasi metode analisis data yang lebih kompleks. Di semester ini, mahasiswa akan mempelajari topik-topik seperti teori pembuatan keputusan, metodologi penelitian, metode statistika multivariat, dan metode sekuensial, yang sangat relevan dengan pengambilan keputusan dalam industri dan penelitian."
 category:
   - Course
   - Semester 6

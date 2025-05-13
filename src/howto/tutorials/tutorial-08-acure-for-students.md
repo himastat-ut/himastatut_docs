@@ -1,6 +1,14 @@
 ---
 title: Mendaftar Microsoft Azure for Students – Cloud Computing Gratis untuk Mahasiswa Statistika
 date: 2025-04-22
+image: "./../tutorials.png"
+description: "Panduan lengkap untuk mendaftar Microsoft Azure for Students, layanan cloud computing gratis untuk mahasiswa statistika."
+tags:
+  - Microsoft Azure
+  - Cloud Computing
+  - Azure for Students
+  - Statistika
+  - Mahasiswa
 category:
   - How To
   - Tutorials

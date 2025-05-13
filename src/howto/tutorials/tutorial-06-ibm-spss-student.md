@@ -1,6 +1,14 @@
 ---
 title: IBM SPSS Statistics Student Edition - Opsi Legal & Alternatif bagi Mahasiswa Statistika UT
 date: 2025-04-07
+image: "./../tutorials.png"
+description: "Panduan lengkap untuk mengakses IBM SPSS secara legal dan alternatif gratis bagi mahasiswa Statistika Universitas Terbuka."
+tags:
+  - IBM SPSS
+  - Software Statistik
+  - Statistika
+  - Mahasiswa
+  - Alternatif Gratis
 category:
   - How To
   - Tutorials

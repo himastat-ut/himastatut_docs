@@ -2,6 +2,8 @@
 title: SATS4420 – Pengantar Statistika Matematis 2
 icon: fa-solid:chart-line
 order: 3
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2017/01/SATS4420.jpg"
+description: "Buku Materi Pokok (BMP) SATS4420 - Pengantar Statistika Matematis 2"
 category:
   - Course
   - Semester 6

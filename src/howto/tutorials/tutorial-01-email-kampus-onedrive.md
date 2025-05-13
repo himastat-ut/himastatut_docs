@@ -1,6 +1,14 @@
 --- 
 title: Menggunakan Email Kampus UT untuk OneDrive
 date: 2024-04-02
+image: "./tutorial01.png"
+description: "Panduan langkah-demi-langkah untuk mengakses dan memanfaatkan OneDrive menggunakan email kampus UT."
+tags:
+  - OneDrive
+  - Email Kampus
+  - Microsoft Office 365
+  - Tutorial
+  - Panduan
 category:
   - How To
   - Tutorials

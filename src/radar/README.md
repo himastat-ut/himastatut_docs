@@ -2,6 +2,13 @@
 title: RADAR (Rapat Asyik Diskusi dan Analisis Review)
 index: true
 icon: clipboard-list
+description: "RADAR adalah program bulanan untuk evaluasi kinerja anggota pengurus dan membahas strategi untuk meningkatkan efektivitas organisasi HIMASTAT."
+tags:
+  - HIMASTAT
+  - RADAR
+  - Rapat
+date: 2023-10-01
+image: "./radar.png"
 category:
   - RADAR
 author:

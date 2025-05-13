@@ -2,6 +2,8 @@
 title: SATS4212 – Analisis Data Statistik
 icon: fa-solid:chart-bar
 order: 1
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2017/01/SATS4212.jpg"
+description: "Buku Materi Pokok (BMP) SATS4212 - Analisis Data Statistik"
 category:
   - Course
   - Semester 2

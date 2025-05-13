@@ -2,6 +2,14 @@
 title: GB TALKS Season 5 Episode 18 - "Peran Data Kategori dalam Pemodelan Statistik untuk Mendukung Pengambilan Keputusan"
 date: 2025-04-24
 icon: microphone
+image: "./2025-04-24-gbtaks18/poster-gb-talks-18.jpg"
+description: "GB TALKS Season 5 Episode 18 - 'Peran Data Kategori dalam Pemodelan Statistik untuk Mendukung Pengambilan Keputusan'. Bergabunglah untuk mendengarkan wawasan mendalam dari para ahli di bidang statistik."
+tags:
+  - GB TALKS
+  - Webinar
+  - Statistik
+  - Pemodelan Statistik
+  - Pengambilan Keputusan
 category:
   - Webinar
   - Statistik

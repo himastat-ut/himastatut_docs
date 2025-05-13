@@ -2,6 +2,17 @@
 title: Program Studi Statistika - Universitas Terbuka
 index: true
 icon: school
+image: "./program-studi-statistika.png"
+description: "Program Studi S1 Statistika di Universitas Terbuka menawarkan pendidikan berkualitas dengan sistem terbuka dan jarak jauh, mempersiapkan lulusan yang kompeten di bidang statistika."
+tags:
+  - Program Studi
+  - Statistika
+  - Universitas Terbuka
+  - Pendidikan
+  - Akreditasi
+  - Dosen
+  - Kurikulum
+  - Sejarah
 category:
   - Program Studi
 date: 2025-03-16

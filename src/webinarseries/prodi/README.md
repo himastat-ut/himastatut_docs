@@ -13,6 +13,13 @@ author:
   - name: "Himastatut Docs"
     email: "himastatut@gmail.com"
     url: "https://himastatut.my.id/article/"
+tags:
+  - HIMASTAT
+  - Webinar
+  - Statistika
+  - Data Science
+image: "./webinar-series-prodi.png"
+description: "Webinar Series Statistika FST UT adalah rangkaian acara daring yang menghadirkan pembicara ahli dalam bidang statistika dan data science, bertujuan untuk memperkenalkan topik-topik terbaru yang relevan dengan perkembangan dunia statistik."
 --- 
 
 # Webinar Series Statistika FST UT

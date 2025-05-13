@@ -12,8 +12,13 @@ author:
 tags:
   - Karya Ilmiah
   - SATS560
+  - Tuweb
 category:
-- STATGEN
+  - STATGEN
+  - SATS560
+image: "./images/image.png"
+description: "Tuweb Karya Ilmiah SATS560 adalah program untuk memperdalam pemahaman mahasiswa dalam penulisan karya ilmiah, termasuk struktur, referensi, dan teknik penyusunan."
+index: true
 --- 
 
 # Pertemuan 2: Pengantar Karya Ilmiah (SATS560)

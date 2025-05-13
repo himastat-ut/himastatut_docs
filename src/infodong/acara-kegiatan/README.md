@@ -2,6 +2,15 @@
 title: Acara & Kegiatan - Info Kegiatan Mahasiswa
 index: true
 icon: calendar-days
+image: "./acara-kegiatan.png"
+description: "Halaman ini berisi informasi terkait berbagai acara, kegiatan, dan event penting yang diselenggarakan oleh atau berkaitan dengan Program Studi Statistika, Fakultas Sains dan Teknologi, Himpunan Mahasiswa Statistika UT, dan Universitas Terbuka."
+tags:
+  - Acara
+  - Kegiatan
+  - Event
+  - Mahasiswa
+  - HIMASTAT
+  - Universitas Terbuka
 date: 2025-04-22
 category:
   - Acara & Kegiatan

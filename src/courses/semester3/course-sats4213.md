@@ -2,6 +2,8 @@
 title: SATS4213 – Pengumpulan dan Penyajian Data
 icon: fa-solid:file-alt
 order: 1
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2017/04/SATS4213-1.jpg"
+description: "Buku Materi Pokok (BMP) SATS4213 - Pengumpulan dan Penyajian Data"
 category:
   - Course
   - Semester 3

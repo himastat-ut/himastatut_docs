@@ -2,6 +2,8 @@
 title: SATS4310 – Statistika Pengawasan Kualitas
 icon: fa-solid:chart-line
 order: 1
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2020/07/STAT4215-1410x2000.jpg"
+description: "Buku Materi Pokok (BMP) SATS4310 - Statistika Pengawasan Kualitas"
 category:
   - Course
   - Semester 3

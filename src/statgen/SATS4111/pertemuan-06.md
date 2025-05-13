@@ -12,6 +12,11 @@ author:
 tags:
   - sigma
   - statgenclass2023
+  - Komputer 1
+  - Pengantar Bahasa R
+image: "./../statgen.png"
+index: true
+description: "StatGen Class 2023 - Komputer 1 (SATS4111) adalah program untuk memperkenalkan mahasiswa pada perangkat lunak R dan aplikasinya dalam analisis statistik."
 category: 
   - STATGEN
 --- 

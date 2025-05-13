@@ -2,6 +2,14 @@
 title: "Leveraging Student Benefits; Akses Gratis untuk Mahasiswa dengan Email Kampus dan Identitas Mahasiswa"
 date: 2025-04-30
 icon: user
+image: "./2025-05-04-leveraging-student-benefits/webinar-poster.jpg"
+description: "Webinar tentang pemanfaatan akses gratis untuk mahasiswa dengan email kampus dan identitas mahasiswa. Bergabunglah untuk mendapatkan wawasan baru!"
+tags:
+  - Webinar
+  - Student Benefits
+  - Mahasiswa
+  - Email Kampus
+  - Identitas Mahasiswa
 category:
   - Webinar
   - Statistika

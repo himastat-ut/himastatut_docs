@@ -9,6 +9,19 @@ author:
   - name: "Himastatut Docs"
     email: "himastatut@gmail.com"
     url: "https://himastatut.my.id/article/"
+category:
+  - SATS560
+  - Tuweb
+  - Karya Ilmiah
+tags:
+  - HIMASTAT
+  - SATS560
+  - Karya Ilmiah
+  - Statistika
+image: "./images/image.png"
+description: "Tuweb Karya Ilmiah SATS560 adalah program untuk memperdalam pemahaman mahasiswa dalam penulisan karya ilmiah, termasuk struktur, referensi, dan teknik penyusunan."
+index: true
+
 --- 
 
 # TUWEB – Karya Ilmiah (SATS560) Pertemuan 1

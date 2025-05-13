@@ -2,6 +2,14 @@
 title: "The 4th IWE International Webinar on Entrepreneurship"
 date: 2025-05-24
 icon: calendar
+image: "./2025-05-24-4th-iwe-international-webinar-on-entrepreneurship/poster.png"
+description: "The 4th International Webinar on Entrepreneurship - The Dynamics of Local to Global Entrepreneurship. Join us for insights on global entrepreneurship!"
+tags:
+  - International Webinar
+  - Entrepreneurship
+  - Global Entrepreneurship
+  - Local to Global
+  - Universitas Terbuka
 category:
   - Acara Kegiatan
   - Kewirausahaan

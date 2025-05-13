@@ -2,6 +2,8 @@
 title: SATS4322 – Pengantar Proses Stokastik
 icon: fa-solid:chart-line
 order: 1
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2020/07/SATS4322.jpg"
+description: "Buku Materi Pokok (BMP) SATS4322 - Pengantar Proses Stokastik"
 category:
   - Course
   - Semester 4

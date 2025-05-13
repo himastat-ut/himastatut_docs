@@ -2,6 +2,8 @@
 title: Himastatut Docs - Dokumentasi Kegiatan HIMASTAT
 index: true
 icon: book
+image: "./himastatut.png"
+description: "Himastatut Docs - Dokumentasi Kegiatan HIMASTAT"
 category:
   - Documentation
 author:

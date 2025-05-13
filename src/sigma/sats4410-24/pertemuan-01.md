@@ -11,6 +11,16 @@ author:
     url: "https://himastatut.my.id/article/"
 category:
   - SIGMA
+tags:
+  - HIMASTAT
+  - SIGMA
+  - Statistika
+  - Statistika Matematis
+  - Peluang
+  - Variabel Random
+image: "./../sigma.png"
+index: true
+description: "SIGMA - Pendalaman Materi Pengantar Statistika Matematis 1 (SATS4410 2024) adalah program untuk memperdalam pemahaman mahasiswa dalam mata kuliah Pengantar Statistika Matematis 1, khususnya pada topik Peluang dan Variabel Random serta Distribusinya."
 --- 
 
 # SIGMA - Pendalaman Materi Pengantar Statistika Matematis 1 (SATS4410 2024) Pertemuan 1

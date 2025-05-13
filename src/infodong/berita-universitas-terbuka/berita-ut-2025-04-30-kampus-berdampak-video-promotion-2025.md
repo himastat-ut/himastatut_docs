@@ -2,6 +2,13 @@
 title: "Dukung Kampus Berdampak Universitas Terbuka: Tonton dan Bagikan Video Lomba"
 date: 2025-04-30
 icon: video
+image: "./berita-universitas-terbuka.png"
+description: "Dukung Universitas Terbuka dalam lomba 'Kampus Berdampak' dengan menonton dan membagikan video yang telah disiapkan. Mari kita tunjukkan dukungan kita untuk UT!"
+tags:
+  - Kampus Berdampak
+  - Video Lomba
+  - Universitas Terbuka
+  - Media Sosial
 category:
   - Berita Universitas Terbuka
   - Info Dong

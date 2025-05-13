@@ -12,6 +12,13 @@ author:
   - name: "Himastatut Docs"
     email: "himastatut@gmail.com"
     url: "https://himastatut.my.id/article/"
+tags:
+  - TAKTIK
+  - HIMASTAT
+  - Kreativitas
+  - Kolaborasi
+image: "./../taktik.png"
+description: "TAKTIK adalah program yang dirancang untuk meningkatkan kreativitas dan daya saing di antara mahasiswa melalui berbagai kegiatan yang memfasilitasi kolaborasi, inovasi, dan pemecahan masalah secara tim."
 --- 
 
 # TAKTIK - Temu Aksi Kreatif untuk Tim dan Kompetisi

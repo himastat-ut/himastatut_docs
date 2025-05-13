@@ -2,6 +2,8 @@
 title: SATS4223 – Komputer 2
 icon: fa-solid:laptop
 order: 1
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2017/04/SATS4223.jpg"
+description: "Buku Materi Pokok (BMP) SATS4223 - Komputer 2"
 category:
   - Course
   - Semester 3

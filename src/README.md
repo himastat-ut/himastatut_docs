@@ -2,6 +2,21 @@
 home: true
 icon: house
 title: Home
+description: "Himastatut Docs adalah platform yang menyediakan informasi dan sumber daya terkait statistika, termasuk artikel, tutorial, dan program kerja Himpunan Mahasiswa Statistika Universitas Terbuka."
+keywords:
+  - himastatut
+  - himastatut docs
+  - himastatut ut
+  - himastatut universitas terbuka
+  - statistika
+  - statistika ut
+  - statistika universitas terbuka
+  - himpunan mahasiswa statistika
+  - himpunan mahasiswa statistika ut
+  - himpunan mahasiswa statistika universitas terbuka
+  - himastatut himpunan mahasiswa statistika
+  - himastatut himpunan mahasiswa statistika ut
+  - himastatut himpunan mahasiswa statistika universitas terbuka
 author:
   - name: "Firmansyah Mukti Wijaya"
     email: "ikimukti@gmail.com"

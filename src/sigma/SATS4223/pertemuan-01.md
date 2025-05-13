@@ -11,6 +11,15 @@ author:
     url: "https://himastatut.my.id/article/"
 category:
   - SIGMA
+tags:
+  - HIMASTAT
+  - SIGMA
+  - Statistika
+  - Pemrograman R
+  - Komputasi Saintifik
+image: "./../sigma.png"
+index: true
+description: "SIGMA - Pendalaman Materi Komputer 2 SATS4223 adalah program untuk memperdalam pemahaman mahasiswa dalam mata kuliah Komputer 2, khususnya pada topik Pemrograman R dan Komputasi Saintifik."
 --- 
 
 # SIGMA - Pendalaman Materi Komputer 2 (SATS4223) Pertemuan 1

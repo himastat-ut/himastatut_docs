@@ -11,6 +11,13 @@ author:
   - name: "Himastatut Docs"
     email: "himastatut@gmail.com"
     url: "https://himastatut.my.id/article/"
+tags:
+  - aljabar linear
+  - statgenclass2024
+  - SATS4122
+image: "./../statgen.png"
+description: "StatGen Class 3.0 - Aljabar Linear Terapan (SATS4122) adalah program untuk memperkenalkan mahasiswa pada konsep dasar aljabar linear dan aplikasinya dalam statistika."
+index: true
 --- 
 
 # Aljabar Linear Terapan (SATS4122) - STATGEN CLASS 3.0

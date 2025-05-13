@@ -2,6 +2,8 @@
 title: SATS4412 – Asuransi II
 icon: fa-solid:shield-virus
 order: 2
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2017/04/STAT4434.jpg"
+description: "Buku Materi Pokok (BMP) SATS4412 - Asuransi II"
 category:
   - Course
   - Semester 6

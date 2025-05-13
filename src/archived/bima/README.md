@@ -2,6 +2,15 @@
 title: Bincang Mahasiswa (BIMA)
 index: true
 icon: book
+date: 2025-04-07
+description: "Bincang Mahasiswa (BIMA) adalah kegiatan yang diadakan oleh Himpunan Mahasiswa Statistika Fakultas Sains dan Teknologi Universitas Terbuka (FST UT)."
+image: "./bima.png"
+tags:
+  - Bincang Mahasiswa
+  - BIMA
+  - Himpunan Mahasiswa Statistika
+  - Fakultas Sains dan Teknologi
+  - Universitas Terbuka
 author:
   - name: "Firmansyah Mukti Wijaya"
     email: "ikimukti@gmail.com"

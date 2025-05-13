@@ -2,6 +2,8 @@
 title: MATA4343 – Riset Operasional I
 icon: fa-solid:cogs
 order: 1
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2023/06/MATA4303.jpg"
+description: "Buku Materi Pokok (BMP) MATA4343 - Riset Operasional I"
 category:
   - Course
   - Semester 5

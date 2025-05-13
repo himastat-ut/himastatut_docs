@@ -15,6 +15,8 @@ author:
     email: "himastatut@gmail.com"
     url: "https://himastatut.my.id/article/"
 date: 2023-01-01
+description: "Karya Ilmiah (SATS4560) adalah mata kuliah yang bertujuan untuk membantu mahasiswa dalam menyusun dan mempublikasikan artikel ilmiah yang sesuai dengan ketentuan tertentu."
+image: "./images/image.png"
 --- 
 
 ## Karya Ilmiah (SATS4560)

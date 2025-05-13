@@ -1,6 +1,8 @@
 --- 
 title: LINK Edisi Januari 2025 - Lintasan Inspirasi Nurturing Kegiatan
 date: 2025-01-01
+image: "./link-januari-2025/link.jpg"
+description: "Pengalaman adalah guru terbaik dalam sebuah perjalanan. Mari menemukan makna perjalanan di bulan Januari ini dengan terus menggali potensi diri pada setiap kesempatan yang tersedia."
 author:
   - name: "Firmansyah Mukti Wijaya"
     email: "ikimukti@gmail.com"

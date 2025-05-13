@@ -2,6 +2,8 @@
 title: EKMA4116 – Manajemen
 icon: fa-solid:business-time
 order: 8
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2021/08/EKMA411603.jpg"
+description: "Buku Materi Pokok (BMP) EKMA4116 - Manajemen"
 category:
   - Course
   - Semester 8

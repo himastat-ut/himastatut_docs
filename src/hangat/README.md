@@ -2,6 +2,8 @@
 title: HANGAT (Hubungan Aktif dan Komunikasi Terpadu)
 index: true
 icon: comments
+image: "./hangat.png"
+description: "HANGAT adalah program komunikasi aktif dan terintegrasi untuk mahasiswa Statistika."
 category:
   - HANGAT
 author:

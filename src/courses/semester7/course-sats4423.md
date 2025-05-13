@@ -2,6 +2,8 @@
 title: SATS4423 – Analisis Runtun Waktu
 icon: fa-solid:hourglass-start
 order: 7
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2017/01/SATS4423.jpg"
+description: "Buku Materi Pokok (BMP) SATS4423 - Analisis Runtun Waktu"
 category:
   - Course
   - Semester 7

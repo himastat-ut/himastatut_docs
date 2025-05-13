@@ -1,7 +1,15 @@
 ---
 title: Sosialisasi Program Kreativitas Mahasiswa (PKM) dan Program Pembinaan Mahasiswa Wirausaha (P2MW) 2025  
 date: 2025-05-04  
-icon: calendar  
+icon: calendar
+image: "./2025-05-05-pkm-p2mw-sosialisasi/surat.jpg"
+description: "Sosialisasi Program Kreativitas Mahasiswa (PKM) dan Program Pembinaan Mahasiswa Wirausaha (P2MW) 2025 untuk mahasiswa Statistika Universitas Terbuka."
+tags:  
+  - Sosialisasi  
+  - PKM  
+  - P2MW  
+  - Mahasiswa Statistika  
+  - Universitas Terbuka 
 category:  
   - Acara Kegiatan  
   - Mahasiswa Statistika  

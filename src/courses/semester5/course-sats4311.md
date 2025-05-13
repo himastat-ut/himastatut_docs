@@ -2,6 +2,8 @@
 title: SATS4311 – Asuransi I
 icon: fa-solid:shield-virus
 order: 1
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2017/04/STAT4331.jpg"
+description: "Buku Materi Pokok (BMP) SATS4311 - Asuransi I"
 category:
   - Course
   - Semester 5

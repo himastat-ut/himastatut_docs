@@ -12,6 +12,12 @@ author:
 tags:
   - boxplot
   - statgenclass2023
+  - sigma 
+  - SATS4121
+  - Metode Statistik 1
+image: "./../statgen.png"
+index: true
+description: "StatGen Class 2023 - Metode Statistik 1 (SATS4121) adalah program untuk memperkenalkan mahasiswa pada konsep dasar statistika dan metode-metode statistika yang diterapkan dalam berbagai bidang."
 category: 
   - STATGEN
 --- 

@@ -12,6 +12,10 @@ author:
 tags:
   - statistika
   - statgenclass2024
+  - SATS4213
+image: "./../statgen.png"
+description: "StatGen Class 2.0 - Pengumpulan & Penyajian Data (SATS4213) adalah program untuk memperkenalkan mahasiswa pada konsep dasar pengumpulan dan penyajian data serta aplikasinya dalam statistika."
+index: true
 category: 
 - STATGEN
 --- 

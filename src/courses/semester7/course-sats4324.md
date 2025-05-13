@@ -2,6 +2,8 @@
 title: SATS4324 – Inferensi Bayesian
 icon: fa-solid:calculator
 order: 6
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2017/01/SATS4324.jpg"
+description: "Buku Materi Pokok (BMP) SATS4324 - Inferensi Bayesian"
 category:
   - Course
   - Semester 7

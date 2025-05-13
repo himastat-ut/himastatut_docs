@@ -1,6 +1,8 @@
 ---
 title: Wisuda Apresiasi - Periode 2024.1 & 2024.2
 date: 2024-05-01
+description: "Selamat untuk semua Wisudawan Program Studi Statistika Universitas Terbuka yang telah berhasil menyelesaikan perjalanan luar biasa ini! Perjalanan kalian tak hanya mengakhiri satu babak, tapi membuka pintu-pintu kesempatan baru yang menantang di dunia profesional."
+image: "./gemas04-wisuda-apresiasi-2024/event-photo.jpg"
 author:
   - name: "Firmansyah Mukti Wijaya"
     email: "ikimukti@gmail.com"

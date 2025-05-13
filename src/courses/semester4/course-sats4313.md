@@ -2,6 +2,8 @@
 title: SATS4313 – Demografi
 icon: fa-solid:users
 order: 1
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2017/01/SATS4313.jpg"
+description: "Buku Materi Pokok (BMP) SATS4313 - Demografi"
 category:
   - Course
   - Semester 4

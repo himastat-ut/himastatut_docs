@@ -2,6 +2,14 @@
 title: "Program Kreativitas Mahasiswa (PKM) Tahun 2025 Penerimaan Proposal PKM"
 date: 2025-05-02
 icon: lightbulb
+image: "./2025-05-02-acara-kegiatan-pkm/pkm-2025-poster.png"
+description: "Program Kreativitas Mahasiswa (PKM) Tahun 2025 telah dibuka untuk penerimaan proposal yang dimulai dari 2 Mei 2025 hingga 2 Juni 2025. PKM adalah program tahunan yang bertujuan untuk mengembangkan ide-ide kreatif, inovatif, dan solutif mahasiswa."
+tags:
+  - PKM
+  - Program Kreativitas Mahasiswa
+  - Sosialisasi
+  - Proposal
+  - Mahasiswa
 category:
   - PKM
   - Program Kreativitas Mahasiswa

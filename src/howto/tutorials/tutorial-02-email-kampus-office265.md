@@ -1,6 +1,14 @@
 --- 
 title: Aktivasi dan Penggunaan Office 365 dengan Email Kampus UT
 date: 2024-04-02
+image: "./tutorial02.png"
+description: "Panduan langkah-demi-langkah untuk mengaktifkan dan menggunakan Office 365 dengan email kampus UT."
+tags:
+  - Office 365
+  - Email Kampus
+  - Microsoft
+  - Tutorial
+  - Panduan
 category:
   - How To
   - Tutorials

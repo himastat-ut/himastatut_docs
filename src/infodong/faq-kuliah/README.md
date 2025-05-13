@@ -2,6 +2,15 @@
 title: FAQ Kuliah - Program Studi Statistika Universitas Terbuka
 index: true
 icon: fa-solid:question-circle
+image: "./faq-kuliah.png"
+date: 2025-04-07
+description: "Halaman ini menyajikan informasi yang paling sering ditanyakan oleh mahasiswa Program Studi Statistika di Universitas Terbuka (UT)."
+tags:
+  - FAQ
+  - Kuliah
+  - Universitas Terbuka
+  - Program Studi Statistika
+  - Info Dong
 category:
   - FAQ Kuliah
 author:

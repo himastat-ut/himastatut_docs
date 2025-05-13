@@ -2,6 +2,8 @@
 title: Pendidikan Agama Islam
 icon: fa-solid:book-open
 order: 1
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2025/01/MKWN4101.webp"
+description: "Buku Materi Pokok (BMP) MKWN4101 - Pendidikan Agama Islam"
 category:
   - Course
   - Semester 3

@@ -2,6 +2,8 @@
 title: MKWU4108 – Bahasa Indonesia
 icon: fa-solid:book
 order: 1
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2022/02/MKWU410802.jpeg"
+description: "Buku Materi Pokok (BMP) MKWU4108 - Bahasa Indonesia"
 category:
   - Course
   - Semester 2

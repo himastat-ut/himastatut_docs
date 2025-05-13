@@ -2,6 +2,8 @@
 title: SATS4122 – Aljabar Linear Terapan
 icon: fa-solid:infinity
 order: 1
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2017/01/SATS4122.jpg"
+description: "Buku Materi Pokok (BMP) SATS4122 - Aljabar Linear Terapan"
 category:
   - Course
   - Semester 3

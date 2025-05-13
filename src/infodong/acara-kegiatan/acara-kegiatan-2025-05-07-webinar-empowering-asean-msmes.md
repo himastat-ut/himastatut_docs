@@ -2,6 +2,14 @@
 title: Webinar Series Empowering ASEAN MSMEs for Sustainability - 7 Mei 2025
 date: 2025-04-28
 icon: microphone
+image: "./2025-05-07-empowering-asean-msmes/webinar-poster.png"
+description: "Webinar Internasional tentang pemberdayaan UMKM ASEAN untuk keberlanjutan. Bergabunglah untuk mendapatkan wawasan dari para ahli di bidangnya."
+tags:
+  - Webinar
+  - MSMEs ASEAN
+  - Keberlanjutan
+  - Info Dong
+  - Acara Kegiatan
 category:
   - Webinar
   - MSMEs ASEAN

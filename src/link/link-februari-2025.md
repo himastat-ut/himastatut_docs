@@ -1,6 +1,8 @@
 --- 
 title: LINK Edisi Februari 2025 - Lintasan Inspirasi Nurturing Kegiatan
 date: 2025-02-01
+image: "./link-februari-2025/link.png"
+description: "Februari adalah bulan penuh peluang untuk terus mengasah diri dan meraih kesuksesan. Di bulan ini, mari kita sambut kesempatan untuk berprestasi dan mengeksplorasi berbagai kegiatan yang akan membawa kita lebih dekat ke tujuan."
 author:
   - name: "Firmansyah Mukti Wijaya"
     email: "ikimukti@gmail.com"

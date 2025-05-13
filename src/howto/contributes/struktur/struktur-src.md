@@ -2,6 +2,8 @@
 title: Struktur Folder di src - Himastatut Docs
 index: true
 icon: fa-solid:file-alt
+image: "./../contribute.png"
+description: "Panduan lengkap mengenai struktur folder di dalam src pada Himastatut Docs."
 category:
   - How To
   - Docs

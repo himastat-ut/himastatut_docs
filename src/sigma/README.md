@@ -3,6 +3,13 @@ title: Solusi Program Studi Statistika Meningkatkan Akademik Mahasiswa (SIGMA)
 index: true
 icon: calculator
 date: 2023-11-05
+description: "SIGMA - Solusi Program Studi Statistika Meningkatkan Akademik Mahasiswa adalah program untuk meningkatkan pemahaman mahasiswa dalam mata kuliah yang dianggap sulit."
+image: "./sigma.png"
+tags:
+  - HIMASTAT
+  - SIGMA
+  - Matematika
+  - Transformasi Laplace
 author:
   - name: "Firmansyah Mukti Wijaya"
     email: "ikimukti@gmail.com"

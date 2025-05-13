@@ -11,6 +11,14 @@ author:
     url: "https://himastatut.my.id/article/"
 category:
   - SIGMA
+tags:
+  - HIMASTAT
+  - SIGMA
+  - Matematika
+  - Penyelesaian Persamaan Diferensial
+image: "./../sigma.png"
+index: true
+description: "SIGMA - Pendalaman Materi Matematika III SATS4220 adalah program untuk memperdalam pemahaman mahasiswa dalam mata kuliah Matematika III, khususnya pada topik Penyelesaian Persamaan Diferensial."
 --- 
 
 # SIGMA - Pendalaman Materi Matematika III (SATS4220) Pertemuan 3

@@ -2,6 +2,8 @@
 title: Semester 3
 icon: fa-solid:calendar-day
 order: 3
+image: "./semester.png"
+description: "Semester 3 pada program ini memberikan pemahaman yang lebih dalam dalam berbagai topik ilmu dasar serta aplikasi teknis dan konseptual di berbagai bidang."
 category:
   - Course
   - Semester 3

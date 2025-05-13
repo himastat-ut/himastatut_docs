@@ -11,6 +11,15 @@ author:
     url: "https://himastatut.my.id/article/"
 category:
   - SIGMA
+tags:
+  - HIMASTAT
+  - SIGMA
+  - Statistika
+  - Statistika Matematis
+  - Penaksiran Titik
+image: "./../sigma.png"
+index: true
+description: "SIGMA - Pendalaman Materi Pengantar Statistika Matematis I SATS4410 adalah program untuk memperdalam pemahaman mahasiswa dalam mata kuliah Pengantar Statistika Matematis I, khususnya pada topik Penaksiran Titik dan Evaluasi Kriteria Penaksir."
 --- 
 
 # SIGMA – Pendalaman Materi Pengantar Statistika Matematis I (SATS4410)

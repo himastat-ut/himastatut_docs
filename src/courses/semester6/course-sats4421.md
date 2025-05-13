@@ -2,6 +2,8 @@
 title: SATS4421 – Metode Statistika Multivariat (Edisi 2)
 icon: fa-solid:project-diagram
 order: 4
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2020/07/SATS442102.jpg"
+description: "Buku Materi Pokok (BMP) SATS4421 - Metode Statistika Multivariat"
 category:
   - Course
   - Semester 6

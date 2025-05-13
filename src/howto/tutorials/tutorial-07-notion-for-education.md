@@ -1,6 +1,17 @@
 ---
 title: Mendaftar Notion untuk Notion Plus Plan for Education
 date: 2025-04-22
+image: "./../tutorials.png"
+description: "Panduan lengkap untuk mendaftar Notion Plus Plan for Education bagi mahasiswa dan pendidik."
+tags:
+  - Notion
+  - Notion Plus Plan
+  - Notion for Education
+  - Mahasiswa
+  - Statistika
+  - Pendidikan
+  - Alat Pendidikan
+  - Manajemen Proyek
 category:
   - How To
   - Tutorials

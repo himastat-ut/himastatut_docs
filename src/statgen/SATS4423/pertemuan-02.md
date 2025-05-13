@@ -13,7 +13,10 @@ tags:
   - statistika
   - statgenclass2024
 category: 
-- STATGEN
+  - STATGEN
+image: "./../statgen.png"
+description: "StatGen Class 2.0 - Analisis Runtun Waktu (SATS4423) adalah program untuk memperkenalkan mahasiswa pada konsep dasar analisis runtun waktu dan aplikasinya dalam statistika."
+index: true
 --- 
 
 # Analisis Runtun Waktu (SATS4423) Pertemuan 2

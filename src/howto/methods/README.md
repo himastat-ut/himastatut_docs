@@ -2,6 +2,9 @@
 title: Methods - Metodologi Statistik untuk Mahasiswa
 index: true
 icon: brain
+image: "./methods.png"
+date: 2025-04-07
+description: "Panduan lengkap mengenai struktur folder di dalam src pada Himastatut Docs."
 category:
   - How To
   - Methods

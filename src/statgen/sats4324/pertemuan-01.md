@@ -16,6 +16,9 @@ tags:
 category:
   - STATGEN
   - Inferensi Bayesian
+image: "./../statgen.png"
+description: "StatGen Class 4.0 - Pengantar Inferensi Bayesian (SATS4324) adalah program untuk memperkenalkan mahasiswa pada konsep dasar inferensi bayesian dan aplikasinya dalam analisis data."
+index: true
 ---
 
 # **SATS4324 - Pertemuan 1: Pengantar Inferensi Bayesian**

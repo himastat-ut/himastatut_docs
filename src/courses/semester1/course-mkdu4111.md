@@ -2,6 +2,8 @@
 title: MKDU4111 – Pendidikan Kewarganegaraan
 icon: fa-solid:flag
 order: 1
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2021/01/MKDU411103.jpg"
+description: "Buku Materi Pokok (BMP) MKDU4111 - Pendidikan Kewarganegaraan"
 category:
   - Course
   - Semester 1

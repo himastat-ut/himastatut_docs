@@ -2,6 +2,8 @@
 title: SATS4121 – Metode Statistik 1
 icon: fa-solid:chart-area
 order: 1
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2019/07/SATS412102.jpg"
+description: "Buku Materi Pokok (BMP) SATS4121 - Metode Statistik 1"
 category:
   - Course
   - Semester 1

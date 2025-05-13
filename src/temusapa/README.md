@@ -4,7 +4,21 @@ index: true
 icon: book
 category:
   - Archive
---- 
+date: 2024-05-05
+author:
+  - name: "Firmansyah Mukti Wijaya"
+    email: "ikimukti@gmail.com"
+    url: "https://ikimukti.com"
+  - name: "Himastatut Docs"
+    email: "himastatut@gmail.com"
+    url: "https://himastatut.my.id/article/"
+tags:
+  - statistika
+  - temu sapa
+image: "./temusapa.png"
+description: "Temu Sapa Online adalah program rutin yang diselenggarakan oleh Program Studi Statistika Fakultas Sains dan Teknologi Universitas Terbuka (FST UT) untuk mempererat hubungan antara dosen, mahasiswa, dan alumni."
+
+---
 
 # Temu Sapa Online Mahasiswa Statistika FST UT
 

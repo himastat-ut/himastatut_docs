@@ -2,6 +2,8 @@
 title: SATS4211 – Metode Statistik 2
 icon: fa-solid:chart-line
 order: 1
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2017/01/SATS4211.jpg"
+description: "Buku Materi Pokok (BMP) SATS4211 - Metode Statistik 2"
 category:
   - Course
   - Semester 2

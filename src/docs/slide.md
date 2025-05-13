@@ -2,6 +2,8 @@
 title: Himastatut Docs Presentation
 date: 2025-03-25
 icon: book
+image: "./himastatut.png"
+description: "Himastatut Docs adalah platform dokumentasi resmi dari Himpunan Mahasiswa Statistika Universitas Terbuka (HIMASTAT)."
 category: 
   - Documentation
 tags:

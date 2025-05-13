@@ -1,6 +1,15 @@
 ---
 title: Pamit Pengurus HIMASTAT 2023/2024
 index: true
+image: "./pamit2023/1.jpg"
+description: "Selamat tinggal untuk pengurus HIMASTAT 2023/2024! Terima kasih atas dedikasi dan kerja keras kalian. Mari kita kenang momen-momen berharga bersama."
+tags:
+  - Pamit
+  - HIMASTAT
+  - Pengurus
+  - Universitas Terbuka
+  - Info Dong
+date: 2024-08-01
 icon: handshake
 category:
   - Berita HIMASTAT

@@ -1,6 +1,17 @@
 ---
 title: Mendaftar JetBrains Educational Pack untuk Mahasiswa Statistika
 date: 2025-04-22
+image: "./../tutorials.png"
+description: "Panduan lengkap untuk mendaftar JetBrains Educational Pack bagi mahasiswa statistika."
+tags:
+  - JetBrains
+  - Educational Pack
+  - Mahasiswa Statistika
+  - Software Statistik
+  - IDE
+  - Python
+  - DataGrip
+  - IntelliJ IDEA
 category:
   - How To
   - Tutorials

@@ -2,6 +2,8 @@
 title: MKWU4105 – Pendidikan Agama Hindu
 icon: fa-solid:praying-hands
 order: 1
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2022/02/MKWU4105.jpeg"
+description: "Buku Materi Pokok (BMP) MKWU4105 - Pendidikan Agama Hindu"
 category:
   - Course
   - Semester 3

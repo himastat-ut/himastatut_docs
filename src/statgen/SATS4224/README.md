@@ -11,6 +11,13 @@ author:
   - name: "Himastatut Docs"
     email: "himastatut@gmail.com"
     url: "https://himastatut.my.id/article/"
+tags:
+  - sosiometri
+  - statgenclass2024
+  - SATS4224
+image: "./../statgen.png"
+description: "StatGen Class 3.0 - Pengantar Sosiometri (SATS4224) adalah program untuk memperkenalkan mahasiswa pada konsep dasar sosiometri dan aplikasinya dalam analisis hubungan sosial."
+index: true
 --- 
 
 # Pengantar Sosiometri (SATS4224) - STATGEN CLASS 3.0

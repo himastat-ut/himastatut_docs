@@ -2,6 +2,8 @@
 title: SATS4410 – Pengantar Statistika Matematis 1
 icon: fa-solid:chart-line
 order: 4
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2017/01/SATS4410.jpg"
+description: "Buku Materi Pokok (BMP) SATS4410 - Pengantar Statistika Matematis 1"
 category:
   - Course
   - Semester 5

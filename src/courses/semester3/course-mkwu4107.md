@@ -2,6 +2,8 @@
 title: MKWU4107 – Pendidikan Agama Khonghucu
 icon: fa-solid:praying-hands
 order: 1
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2022/02/MKWU4107.jpeg"
+description: "Buku Materi Pokok (BMP) MKWU4107 - Pendidikan Agama Khonghucu"
 category:
   - Course
   - Semester 3

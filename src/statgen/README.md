@@ -14,6 +14,12 @@ author:
     url: "https://himastatut.my.id/article/"
 category:
   - STATGEN
+tags:
+  - HIMASTAT
+  - STATGEN
+  - Statistika
+image: "./statgen.png"
+description: "StatGen - Statistics Genius Class adalah program yang diselenggarakan oleh Program Studi Statistika Universitas Terbuka (UT) untuk meningkatkan pemahaman mahasiswa mengenai konsep-konsep statistika melalui kegiatan pembelajaran yang interaktif."
 --- 
 
 # StatGen - Statistics Genius Class

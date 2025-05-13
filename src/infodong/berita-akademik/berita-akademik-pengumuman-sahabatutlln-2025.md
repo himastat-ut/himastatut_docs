@@ -2,6 +2,14 @@
 title: "Kabar Gembira! Kini Anda Bisa Menentukan Jadwal Ujian dengan Aplikasi SahabatUTLLN"
 date: 2025-05-01
 icon: calendar
+image: "./shabatutlln/pengumuman.jpg"
+description: "Universitas Terbuka (UT) Layanan Luar Negeri memberikan kabar gembira bagi mahasiswa yang mengalami kendala mengikuti Ujian Akhir Semester (UAS). Kini Anda bisa menentukan jadwal ujian dengan aplikasi SahabatUTLLN."
+tags:
+  - SahabatUTLLN
+  - Ujian
+  - UT
+  - Universitas Terbuka
+  - Berita Akademik
 category:
   - Berita Akademik
   - UT

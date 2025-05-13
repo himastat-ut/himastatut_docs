@@ -2,6 +2,8 @@
 title: MKWU4104 – Pendidikan Agama Buddha
 icon: fa-solid:praying-hands
 order: 1
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2022/02/MKWU4104.jpg"
+description: "Buku Materi Pokok (BMP) MKWU4104 - Pendidikan Agama Buddha"
 category:
   - Course
   - Semester 3

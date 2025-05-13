@@ -2,6 +2,8 @@
 title: ESPA4111 – Pengantar Ekonomi Mikro
 icon: fa-solid:chart-line
 order: 9
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2022/02/ESPA411103.jpg"
+description: "Buku Materi Pokok (BMP) ESPA4111 - Pengantar Ekonomi Mikro"
 category:
   - Course
   - Semester 8

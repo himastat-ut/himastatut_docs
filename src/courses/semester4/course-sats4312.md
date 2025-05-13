@@ -2,6 +2,8 @@
 title: SATS4312 – Model Linear Terapan
 icon: fa-solid:calculator
 order: 1
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2017/04/SATS4312.jpg"
+description: "Buku Materi Pokok (BMP) SATS4312 - Model Linear Terapan"
 category:
   - Course
   - Semester 4

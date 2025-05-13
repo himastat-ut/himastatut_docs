@@ -12,6 +12,10 @@ author:
 tags:
   - statistika
   - statgenclass2024
+  - SATS4212
+image: "./../statgen.png"
+description: "StatGen Class 2.0 - Analisis Data Statistik (SATS4212) adalah program untuk memperkenalkan mahasiswa pada konsep dasar analisis data statistik dan aplikasinya dalam statistika."
+index: true
 category: 
 - STATGEN
 --- 

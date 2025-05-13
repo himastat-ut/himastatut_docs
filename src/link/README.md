@@ -2,6 +2,15 @@
 title: LINK (Lintasan Inspirasi Nurturing Kegiatan)
 index: true
 icon: users
+image: "./link.png"
+description: "Program LINK (Lintasan Inspirasi Nurturing Kegiatan) bertujuan untuk mengumpulkan mahasiswa dan mempersiapkan mereka untuk berpartisipasi dalam kompetisi yang berhubungan dengan statistik. Fokus pada pembentukan tim, pelatihan intensif, dan kolaborasi antar mahasiswa."
+tags:
+  - LINK
+  - Lintasan Inspirasi
+  - Nurturing Kegiatan
+  - HIMASTAT
+  - Universitas Terbuka
+  - Info Dong
 category:
   - LINK
 date: 2025-03-16

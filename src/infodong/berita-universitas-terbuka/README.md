@@ -1,6 +1,13 @@
 --- 
-title: Berita Universitas Terbuka
+title: Berita UT -  Informasi terkini mengenai Universitas Terbuka
 index: true
+date: 2025-04-07 
+image: "./berita-universitas-terbuka.png"
+description: "Halaman ini menyajikan berita dan informasi terkini mengenai Universitas Terbuka, termasuk pengumuman, kegiatan, dan berita akademik."
+tags:
+  - Berita
+  - Universitas Terbuka
+  - Info Dong
 icon: school-circle-check
 category:
   - Berita Akademik

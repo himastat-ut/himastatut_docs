@@ -1,6 +1,8 @@
 --- 
 title: Himastat Penghargaan - Periode Desember 2024
 date: 2024-12-01
+description: "Penghargaan untuk Mahasiswa Berprestasi Universitas Terbuka"
+image: "./gemas01-penghargaan-122024/event-photo.jpg"
 author:
   - name: "Firmansyah Mukti Wijaya"
     email: "ikimukti@gmail.com"

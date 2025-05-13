@@ -2,6 +2,8 @@
 title: SATS4210 – Matematika 2
 icon: fa-solid:calculator
 order: 1
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2022/10/SATS421002.jpg"
+description: "Buku Materi Pokok (BMP) SATS4210 - Matematika 2"
 category:
   - Course
   - Semester 3

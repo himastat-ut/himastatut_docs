@@ -3,6 +3,15 @@ title: Skema dan Sifat Ujian Statistika UT 2024
 index: true
 date: 2025-04-20
 icon: book
+image: "./skema-ujian-2024/1.jpg"
+description: "Informasi lengkap mengenai skema dan sifat ujian untuk mahasiswa Program Studi Statistika Universitas Terbuka tahun 2024." 
+tags:
+  - Ujian
+  - Statistika
+  - Universitas Terbuka
+  - HIMASTAT
+  - Berita Akademik
+  - Info Dong
 category:
   - Berita Akademik
   - Info Dong

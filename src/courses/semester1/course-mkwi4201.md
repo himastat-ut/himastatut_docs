@@ -2,6 +2,8 @@
 title: MKWI4201 – Bahasa Inggris
 icon: fa-solid:language
 order: 1
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2022/02/MKWI4201.jpg"
+description: "Buku Materi Pokok (BMP) MKWI4201 - Bahasa Inggris"
 category:
   - Course
   - Semester 1

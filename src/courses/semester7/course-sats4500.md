@@ -2,6 +2,8 @@
 title: SATS4500 – Tugas Akhir Program (TAP)
 icon: fa-solid:graduation-cap
 order: 8
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2023/01/SATS4500.jpg"
+description: "Buku Materi Pokok (BMP) SATS4500 - Tugas Akhir Program"
 category:
   - Course
   - Semester 7

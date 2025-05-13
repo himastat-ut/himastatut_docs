@@ -14,6 +14,9 @@ tags:
   - statgenclass2024
 category: 
 - STATGEN
+image: "./../statgen.png"
+description: "StatGen Class 2.0 - Metode Statistika II (SATS4211) adalah program untuk memperkenalkan mahasiswa pada konsep dasar metode statistika dan aplikasinya dalam analisis data."
+index: true
 --- 
 
 # Metode Statistika II (SATS4211) Pertemuan 1

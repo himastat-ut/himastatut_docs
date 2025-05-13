@@ -2,6 +2,14 @@
 title: Webinar Series Perempuan Inspiratif - "Break The Limit; Perempuan Berkarya Tanpa Batas di Era - 25 April 2025"
 date: 2025-04-21
 icon: microphone
+image: "./2025-04-25-webinar-perempuan-inspiratif/poster-webinar.png"
+description: "Webinar Series Perempuan Inspiratif - 'Break The Limit: Perempuan Berkarya Tanpa Batas di Era Modern'. Bergabunglah untuk mendengarkan wawasan dari dua tokoh perempuan luar biasa."
+tags:
+  - Webinar
+  - Perempuan Inspiratif
+  - Break The Limit
+  - Perempuan Berkarya
+  - Era Modern
 category:
   - Webinar
   - Perempuan Inspiratif

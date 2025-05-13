@@ -11,6 +11,16 @@ author:
     url: "https://himastatut.my.id/article/"
 category:
   - SIGMA
+tags:
+  - HIMASTAT
+  - SIGMA
+  - Statistika
+  - Statistika Nonparametrik
+  - Uji McNemar
+  - Uji Wilcoxon
+image: "./../sigma.png"
+index: true
+description: "SIGMA - Pendalaman Materi Metode Statistika Nonparametrik (SATS4411) adalah program untuk memperdalam pemahaman mahasiswa dalam mata kuliah Metode Statistika Nonparametrik, khususnya pada topik Uji McNemar dan Uji Wilcoxon."
 --- 
 
 # SIGMA - Pendalaman Materi Metode Statistika Nonparametrik (SATS4411) Pertemuan 2

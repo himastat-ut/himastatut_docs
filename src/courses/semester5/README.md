@@ -2,6 +2,8 @@
 title: Semester 5
 icon: fa-solid:calendar-day
 order: 5
+image: "./semester.png"
+description: "Semester 5 dalam program ini memberikan mahasiswa kesempatan untuk mendalami lebih jauh ilmu statistik, matematika, dan teknik pengambilan keputusan dalam berbagai bidang, serta mengasah keterampilan dalam analisis data yang lebih kompleks."
 category:
   - Course
   - Semester 5

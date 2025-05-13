@@ -2,6 +2,14 @@
 title: "Pendaftaran Mahasiswa Baru Universitas Terbuka Semester 2025/2026 Ganjil Dibuka!"
 date: 2025-05-08
 icon: calendar
+image: "./pendaftaran-ut-2025/1.jpg"
+description: "Pendaftaran mahasiswa baru Universitas Terbuka untuk Semester 2025/2026 Ganjil telah dibuka. Dapatkan informasi lengkap mengenai pendaftaran, program studi, dan cara mendaftar."
+tags:
+  - Pendaftaran
+  - Universitas Terbuka
+  - UT
+  - Mahasiswa Baru
+  - Berita Akademik
 category:
   - Berita Akademik
   - UT

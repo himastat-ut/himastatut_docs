@@ -1,6 +1,14 @@
 ---
 title: Mendaftar Figma Education Plan untuk Mahasiswa Statistika
 date: 2025-04-22
+image: "./../tutorials.png"
+description: "Panduan lengkap untuk mendaftar Figma Education Plan bagi mahasiswa statistika."
+tags:
+  - Figma
+  - Education Plan
+  - Mahasiswa Statistika
+  - Software Desain
+  - UI/UX
 category:
   - How To
   - Tutorials

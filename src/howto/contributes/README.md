@@ -2,6 +2,8 @@
 title: How to Contribute - Berkontribusi untuk Pengembangan Himastatut Docs
 index: true
 icon: user-plus
+image: "./contribute.png"
+description: "Panduan untuk berkontribusi dalam pengembangan Himastatut Docs, platform dokumentasi resmi HIMASTAT."
 category:
   - How To
   - Contributes

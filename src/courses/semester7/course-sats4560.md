@@ -2,6 +2,8 @@
 title: SATS4560 – Karya Ilmiah
 icon: fa-solid:book
 order: 7
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2023/01/SATS4560.jpg"
+description: "Buku Materi Pokok (BMP) SATS4560 - Karya Ilmiah"
 category:
   - Course
   - Semester 7

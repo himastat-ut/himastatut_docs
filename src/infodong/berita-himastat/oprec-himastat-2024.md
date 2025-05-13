@@ -2,6 +2,14 @@
 title: Open Recruitment HIMASTAT 2024/2025
 index: true
 icon: phone
+date: 2024-08-01
+image: "./oprec2024/1.jpg"
+description: "Bergabunglah dengan HIMASTAT dan kembangkan potensimu! Open Recruitment HIMASTAT 2024/2025 dibuka untuk mahasiswa aktif Program Studi Statistika UT."
+tags:
+  - Open Recruitment
+  - HIMASTAT
+  - Universitas Terbuka
+  - Info Dong
 category:
   - Berita HIMASTAT
   - Info Dong

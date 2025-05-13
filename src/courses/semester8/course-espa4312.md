@@ -2,6 +2,8 @@
 title: ESPA4312 – Ekonometrika
 icon: fa-solid:calculator
 order: 11
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2016/08/espa431202.jpg"
+description: "Buku Materi Pokok (BMP) ESPA4312 - Ekonometrika"
 category:
   - Course
   - Semester 8

@@ -2,6 +2,14 @@
 title: Seminar Nasional Teknologi Energi 2025 - "Inovasi Teknologi Energi Terbarukan untuk Masa Depan Berkelanjutan"
 date: 2025-04-30
 icon: bolt
+image: "./2025-06-15-seminar-teknologi-energi/poster-seminar-teknologi-energi.jpg"
+description: "Seminar Nasional Teknologi Energi 2025 membahas inovasi teknologi energi terbarukan untuk masa depan berkelanjutan. Bergabunglah untuk mendapatkan wawasan dari para ahli di bidang energi."
+tags:
+  - Seminar
+  - Teknologi
+  - Energi
+  - Info Dong
+  - Acara Kegiatan
 category:
   - Seminar
   - Teknologi

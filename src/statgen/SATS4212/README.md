@@ -11,6 +11,13 @@ author:
   - name: "Himastatut Docs"
     email: "himastatut@gmail.com"
     url: "https://himastatut.my.id/article/"
+tags:
+  - statistika
+  - statgenclass2024
+  - SATS4212
+image: "./../statgen.png"
+description: "StatGen Class 2.0 - Analisis Data Statistik (SATS4212) adalah program untuk memperkenalkan mahasiswa pada konsep dasar analisis data statistik dan aplikasinya dalam statistika."
+index: true
 --- 
 
 # Analisis Data Statistik (SATS4212)

@@ -2,6 +2,13 @@
 title: Pendalaman Materi Matematika III SATS4220
 icon: calculator
 date: 2023-09-11
+description: "SIGMA - Pendalaman Materi Matematika III SATS4220 adalah program untuk memperdalam pemahaman mahasiswa dalam mata kuliah Matematika III, khususnya pada topik Transformasi Laplace."
+tags:
+  - HIMASTAT
+  - SIGMA
+  - Matematika
+  - Transformasi Laplace
+image: "./../sigma.png"
 author:
   - name: "Firmansyah Mukti Wijaya"
     email: "ikimukti@gmail.com"

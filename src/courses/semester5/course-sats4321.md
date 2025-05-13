@@ -2,6 +2,8 @@
 title: SATS4321 – Metode Sampling
 icon: fa-solid:filter
 order: 2
+image: "https://pustaka.ut.ac.id/lib/wp-content/uploads/2020/09/SATS432102.jpg"
+description: "Buku Materi Pokok (BMP) SATS4321 - Metode Sampling"
 category:
   - Course
   - Semester 5

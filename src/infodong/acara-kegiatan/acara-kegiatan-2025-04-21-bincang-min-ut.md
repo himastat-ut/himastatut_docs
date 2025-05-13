@@ -2,6 +2,14 @@
 title: Bincang bersama MinUT Episode 78 - "Tokoh Perempuan Penoreh Sejarah Perjalanan UT 25 April 2025"
 date: 2025-04-21
 icon: microphone
+image: "./2025-04-25-bincang-min-ut78/poster-acara-bincang78.jpg"
+description: "Bincang bersama MinUT Episode 78 - Tokoh Perempuan Penoreh Sejarah Perjalanan UT pada tanggal 25 April 2025. Bergabunglah dalam IG Live untuk mendengarkan kisah inspiratif dari para perempuan hebat di Universitas Terbuka."
+tags:
+  - Bincang bersama MinUT
+  - Tokoh Perempuan
+  - Sejarah Perjalanan UT
+  - IG Live
+  - Talkshow
 category:
   - IG Live
   - Talkshow

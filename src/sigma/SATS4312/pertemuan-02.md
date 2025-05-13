@@ -11,6 +11,15 @@ author:
     url: "https://himastatut.my.id/article/"
 category:
   - SIGMA
+tags:
+  - HIMASTAT
+  - SIGMA
+  - Statistika
+  - Regresi Linear
+  - Regresi Logistik
+image: "./../sigma.png"
+index: true
+description: "SIGMA - Model Linear Terapan SATS4312 adalah program untuk memperdalam pemahaman mahasiswa dalam mata kuliah Model Linear Terapan, khususnya pada topik Regresi Linear dengan Variabel Indikator dan Model Regresi dengan Variabel Respon Indikator."
 --- 
 
 # SIGMA – Model Linear Terapan (SATS4312) Pertemuan 2
