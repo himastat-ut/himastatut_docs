@@ -60,7 +60,7 @@ Pada acara ini, **FST UT** akan mengupas tuntas **Kurikulum Baru 2025**, yang ak
 - **Kurikulum yang Lebih Fleksibel**: Pahami berbagai perubahan dalam sistem pembelajaran, metode ujian, serta integrasi teknologi dalam pendidikan.
 
 ## 📸 Gambar Pengumuman
-![Bincang Episode 82 - FST UT Kupas Tuntas Kurikulum Baru 2025](./2025-05-19-bincang-fst-ut-kurikulum-baru-2025/poster.jpg)
+![Bincang Episode 82 - FST UT Kupas Tuntas Kurikulum Baru 2025](./2025-05-19-bincang-fst-ut-kurikulum-baru-2025/poster.png)
 
 ---
 
