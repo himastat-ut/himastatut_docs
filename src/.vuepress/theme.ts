@@ -253,7 +253,6 @@ export default hopeTheme({
         "BiliBili",
         "CodePen",
         "StackBlitz",
-        "XiGua",
       ],
       componentOptions: {
         share: {
