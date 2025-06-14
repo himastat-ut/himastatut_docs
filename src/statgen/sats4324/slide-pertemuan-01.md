@@ -5,7 +5,7 @@ icon: chart-line
 category: 
   - STATGEN
   - Inferensi Bayesian
-layout: SlidePage
+layout: Slides
 author:
   - name: "Firmansyah Mukti Wijaya"
     email: "ikimukti@gmail.com"

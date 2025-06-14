@@ -10,7 +10,7 @@ tags:
   - HIMASTAT
   - Documentation
   - VuePress
-layout: SlidePage
+layout: Slides
 author:
   - name: "Firmansyah Mukti Wijaya"
     email: "ikimukti@gmail.com"

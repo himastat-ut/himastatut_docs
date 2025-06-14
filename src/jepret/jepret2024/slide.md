@@ -6,7 +6,7 @@ category:
   - Jepret
 tags:
   - HIMASTAT
-layout: SlidePage
+layout: Slides
 author:
   - name: "Firmansyah Mukti Wijaya"
     email: "ikimukti@gmail.com"
