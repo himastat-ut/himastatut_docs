@@ -198,16 +198,16 @@ export default hopeTheme({
       maxSuggestions: 10,
       isSearchable: (page) => page.path !== '/',
       getExtraFields: (page) => [
-        page.frontmatter.tags ?? [],
-        page.frontmatter.description ?? [],
-        page.frontmatter.head ?? [],
-        page.frontmatter.lang ?? [],
-        page.frontmatter.layout ?? [],
-        page.frontmatter.title ?? [],
-        page.frontmatter.date ?? [],
-        page.frontmatter.permalink ?? [],
-        page.frontmatter.permalinkPattern ?? [],
-      ].flat(),
+        ...(Array.isArray(page.frontmatter.tags) ? page.frontmatter.tags : [page.frontmatter.tags]).filter((v) => typeof v === "string"),
+        ...(page.frontmatter.description ? [String(page.frontmatter.description)] : []),
+        ...(Array.isArray(page.frontmatter.head) ? page.frontmatter.head.flat().filter((v) => typeof v === "string") : []),
+        ...(page.frontmatter.lang ? [String(page.frontmatter.lang)] : []),
+        ...(page.frontmatter.layout ? [String(page.frontmatter.layout)] : []),
+        ...(page.frontmatter.title ? [String(page.frontmatter.title)] : []),
+        ...(page.frontmatter.date ? [String(page.frontmatter.date)] : []),
+        ...(page.frontmatter.permalink ? [String(page.frontmatter.permalink)] : []),
+        ...(page.frontmatter.permalinkPattern ? [String(page.frontmatter.permalinkPattern)] : []),
+      ],
     },
     // docsearch: {
     //   appId: 'VXX6JFCN73',
@@ -290,22 +290,22 @@ export default hopeTheme({
       prefix: "fa6-solid:",
     },
     // install @vuepress/plugin-pwa and uncomment these if you want a PWA
-    pwa: {
+    // pwa: {
     //   favicon: "/favicon.ico",
-      cacheHTML: true,
-      cacheImage: true,
-      appendBase: true,
-      update: "available",
-      serviceWorker: true,
-      updatePopup: true,
-      apple: {
-        icon: "logo-tiny.webp",
-        statusBarColor: "black",
-      },
-      msTile: {
-        image: "logo-tiny.webp",
-        color: "#ffffff",
-      },
+      // cacheHTML: true,
+      // cacheImage: true,
+      // appendBase: true,
+      // update: "available",
+      // serviceWorker: true,
+      // updatePopup: true,
+      // apple: {
+      //   icon: "logo-tiny.webp",
+      //   statusBarColor: "black",
+      // },
+      // msTile: {
+      //   image: "logo-tiny.webp",
+      //   color: "#ffffff",
+      // },
     //   manifest: {
     //     icons: [
     //       {
@@ -349,4 +349,4 @@ export default hopeTheme({
     //   },
     },
   },
-});
+);

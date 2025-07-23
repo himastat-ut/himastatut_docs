@@ -1,6 +1,9 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 import { openGraphPlugin } from 'vuepress-plugin-open-graph'
+import { pwaPlugin } from '@vuepress/plugin-pwa'
+import { pwaPopupPlugin } from '@vuepress/plugin-pwa-popup'
+
 
 export default defineUserConfig({
   base: "/",
@@ -15,20 +18,24 @@ export default defineUserConfig({
     ['meta', { name: 'naver-site-verification', content: '' }],
     ['meta', { name: 'p:domain_verify', content: 'd6e8397f9d89b87750a2ce95163d6b12' }],
     ['meta', { name: 'google-adsense-account', content: 'ca-pub-6054605202730914' }],
-    ['link', { rel: 'icon', href: '/assets/image/logo-tiny.webp' }]
-    ['script', { async: true, src: 'https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js', 'custom-element': 'amp-auto-ads' }],
+    ['link', { rel: 'icon', href: '/assets/image/logo-tiny.webp' }],
+    ['script', { async: true, src: 'https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js', customElement: 'amp-auto-ads' }],
     ['link', { rel: 'preconnect', href: 'https://cdn.jsdelivr.net', crossorigin: '' }],
   ],
   theme,
-  enhance({ app, router, siteData }) {},
-  setup() {},
   shouldPrefetch: false,
-  rootComponents: [],
   plugins: [
     openGraphPlugin({
+      host: 'https://himastatut.my.id',
+    }),
+    pwaPlugin({}),
+    pwaPopupPlugin({
+      locales: {
+        '/': {
+          message: 'Konten baru tersedia.',
+          buttonText: 'Muat Ulang',
+        },
+      },
     }),
   ],
-
-  // Enable it with pwa
-  // shouldPrefetch: false,
 });
