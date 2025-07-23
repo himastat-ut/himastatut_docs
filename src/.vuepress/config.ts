@@ -17,6 +17,7 @@ export default defineUserConfig({
     ['meta', { name: 'google-adsense-account', content: 'ca-pub-6054605202730914' }],
     ['link', { rel: 'icon', href: '/assets/image/logo-tiny.webp' }]
     ['script', { async: true, src: 'https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js', 'custom-element': 'amp-auto-ads' }],
+    ['link', { rel: 'preconnect', href: 'https://cdn.jsdelivr.net', crossorigin: '' }],
   ],
   theme,
   enhance({ app, router, siteData }) {},

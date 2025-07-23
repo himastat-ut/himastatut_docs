@@ -16,6 +16,15 @@
   display: block;
 }
 
+.vp-hero-image {
+  // Aspek rasio gambar (berdasarkan laporan Lighthouse, ukurannya ~223x224, jadi 1/1)
+  aspect-ratio: 1 / 1;
+  // Anda bisa juga menetapkan lebar maksimum agar tidak terlalu besar di layar lebar
+  max-width: 224px;
+  width: 100%; // Agar tetap responsif
+  height: auto; // Tinggi akan otomatis menyesuaikan
+}
+
 .nav-screen-links {
   display: block;
 }
