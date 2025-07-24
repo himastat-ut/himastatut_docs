@@ -291,8 +291,38 @@ export default hopeTheme({
     },
     // install @vuepress/plugin-pwa and uncomment these if you want a PWA
     pwa: {
-        // tambahkan ikon lain jika perlu
-        // icons: [ ... ]
+        serviceWorker: true,
+        manifest: {
+          name: "Himastatut Docs",
+          short_name: "Himastatut Docs",
+          description: "Dokumentasi Kegiatan Himpunan Mahasiswa Statistika",
+          theme_color: "#46bd87",
+          background_color: "#ffffff",
+          icons: [
+            {
+              src: "/assets/image/logo-tiny.webp",
+              sizes: "512x512",
+              purpose: "maskable",
+              type: "image/webp",
+            },
+            {
+              src: "/assets/image/logo-tiny.webp",
+              sizes: "192x192",
+              purpose: "maskable",
+              type: "image/webp",
+            },
+            {
+              src: "/assets/image/logo-tiny.webp",
+              sizes: "512x512",
+              type: "image/webp",
+            },
+            {
+              src: "/assets/image/logo-tiny.webp",
+              sizes: "192x192",
+              type: "image/webp",
+            },
+          ],
+        },
       },
     // pwa: {
     //   favicon: "/favicon.ico",

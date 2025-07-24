@@ -3,7 +3,8 @@ import theme from "./theme.js";
 import { openGraphPlugin } from 'vuepress-plugin-open-graph'
 import { pwaPlugin } from '@vuepress/plugin-pwa'
 import { pwaPopupPlugin } from '@vuepress/plugin-pwa-popup'
-
+import { webpackBundler } from '@vuepress/bundler-webpack'
+import { BundleAnalyzerPlugin } from 'webpack-bundle-analyzer'
 
 export default defineUserConfig({
   base: "/",
@@ -18,7 +19,10 @@ export default defineUserConfig({
     ['meta', { name: 'naver-site-verification', content: '' }],
     ['meta', { name: 'p:domain_verify', content: 'd6e8397f9d89b87750a2ce95163d6b12' }],
     ['meta', { name: 'google-adsense-account', content: 'ca-pub-6054605202730914' }],
-    ['link', { rel: 'icon', href: '/assets/image/logo-tiny.webp' }],
+    ['link', { rel: 'icon', href: '/assets/image/logo-tiny.webp', type: 'image/webp' }],
+    ['link', { rel: 'apple-touch-icon', href: '/assets/image/logo-tiny.webp', type: 'image/webp' }],
+    ['link', { rel: 'preload', href: '/assets/image/bg/bg6-light.webp', as: 'image', type: 'image/webp', fetchPriority: 'high' }],
+    ['link', { rel: 'preload', href: '/assets/image/bg/bg6-dark.webp', as: 'image', type: 'image/webp', fetchPriority: 'high' }],
     ['script', { async: true, src: 'https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js', customElement: 'amp-auto-ads' }],
     ['link', { rel: 'preconnect', href: 'https://cdn.jsdelivr.net', crossorigin: '' }],
   ],
@@ -36,6 +40,15 @@ export default defineUserConfig({
           buttonText: 'Muat Ulang',
         },
       },
+    }),
+    webpackBundler({
+      plugins: [
+        new BundleAnalyzerPlugin({
+          analyzerMode: 'static',
+          reportFilename: 'bundle-report.html',
+          openAnalyzer: false,
+        }),
+      ],
     }),
   ],
 });
