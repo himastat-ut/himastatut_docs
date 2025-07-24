@@ -83,3 +83,7 @@ Kami menantikan kehadiran Anda di seminar ini! 🌍
 [^3]: "About SEMNASTEK 2025," Universitas Terbuka, [Online]. Tersedia: [hhttps://jurnal.ut.ac.id/index.php/saintek](hhttps://jurnal.ut.ac.id/index.php/saintek). [Diakses: Apr. 30, 2025].
 [^4]: "SEMNASTEK 2025 - Website," Fakultas Teknologi Universitas Terbuka, [Online]. Tersedia: [https://fst.ut.ac.id/saintek/](https://fst.ut.ac.id/saintek/). [Diakses: Apr. 30, 2025].
 
+## Bagikan
+<Share colorful />
+<GitContributors />
+<GitChangelog />
