@@ -28,7 +28,7 @@ export default defineUserConfig({
     openGraphPlugin({
       host: 'https://himastatut.my.id',
     }),
-    pwaPlugin({}),
+    // pwaPlugin({}),
     pwaPopupPlugin({
       locales: {
         '/': {
