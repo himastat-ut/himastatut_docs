@@ -1,23 +1,82 @@
 {
-  "name": "himastatut_docs",
-  "description": "himastatut_docs",
-  "author": "himastatut",
-  "homepage": "https://github.com/himastat-ut/himastatut_docs",
+  "name": "himastatut-docs",
+  "description": "Dokumentasi dan pusat informasi resmi Himpunan Mahasiswa Statistika Universitas Terbuka (HIMASTAT-UT). Temukan panduan, materi, dan informasi kegiatan di sini.",
+  "author": {
+    "name": "HIMSTAT-UT",
+    "url": "https://github.com/himastat-ut"
+  },
+  "homepage": "https://himastat.ut.ac.id/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/himastat-ut/himastatut_docs.git",
-    "directory": "himastatut_docs"
+    "url": "git+https://github.com/himastat-ut/himastatut_docs.git"
   },
+  "bugs": {
+    "url": "https://github.com/himastat-ut/himastatut_docs/issues"
+  },
+  "funding": [
+    {
+      "type": "Patreon",
+      "url": "https://www.patreon.com/himastatut"
+    },
+    {
+      "type": "Open Collective",
+      "url": "https://opencollective.com/himastatut"
+    },
+    {
+      "type": "Ko-fi",
+      "url": "https://ko-fi.com/himastatut"
+    },
+    {
+      "type": "Liberapay",
+      "url": "https://liberapay.com/himastatut"
+    },
+    {
+      "type": "IssueHunt",
+      "url": "https://issuehunt.io/r/himastat-ut"
+    },
+    {
+      "type": "Buy Me a Coffee",
+      "url": "https://buymeacoffee.com/himastatut"
+    },
+    {
+      "type": "Thanks.dev",
+      "url": "https://thanks.dev/gh/himastatut-admin"
+    }
+  ],
   "keywords": [
     "himastatut",
-    "himastatut_docs",
-    "himastatut-docs",
-    "himastatut-docs-vuepress",
-    "himastatut-docs-vuepress-theme-hope"
+    "statistika",
+    "universitas terbuka",
+    "himpunan mahasiswa",
+    "himpunan mahasiswa statistika",
+    "himpunan mahasiswa statistika universitas terbuka",
+    "materi statistika",
+    "panduan kuliah",
+    "dokumentasi",
+    "vuepress",
+    "himastat-ut",
+    "statgen"
   ],
-  "version": "1.2.5.25",
+  "version": "1.2.7.25",
   "license": "MIT",
+  "private": true,
   "type": "module",
+  "browserslist": [
+    "> 0.5%",
+    "last 2 versions",
+    "Firefox ESR",
+    "not dead"
+  ],
+  "contributors": [
+    {
+      "name": "HIMASTAT-UT",
+      "email": "himastatut@gmail.com"
+    },
+    {
+      "name": "Firmansyah Mukti Wijaya",
+      "email": "iki.mukti@gmail.com"
+    }
+  ],
   "scripts": {
     "docs:build": "vuepress-vite build src",
     "docs:clean-dev": "vuepress-vite dev src --clean-cache",
