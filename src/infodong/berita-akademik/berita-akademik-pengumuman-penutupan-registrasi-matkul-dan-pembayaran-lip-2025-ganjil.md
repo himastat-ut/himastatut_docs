@@ -1,7 +1,7 @@
 ---
 title: "Pengumuman Penutupan Registrasi & Pembayaran UT Semester Ganjil 2025"
 date: 2025-08-01
-icon: "fa-solid:triangle-exclamation"
+icon: "fa-solid:bullhorn"
 image: "./pengumuman-penutupan-registrasi-matkul-dan-pembayaran-lip-2025-ganjil/poster.png"
 description: "Pengumuman penting bagi mahasiswa UT: Batas akhir registrasi mata kuliah hingga 8 Agustus 2025 dan pembayaran hingga 10 Agustus 2025. Tidak ada perpanjangan!"
 tags:
