@@ -1,5 +1,68 @@
 @use "sass:map";
 
+/*
+ * Custom Container untuk Testimoni atau Kotak Info (Tip)
+ * Didesain agar bersih, modern, dan mendukung dark mode.
+ */
+
+/* Kontainer utama */
+.custom-container-tip {
+  /* Jarak di dalam kontainer */
+  padding: 20px 24px;
+  /* Jarak di luar kontainer (atas & bawah) */
+  margin: 32px 0;
+  /* Sudut yang membulat */
+  border-radius: 8px;
+  /* Garis tebal di sebelah kiri sebagai penanda visual */
+  border-left: 5px solid #42b983; /* Warna hijau khas Vue/VuePress */
+  /* Warna latar belakang untuk mode terang */
+  background-color: #f0fdf4;
+  /* Transisi untuk perubahan warna saat beralih mode */
+  transition: background-color 0.3s ease;
+}
+
+/* Judul di dalam kontainer */
+.custom-container-tip .custom-container-title {
+  /* Membuat teks tebal */
+  font-weight: 600;
+  /* Jarak antara judul dan teks di bawahnya */
+  margin-bottom: 12px;
+  /* Warna teks judul, sama dengan warna border kiri */
+  color: #42b983;
+}
+
+/* Pengaturan paragraf di dalam kontainer */
+.custom-container-tip p {
+  /* Menghilangkan margin bawaan paragraf agar tidak ada jarak aneh */
+  margin: 0;
+  /* Warna teks untuk mode terang */
+  color: #2c3e50;
+  /* Ketinggian baris untuk kenyamanan membaca */
+  line-height: 1.7;
+}
+
+
+/*
+ * Dukungan untuk Mode Gelap (Dark Mode)
+ * CSS ini akan aktif jika pengguna menggunakan tema gelap di perangkatnya.
+ */
+:is(html.dark) .custom-container-tip {
+  /* Mengubah warna border kiri agar tetap terlihat di mode gelap */
+  border-left-color: #42d392;
+  /* Mengubah warna latar belakang menjadi lebih gelap */
+  background-color: rgba(66, 185, 131, 0.15);
+}
+
+:is(html.dark) .custom-container-tip .custom-container-title {
+  /* Mengubah warna judul agar lebih cerah */
+  color: #42d392;
+}
+
+:is(html.dark) .custom-container-tip p {
+  /* Mengubah warna teks paragraf menjadi lebih terang */
+  color: rgba(255, 255, 255, 0.85);
+}
+
 .vp-toggle-navbar-button {
   display: block;
 }
