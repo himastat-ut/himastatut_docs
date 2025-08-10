@@ -99,6 +99,21 @@ export default defineUserConfig({
     ['meta', { property: 'og:locale', content: 'id_ID' }],
     ['meta', { name: 'robots', content: 'index, follow' }],
     ['script', { type: 'application/ld+json' }, structuredData],
+    ['script', { async: true, src: 'https://news.google.com/swg/js/v1/swg-basic.js' , type: 'application/javascript' }],
+    [
+      'script',
+      {},
+      `
+        (self.SWG_BASIC = self.SWG_BASIC || []).push( basicSubscriptions => {
+          basicSubscriptions.init({
+            type: "NewsArticle",
+            isPartOfType: ["Product"],
+            isPartOfProductId: "CAowkMq9DA:openaccess",
+            clientOptions: { theme: "light", lang: "id" },
+          });
+        });
+      `
+    ],
   ],
   theme,
   shouldPrefetch: false,
