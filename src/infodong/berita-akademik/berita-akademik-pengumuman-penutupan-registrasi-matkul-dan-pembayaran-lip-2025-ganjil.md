@@ -32,7 +32,7 @@ author:
 
 Halo, Mahasiswa UT Program Diploma dan Sarjana!
 
-Ini adalah pengumuman penting mengenai batas akhir registrasi mata kuliah dan pembayaran uang kuliah untuk **Semester Ganjil 2025 (Masa Registrasi 2025.1)**. Pengumuman ini secara khusus ditujukan bagi mahasiswa yang terdaftar dalam **Kurikulum Baru**.
+Ini adalah pengumuman penting mengenai batas akhir registrasi mata kuliah dan pembayaran uang kuliah untuk **Semester Ganjil 2025 (Masa Registrasi 2025.1)**. Pengumuman ini secara khusus ditujukan bagi mahasiswa yang terdaftar dalam **Kurikulum Baru**. [^1] [^2] [^3] [^4]
 
 ![Pengumuman Penutupan Registrasi Mata Kuliah UT](./pengumuman-penutupan-registrasi-matkul-dan-pembayaran-lip-2025-ganjil/poster.png)
 

@@ -1,4 +1,4 @@
-module.exports = (options, app) => {
+export default (options, app) => {
   return {
     name: 'google-tag-manager-noscript',
     clientConfigFile: (app) => ({
